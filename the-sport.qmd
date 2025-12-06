@@ -1,18 +1,14 @@
-# The Broader View
+# The Merits of Ski Jumping
 
-## Athletic and Mental Merits
+## Physical + Mental
 
-What about the broader view of the sport? Even though the popularity of ski jumping in the U.S. has waned over recent decades, its merits are still compelling. This centuries old pastime fulfills the pursuit of a high intensity, anaerobic athletic challenge. In short, ski jumping demands unique physical prowess and mental fortitude. Yet, both a novice and an international champion can safely enjoy the thrills it offers. By these means of classification, ski jumping is a top tier sport.
+What about the broader view of the sport? Even though the popularity of ski jumping in the U.S. has waned over recent decades, its merits are still compelling. This centuries old pastime fulfills the pursuit of an intense, high speed, anaerobic athletic challenge. In short, ski jumping demands unique physical prowess and mental fortitude. Yet, both a novice and an international champion can safely enjoy the thrills it offers. By these criteria, ski jumping is a top tier sport.
 
-The thrill of ski jumping is multi-faceted. A ski jumper has to embrace straightaway speed down the inrun ramp, fearless commitment at take-off, unpredictable 'hang gliding-like' lift, and near weightlessness before a feather soft landing. If the ski jumping 'pilot' masters all the subtleties of efficient air flight in fluctuating winds and evolving snow conditions, he will soar down the hill. Well, that's the goalposts.
+An aggregate of talents must be applied throughout the duration of what's called a ski jump that is much more than a jump, but has a prelude (inrun ramp), beginning (take-off), middle (flight), ending (landing) and postlude (transition to outrun). All of these jump segments must be mastered by an aggressive, but disciplined mindset that does not lose poise nor surrender to doubt, fear, or failure.
 
-Sure, if one can afford it, weightlessness can be simulated in 20 seconds of a parabolic airplane flight, just like astronauts practice. But, the lift and duration of a ski jumper's flight (2 – 8 seconds depending on the length of the ski jumper's flight), amidst variable conditions, is directly influenced by the athlete's skill. In a parabolic airplane flight, the conditions are created by the pilot while participant's influence on the result is minimized.
+The excitement of ski jumping comes in multiple stages. Ski jumpers may be viewed as fear defying adrenaline junkies that have downhill skier instincts, embracing straightaway speed down the inrun ramp. Then, he must have a fearless commitment to make a gymnastic-like, cat quick leap precisely timed at take-off. Once in the air, he manages nearly weightless 'hang gliding-like' lift with subliminal neuromuscular coordination quickly adjusting to unpredictable air currents, before negotiating a feather soft landing. If the ski jumping 'pilot' masters all the subtleties of each ride stage, he will soar down the hill. Well, that's the goalposts.
 
-Progress has been made, but the athleticism and biomechanics of an elite ski jumper defies full description. A powerful cat quick leap must be timed precisely, followed by transition into an aerodynamically efficient flight position that continuously and quickly adjusts to a sometimes cold, blustery, unpredictable environment. Ski jumpers may be viewed as fear defying adrenaline junkies that have downhill skier instincts, gymnastic agility at speeds up to 65 mph, and subliminal genius for neuromuscular coordination when handling air currents.
-
-That aggregate of talents must be applied throughout the duration of what's called a ski jump that is much more than a jump, but has a prelude (inrun ramp), beginning (take-off), middle (flight), ending (landing) and postlude (transition to outrun). All of these jump segments must be mastered by an aggressive, but disciplined mindset that does not lose poise nor surrender to doubt, fear, or failure.
-
-## Camaraderie
+Sure, if one can afford it, weightlessness can be simulated in 20 seconds of a parabolic airplane flight, just like astronauts practice. But the impression of speed is zilch. The lift and duration of a ski jumper's flight (2 – 8 seconds depending on the length of the ski jumper's flight), amidst variable conditions, is directly influenced by the athlete's skill. In a parabolic airplane flight, the conditions are created by the pilot while participant's influence on the result is minimized.
 
 Sports that transcend the sole individual during competition are extra special. Successful team athletes allude to the joy of camaraderie while "climbing the mountain" together, celebrating, trusting, and picking up each other along the way. Sports that are more individually oriented, such as swimming, golf, or ski jumping, can also provide a similar level of fulfillment within a healthy club or team setting. In special circumstances, it is also evident across a community of competitors. Such was my experience with ski jumping.
 
@@ -24,17 +20,25 @@ What does the USA Nordic organization, an organization with a vested interest in
 
 > "Ski jumping is a safe non-contact sport. Ski jumpers develop their jumping skills at their own pace. Each jumper starts out on the smallest hill with alpine skis, and progresses to the next larger hill when ready. Each skier progresses at a pace right for them with safety as the primary objective and with the input of experienced coaches who understand the importance of foundational skills necessary to keep jumping safe."
 
+Within the overall sport of skiing, 2006 - 2008 FIS data concluded that injuries causing lost time for training or competitions on a per athlete basis was 15% - 35% less for ski jumping than that of alpine skiers and snowboarders.
+
 A 2012 Consumer Product Safety Commission study revealed that for children ages 5 to 14 injuries for all types of skiing occurred at a rate of 2 per 100,000 participants. Yeah, two. All of the more common sports or activities (most of them involving some form of contact), such as football, basketball, hockey, baseball, soccer, and playground ranged from 51 (hockey) to 584 (football) injuries per 100,000 participants.
 
-Within the overall sport of skiing, 2006 - 2008 International Ski Federation (FIS) data concluded that injuries causing lost time for training or competitions on a per athlete basis was 15% - 35% less for ski jumping than that of alpine skiers and snowboarders.
+In studies of Winter Olympic injuries, less than 5% of ski jumpers incurred injuries, which is equivalent to curling! For all sports, 11% of participants were injured, with snowboard cross, freestyle skiing, bobsled, ice hockey, and short track being much higher than the average.
 
-## Olympic Injury Data
+![Winter Olympic Injury Rates, By Sport](resources/images/book/image23.png){fig-align="center" width="90%"}
 
-In a more comprehensive study, the British Journal of Sports Medicine reviewed the frequency of injuries for the 2914 athletes from 92 countries participating in the 2018 Winter Olympics at PyeongChang, South Korea. Data was compiled for percentage of athletes losing time for training or competition to injury.
+In a subsequent study of injury frequency for the 2914 athletes from 92 countries participating in the 2018 Winter Olympics at PyeongChang, South Korea, data was compiled for percentage of athletes losing time for training or competition to injury. The data was broken into three segments:
 
-All injuries that prevented training or competing impacted less than 7% of the ski jumping participants. That's equivalent to curling! Meanwhile, half pipe skiing, snowboard cross and ski cross, snowboard slopestyle, and aerials led the injury parade at 4X – 5X that frequency. Moreover, a majority of injuries in those sports resulted in longer downtimes. Amongst the intermediate to high range for injuries were alpine skiing, bobsled, ice hockey, speed skating, and luge. Figure skating, cross country skiing, and freestyle mogul skiing occupied the low end of injury scale. Trailing the entire pack with the least amount (<1%) of injuries are those gun toting biathlon folks (thankfully) and nordic combined (which includes ski jumping as part of their regimen).
+- Any injury that forced some lost time
+- Injuries that forced time loss of greater than one day
+- Injuries that forced time loss greater than one week
 
-If such data is surprising, further inspection should prove it to be intuitive. The impressive aerial skills of halfpipe skiers executing multiple twists, turns, and inversions followed by a mostly vertical descent and (hopefully) an upright landing onto an uneven hard snow terrain makes even superior athletes susceptible to injury.
+All injuries that prevented training or competing impacted less than 7% of athletes. Meanwhile, half pipe skiing, snowboard cross and ski cross, snowboard slopestyle, and aerials led the injury parade at 4X – 5X that frequency. A majority of injuries in those sports resulted in longer downtimes. Amongst the intermediate to high range for injuries were alpine skiing, bobsled, ice hockey, speed skating, and luge. Figure skating, cross country skiing, and freestyle mogul skiing occupied the low end of injury scale. Trailing the entire pack with the least amount (<1%) of injuries are those gun toting biathlon folks (thankfully) and nordic combined (which includes ski jumping as part of their regimen).
+
+![Percentage of Athletes Losing Time to Injury in 2018 Olympic Winter Games](resources/images/book/image24.png){fig-align="center" width="90%"}
+
+If such data is initially surprising, further inspection should make it intuitive. The impressive aerial skills of halfpipe skiers executing multiple twists, turns, and inversions followed by a mostly vertical descent and (hopefully) an upright landing onto an uneven hard snow terrain makes even superior athletes susceptible to injury.
 
 Another relatively new sport, ski cross (formally organized in 1986 and adopted as an Olympic sport in 2010), has four competitors simultaneously racing side by side down a course full of bumps and turns. Their objective is to survive a progression of exciting, but aptly named, knockout rounds to win a championship. The likelihood of contact or injury inducing falls are supported by the data. Without being too poetic, contrast that with a single, well trained ski jumper soaring majestically through the air and touching down gently on an expertly profiled and smoothly groomed landing hill.
 
@@ -46,15 +50,23 @@ A ski jumper of any skill level falling in the inrun is as rare as Halley's Come
 
 There is a combination of natural and trainable skills to reduce the possibility and/or severity of injury when a ski jumping fall occurs. Once it is obvious that a normal flight and landing is unrecoverable, the seriousness of the fall can usually be mitigated by piloting to a flat lying position and adhering to the hill surface as quickly as possible.
 
-On the few times that I fell (1 - 3 times per season), they were almost all uneventful. I was fortunate and never held a yard sale, nor did I personally witness a fall by any other jumper that required immediate medical attention. But, as I tease others when alpine skiing or playing euchre, if you aren't occasionally falling or failing, you aren't really pushing the boundaries and learning. 'Going to the edge' certainly applies to achieving winning times in alpine downhill skiing, but to a lesser degree in the discipline of ski jumping.
+On the few times that I fell (usually 1 - 3 times per season), they were nearly all uneventful. I was fortunate to never hold a yard sale, nor did I personally witness a fall by another jumper that required immediate medical attention. But, as I tease others when alpine skiing or playing euchre, if you aren't occasionally falling or failing, you aren't really pushing the boundaries and learning. 'Going to the edge' certainly applies to achieving winning times in alpine downhill skiing, but to a lesser degree in the discipline of ski jumping.
 
 ::: {.dictionary}
 **Yard sale** – slang for an epic, violent wipeout where a skier's equipment (skis, gloves, goggles, helmet, etc..) is scattered all over the landing hill.
 :::
 
+The natural public fascination with hill size feeds the perception that ski jumping is a hazardous spectacle, competing for an occasional spotlight with the obscure and the extreme. Progressive in one sense, the bygone ABC's Wide World of Sports gave unprecedented attention to humans tempting fate with gravity by motorcycle jumping, high wire acts, or tower diving by men or donkey, but ski jumping didn't deserve to be lumped with those daredevil shows.
+
+Make no mistake, at the largest (ski flying) hill class, the risk does increase without extensive training and established hill safety protocol. The attention to subtle wind and hill conditions on the big hills has grown more sophisticated over the years. Extra diligence is given to qualifying a ski jumper to ski fly, based on his or her track record and awareness of his mental make-up.
+
+But, with a little internet searching, one can find Go-Pro videos of the usual, safe, and successful ski jumping ride. With a camera attached to a ski jumper's helmet, the videos do not do justice to the entire ski jumping experience, of course. They do provide a decent introduction to sight lines of a jumper, and a good impression as to how steady a ski jumper's flight (usually) is.
+
+To cap the safety discussion, the age old quote "Most people use statistics like a drunk man uses a lamppost, more for support than illumination" often applies to studies of ski jump fatalities. Statistics on ski jumping fatalities must be viewed with discernment, since the numbers are often grossly inflated by lumping the actual ski jumping sport with failed extreme skier stunts such as attempting to fly over a large crevasse or public highway.
+
 ## Historical Relevance
 
-In the deep snow of the prehistoric world, transportation and hunting was facilitated by strapping sticks of wood to one's feet. Archaeological finds near today's border of Russia and Finland indicate that skis were used at least as early as 6000 BC. In those millenniums, leaping into the air with skis was probably inconceivable unless trying to scale a crevasse while chased by a saber tooth tiger.
+In the deep snow of the prehistoric world, transportation and hunting was aided by strapping sticks of wood to one's feet. Archaeological finds near today's border of Russia and Finland indicate that skis were used at least as early as 6000 BC. In those millenniums, leaping into the air with skis was probably inconceivable unless trying to scale a crevasse while being chased by a saber tooth tiger.
 
 Ski jumping as a recognized pastime originated more than 200 years ago, with Norway attributed as the birthplace, but it hasn't been a curiosity isolated to Scandinavia. During the late 19th and early 20th century, northern Europeans streamed into the U.S. to work the mines, forests, and farmlands and brought their culture with them, which included their favorite sport of skiing, and in particular, ski jumping. There was a natural affinity for it, encouraged by a sense of family legacy. Perhaps fondness for a sport associated with bravado was to be expected in an era where everyday adult life was otherwise dominated by monotonous, exhausting, and yet hazardous nature of being a miner, logger, farmer, or housewife.
 
@@ -62,15 +74,62 @@ Whereas the first recorded ski jump (31 feet) is commonly credited to Norwegian 
 
 In the first 75 years of the 20th century, many American kids were playing baseball nearly every summer day on the streets or farm fields. In the winter, in any hilly neighborhood of the Northeast, upper Midwest, or Rocky Mountains blessed with snow, countless ski jumps (or bumps) of all sizes would appear.
 
-## Ski Jumping Worldwide
+## The Worldwide Scope
 
-The worldwide enthusiasm and cultural impact of ski jumping is evidenced by the sheer number of ski jumps that existed over the past century. As of November 2025, over 9000 ski jumps and 7000 ski jumping facilities have been catalogued by the massive and still growing Ski Jumping Hill Archive. It is undoubtedly neither complete nor will it ever include the countless smaller 'backyard bumps' that many communities used to have.
+The worldwide enthusiasm and cultural impact of ski jumping is evidenced by the sheer number of ski jumps that existed over the past century. As of November 2025, over 9000 ski jumps and 7000 ski jumping facilities in 48 countries have been catalogued by the massive and still growing Ski Jumping Hill Archive.
 
-From an historical account, over 9000 ski jumps and 5154 ski jumping facilities in 48 countries have been identified. The discrepancy in numbers is explained by the process of identifying ski jumps and/or facilities naturally occurs before the details are developed and entered into the archive.
+| Category | Total | With Matting |
+|----------|------:|-------------:|
+| Active | 1,588 | 1,013 |
+| Under Construction | 26 | 14 |
+| Project Defined | 9 | 9 |
+| Project Not Realized | 105 | 57 |
+| Out of Order | 935 | 104 |
+| Destroyed | 6,274 | 483 |
+| **Grand Total** | **8,937** | **1,680** |
 
-As a subset of this database, and an indication of ski jumping's continuing popularity, today there are still nearly 1600 active ski jumps worldwide. The historical popularity of ski jumping is also evident by the count of jumps either 'out of order' or 'destroyed' over the years. There are handfuls of ski jumps now under construction and more on the drawing board, pending adequate resources to proceed. Artificial surfacing has now been applied to nearly two thirds of them (1013), thus expanding the ski jumping season even when or where there is no snow.
+: Ski Jumps Worldwide {.striped}
 
-On a country-by-country basis, a dozen countries have had more than 100 different ski jumping facilities, with Norway leading by far, Germany a distant second, and the U.S. in third. European and western Asian countries are also prominent. However, the extent of ski jumping diaspora is exponentially greater when noting not only Australia and New Zealand on the list, but Algeria, Chile, Lebanon, and Morocco! Wow.
+::: {.notice}
+Note: The discrepancy in the total numbers reported in the text and those in the table are explained by the process of identifying ski jumps and/or facilities before the details are developed and entered into the archive.
+:::
 
-Regarding the 300+ U.S. ski jumping facilities, they existed across 28 states, with Wisconsin, Minnesota, and Michigan having the highest count. In Michigan alone, 31 facilities were built over the years and nearly half of them were located in the Lower Peninsula, including the southerly cities of Brighton, Grand Rapids, Fenton, Oxford, and Detroit!
+As a subset of this database, and an indication of ski jumping's continuing popularity, today there are still nearly 1600 active ski jumps worldwide. The historical popularity of ski jumping is also evident by the count of jumps either 'out of order' or 'destroyed' over the years. There are handfuls of ski jumps now under construction and more on the drawing board, pending adequate resources to proceed. Artificial surfacing (matting) has now been applied to nearly two thirds of them (1013), thus expanding the ski jumping season to whenever or wherever there is no snow.
 
+On a country-by-country basis, a dozen countries have had more than 100 different ski jumping facilities, with Norway leading by far, Germany a distant second, and the U.S. in third. European and western Asian countries are also prominent. However, the extent of ski jumping diaspora is exponentially greater when noting not only Australia and New Zealand on the list, but Algeria, Chile, Lebanon, and Morocco?! Wow!
+
+| Country | Code | Facilities |
+|---------|:----:|----------:|
+| Norway | NOR | 2,847 |
+| Germany | GER | 723 |
+| United States | USA | 579 |
+| Finland | FIN | 395 |
+| Czech Republic | CZE | 250 |
+| Austria | AUT | 231 |
+| Poland | POL | 200 |
+| Switzerland | SUI | 188 |
+| Sweden | SWE | 183 |
+| Russia | RUS | 174 |
+| Japan | JPN | 160 |
+| Italy | ITA | 129 |
+| France | FRA | 98 |
+| Canada | CAN | 75 |
+| Slovakia | SVK | 66 |
+
+: Top 15 Countries by Ski Jumping Facilities {.striped}
+
+## Evolution of Style
+
+The evolution of ski jumping technique and flight style over the past century has been remarkable. In the early 1900's, jumpers flew with arms windmilling for balance – a style that would be considered comical today. The Kongsberger technique, developed in Norway in the 1920's, introduced a more controlled forward lean with arms extended ahead.
+
+The Daescher style, named for Swiss jumper Andreas Däscher, dominated from the late 1950's through the 1980's. It featured parallel skis held close together, with arms positioned at the hips and a moderate forward lean. This was the style I learned and practiced throughout my jumping career.
+
+The V-style revolution began in 1985 when Swedish jumper Jan Boklöv discovered that spreading the ski tips into a V formation dramatically increased lift. Initially penalized by judges for unorthodox form, the technique proved so aerodynamically superior that it eventually became universal. Today, all competitive jumpers use variations of the V-style.
+
+![Evolution of Ski Jumping Flight Styles](resources/images/book/image25.png){fig-align="center" width="90%"}
+
+Equipment has evolved equally dramatically. The heavy hickory skis my father used have been replaced by lightweight carbon fiber composites. Binding systems allow precise adjustment of forward lean. Aerodynamic suits, carefully regulated to prevent unfair advantage, maximize lift while minimizing drag.
+
+Hill design has also advanced significantly. Computer modeling now optimizes every aspect of jump construction – from inrun curvature to landing hill profile. Artificial surfaces allow year-round training. Wind screens and sophisticated monitoring systems improve safety and consistency.
+
+These advances have pushed jumping distances to levels unimaginable in the 1970's. The current ski flying world record exceeds 250 meters (820 feet) – more than double what was achievable when I was competing.
