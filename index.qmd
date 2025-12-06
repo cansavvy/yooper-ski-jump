@@ -1,14 +1,31 @@
-# Quarto Based OTTR Course {.unnumbered}
+# {.unnumbered}
 
-This course is part of a series of courses for the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) called the Informatics Technology for Cancer Research Education Resource. This material was created by the ITCR Training Network (ITN)  which is a collaborative effort of researchers around the United States to support cancer informatics and data science training through resources, technology, and events. This initiative is funded by the following grant:  [National Cancer Institute (NCI)](https://www.cancer.gov/)  UE5 CA254170. Our courses feature tools developed by ITCR Investigators and make it easier for principal investigators, scientists, and analysts to integrate cancer informatics into their workflows. Please see our website at [www.itcrtraining.org](www.itcrtraining.org) for more information.
+![](resources/logo/big_logo.png){fig-align="center" width="80%"}
 
+A personal memoir chronicling the rich heritage of ski jumping in Michigan's Upper Peninsula, from family roots to competitive dreams.
 
-## Available Course Formats
+![Willie Savonen - Junior Jumper](resources/images/book/image1.jpeg){fig-align="center" width="60%"}
 
-This course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.
+## About This Book
 
-- The material for this course can be viewed without login requirement on this [website](https://www.ottrproject.org/). This format might be most appropriate for you if you rely on screen-reader technology.
-- This course can be taken for [free certification through Leanpub](https://leanpub.com/).
-- This course can be taken on [Coursera for certification here](https://www.coursera.org/) (but it is not available for free on Coursera).
-- Our courses are open source, you can find the [source material for this course on GitHub](https://github.com/ottrproject/OTTR_Quarto).
+This is a firsthand account of ski jumping in the Gogebic Range area of Michigan's Upper Peninsula during the 1970s and early 1980s. It weaves together personal experiences with the broader history of a sport that once captivated communities across the northern United States.
 
+From the small 30-meter Iron Bowl to the towering 90-meter hills at Pine Mountain and Westby, and the legendary ski flying facility at Copper Peak, this memoir captures the thrills, challenges, and camaraderie of competitive ski jumping.
+
+## What You'll Discover
+
+- **Family Legacy**: The Savonen family's deep roots in Upper Peninsula ski jumping, spanning generations
+- **Local Hills**: Stories from the Iron Bowl and Wolverine ski jumps in Ironwood, Michigan
+- **The Competitive Circuit**: Experiences on the Midwest tournament circuit from Wisconsin to Minnesota
+- **Big Hill Dreams**: Riding the 90-meter hills at Pine Mountain and Westby, and competing at the Junior Nationals
+- **The Sport's Future**: Reflections on preserving and growing ski jumping in America
+
+## About the Author
+
+**Craig Savonen** grew up in Ironwood, Michigan, where ski jumping was woven into the fabric of community life. Following in the footsteps of his father Willie, Craig competed as a junior ski jumper throughout the 1970s, qualifying for the 1979 Junior National Championships at Squaw Valley, California. He went on to pursue an engineering career while maintaining his passion for the sport that shaped his youth.
+
+**Technical editing and formatting by Candace Savonen.**
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the author.

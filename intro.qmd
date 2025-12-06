@@ -1,19 +1,105 @@
-
 # Introduction
 
+## Foreword
 
-## Motivation
+Ski jumping holds a special place in the hearts of Yoopers and European heritage alike. As sketched here, the experiences of a junior class ski jumper in the 1970's Ironwood, Michigan area should resonate with other ski jumpers, especially from that era. For those engaged in ski jumping after the 70's era, may it trigger an 'aha' moment.
 
+For my family, it provides an understanding and appreciation of our Dad (or Grampa or Great Grampa) whom they never really had the opportunity to get to know. Also, this account pays homage to the many that steadfastly and sacrificially supported this sport, especially during the 70's and 80's time period, led by those of the so-named 'The Greatest Generation', and their successors, the 'Silent Generation'.
 
-## Target Audience  
+In the latter pages of this article, a few personal viewpoints are expressed on the evolution and future of ski jumping. Retiring from ski jumping over four decades ago provides a 'Rip Van Winkle' moment to compare and contrast ski jumping between the 50 years difference from the 1970's to today. I also promote how this sport could be embraced on a wider scale. A few of the progressive U.S. ski jumping organizations that have adopted a promising, comprehensive model are mentioned.
 
-The course is intended for ...
+::: {.notice}
+This journal should not exhibit symptoms of the 'Lake Wobegone Effect'. What is the Lake Wobegone Effect? Stemming from Garrison Keillor's fictional small town of Lake Wobegone "where all children are above average", it is the narcissistic tendency to overestimate one's own accomplishments, despite what is found in documented history.
+:::
 
-## Curriculum  
+This article does not pretend to be a comprehensive review of the sport of ski jumping. To color in the long history of ski jumping in the upper Midwest and specifically, the Gogebic Range of Michigan's western Upper Peninsula, I'd point you to Charlie Supercynski's *Soaring With the Eagles* as an engaging and thorough account. Besides my personal detail and anecdotes, some observations expressed here are similar to what Charlie captured. Even though he and I traveled different paths, we independently arrived at many of the same perspectives.
 
-The course covers...
+## Sports Heroes
 
+Across the span of sports in which I have participated, ski jumping was by far the most fulfilling. In the late 1990's, nearly 20 years after my last jump, I would still dream (literally) about gliding through the air to the bottom of the jumping hill.
 
-```{r}
-devtools::session_info()
-```
+I find that a majority of sports minded youngsters initially adopt their favorite sport, team, and athlete(s) around the ages of 9 or 10. As a left-handed baseball player as a youth, it was natural for me to try to emulate Norm Cash and Mickey Lolich. Around 1972, I debated with a wayward thinking cousin who adamantly claimed that Denny McLain was better than Mickey. Of course, McClain was just coming off two monster Cy Young years (31 wins in 1968 and 24 wins in 1969), but after that he only won another 21 games until the end of his career, handicapped by arm injuries and self-induced controversies. Meanwhile, the rubber armed Mickey was the 1968 three-game winning World Series hero who sustained success deep into the 70's, thus settling that debate conclusively (in my mind, anyway). Yet, I digress.
+
+In ski jumping, Jerry Martin was the hero of the time. He was at the pinnacle of his achievements in the early to mid-70's. A personable and stylish jumper, Olympian in 1972 and 1976, and U.S. national ski jumping champion in 1971, 1973, and 1975, we witnessed his triumphs at the local Copper Peak ski flying hill. He sandwiched 1st places in 1973 and 1975 around a 2nd place in 1974, while extending the hill record each year. Jerry was in perfect Daescher flight form on his way to the 1973 U.S. National championship at Suicide Hill in Ishpeming, Michigan. It may be noted that goggles were not that popular and helmets were yet to be introduced to the sport.
+
+![Jerry Martin - 1973 U.S. National Ski Jumping Championships (Ishpeming)](resources/images/book/image2.jpeg){fig-align="center" width="80%"}
+
+::: {.dictionary}
+**Daescher** – the predominant ski jumping flight position or style from the late 1950's until late-1980's, illustrated by skis parallel and close together and the ski jumper's torso bent slightly forward, with arms close or touching at the hips.
+:::
+
+What 'knocked it out of the park' for me was that prior to these achievements, in September 1971, Jerry permanently lost his right eye to an industrial accident. Amazingly, he overcame that deficit in depth perception, a critical ability in a high speed airborne sport covering long distances and changes of elevation over a sometimes difficult to distinguish terrain.
+
+## The Savonen Legacy
+
+Our dad, Wilbert (Willie) Savonen, was born and raised on a modest 40 acre dairy farm along Section 12 Road in Ironwood Township, along with brothers Toivo (Toyk) and Elmer and sister Helen. John (Juho) Savonen, wife Hilda, and their 6 year old son Onni (Willie's father) emigrated to the U.S. from Finland in 1909 having already lost an infant and a toddler to disease, reflecting rampant mortality rates of the time. Fortunately, the family elected to escape their homeland before rising political turmoil escalated into civil war a few years later.
+
+Finnish was the primary language at the Ironwood Township home. It was not unusual in a 1st generation family in the U.S. that conversational English was not learned until reaching school age. So, in addition to an accent, there was a special flavor as to how words were pronounced. For Dad and his generation, it was natural for the 'h' to be silent in the 'th' combination, and a 'j' sounded like 'y', as it is today across broad swaths of Europe. As such, the pronunciation of the common given name Juho was 'yoo hoe'. A sample Dad expression, when he intentionally embellished it, would be *"Da troot ist dat skee yumping is a trill."*
+
+Dad also had the tendency to speak a few malaprops, and some were not by design. When encountering stubbornly rusted bolts in a backyard repair job one day with his 11 year-old son (me) at his side, he impatiently directed "Go get the profane torch". After a moment's pause, we realized what had been said, and shared a hearty laugh. Actually, the word fit his moment of frustration.
+
+For a small dairy farm to remain operational, repair ingenuity was a necessary skill for the Savonen boys. As a practical, hardscrabble solution, hay bale wire kept many of the farm implements functioning until a more thorough and durable repair was possible, even if the initial repair was neither aesthetic nor found in repair manuals (that often didn't exist).
+
+Willie and older brother Toyk were always outside. The Savonen dairy farmhouse was perched on a rise overlooking idyllic Siemens Creek that bisected the property. They fished for brook trout and raised extra cash by trapping muskrat along its banks. Strenuous farm chores didn't quell enthusiasm for sports when time permitted. Whenever possible, they rounded up the neighborhood boys to play 'unorganized' baseball. Even though the neighborhood consisted of miles between bustling farms and party line phones, youngsters gathered to play ball for hours without requiring adult or organizational oversight. The baseball field for them was the local gravel pit where bad hop ground balls were an inherent part of the game, and not shying away from the erratic bounce was a measure of toughness.
+
+In the U.P. snow belt winter, skiing was the favored pastime. Alpine skiing (or downhill as it is often called) was 'nice', but the local alpine ski hill industry was small scale in the 1940's and 50's. Mount Zion ski hill was more than four miles from the Savonen homestead and lift tickets cost money. And even though both cross country skiing and ski jumping had already appeared in the 1924 France Olympics, local ski touring was a novelty and groomed trails were only a concept.
+
+As Supercynski documents so well, ski jumping reigned as the preeminent local sport of the early 20th century. Ski jumps of all sizes and shapes could be found in so many of the hilly neighborhoods across the U.P. The Ironwood Ski Club formed in 1905 and built the 40m Curry Ski Hill ski jump. In the ski jumping community, Curry Hill was famous, with the ski jumping world record of 152 feet set in 1911 by Anders Haugen and extended to 169 feet in 1913 by Ragnar Omtvedt. Later that year, a severe wind storm knocked down its wooden scaffold. Rebuilt in 1923, its steep and slender steel girder construction relied on a web of guy wires to stay upright. Not to blithely assert that ski jump design standards were lax, but it was not unusual that ski jumping scaffolds met their demise in high winds, as was Curry Hill's fate a second time during a 1930 storm.
+
+![Curry Hill Ski Jump, Ironwood (1923)](resources/images/book/image3.jpeg){fig-align="center" width="80%"}
+
+So in 1935, the Ironwood Ski Club built the 50m Wolverine ski jump in Ironwood Township. It soon hosted one of the more prominent annual tournaments in the national ski jumping scene. Wolverine was built on a ridge enabling jumps in excess of 200 feet. However, the sideshow of pursuing the world distance record (which exceeded 300 feet by 1935) was now the domain of larger international hills. Nevertheless, Wolverine ski jumping tournaments were a spectacle, attracting patrons from across the upper Midwest region who wanted to see intrepid heroes of skill and daring soar (very) high through the air, if not tumble to the bottom.
+
+![Wolverine Ski Jump During 1940's Tournaments](resources/images/book/image4.jpeg){fig-align="center" width="80%"}
+
+Among the ski jumping legends that Dad described to me, the exploits of Norwegian immigrant Torger Tokle were prominent. Tokle set the Wolverine hill record of 216 feet in 1942. National newspaper articles were calling him the "Babe Ruth of Skiing". In a 4-year span (1939 – 1943) after migrating to the U.S., Tokle entered 44 tournaments and won 39 of them. Ultimately, Torger's heroism was immortalized when he joined the U.S. Army and died in a 1945 World War II battle.
+
+As indication of the Norwegian passion for skiing, all twenty of his siblings skied and two of his brothers (Kyrre and Art) eventually migrated to the U.S., becoming established ski jumpers and coaches in their own right. If marketing had been more sophisticated in that era, a prized pair of new jumping skis would have been advertised as Air Tokles, some 65 years prior to Air Jordans.
+
+Since Wolverine was less than a mile 'as the pheasant flies' from the Savonen farm, I imagine preteens Willie and Toyk enthralled while watching local ski jumping heroes like Ted Zoberski performing in their own backyard. In their teens and early twenties, Willie and Toyk regularly rode Wolverine, with Toyk competing in the official tournaments. At 5 foot 7 and 130 or so pounds, the Savonen boys were farm boy tough, wiry, and 'quick as snot', a physique that ironically served as the prototype for ski jumpers in the 21st century, rather than 1950.
+
+::: {layout-ncol=2}
+![Willie Savonen – Junior Jumper (circa 1946)](resources/images/book/image6.jpeg){width="100%"}
+
+![Craig Savonen - Junior Jumper (1973)](resources/images/book/image12.jpeg){width="100%"}
+:::
+
+*Left: Dad as a young teenager with his solid hickory skis and three grooves roughly carved into the bottoms. All purpose leather boots attached to skis with leather overstraps, metal front throws and cables. Attired with collared undershirt, Christmas sweater, baggy wool pants, and brimmed cap. Savonen dairy farm and gravel pit in background.*
+
+*Right: The author as a 12 year old with Northland composite five-groove plastic bottom jumping skis, although oversized for my stature. Nylon-leather jumping boots attached to skis with all metal cable throws, cables, and toeplates. Attired with winter sweater, stretch pants, soft knit cap, and choppers (Yooper for leather mittens with inner wool liners). Goggles and helmets were a thing of the future.*
+
+After a day of jumping at Wolverine, they ski toured across the neighbors' farm fields to get back to the lower lying Savonen dairy farm homestead. If the snow was 'old' and crusty, they glided effortlessly over the top of it with their heavy, stiff hickory skis.
+
+Even though traveling long distances in the dead of an upper Midwest winter in a 1930's or 40's automobile could be a precarious undertaking, the crowd size at Wolverine and other prominent ski jumping venues like Suicide Hill in Ishpeming routinely numbered in the thousands. Numerous vendors capitalized on the community event by selling culturally specific cuisine (with ketchup, of course!).
+
+Alas in 1963, the Wolverine ski hill scaffold was partially destroyed. Yeah, you guessed it. The culprit was a severe wind storm. A partially reconstructed inrun ramp enabled periodic use of a scaled down Wolverine during the 1965 - 1968 timeframe for practice and local or unsanctioned competitions.
+
+## Trailblazing Slab Rider
+
+Fast forward to the mid-1960's, Willie and wife Shirley (Mom) are raising daughter (Wendy) and younger son (me). My first ski ride was on my father's shoulders while he glided down the gentle 10 foot slope from our Ironwood Aurora Location house to the Richards' yard next door. For that occasion or when going to Mt. Joy in Wakefield, Dad brushed on layers of pungent smelling shellac and rubbed paraffin wax of the appropriate color for that day's snow conditions onto his three groove hickory jumping skis. Somewhere in the basement, he found and dusted off his low-cut leather jumping boots that hadn't regularly seen snow in over a decade.
+
+::: {.notice}
+In contemporary terms, a 'slab rider' is someone that is part of a culture that creates customized vehicles known as slabs. In the broader skiing world, a 'slab rider' is a backcountry skier who may find themselves on top of an unstable slab of snow that could trigger an avalanche and lead to their untimely demise. But for local Yoopers, slab rider was a simpler, but less than complimentary moniker applied by non-skiers to all alpine skiers and their wooden slabs.
+:::
+
+The initial love of slab riding for Wendy and myself got legs (and skis, of course) when our parents scrounged up money for the less expensive local alpine ski hills, such as Eagle Bluff (Hurley), Mt. Zion (Ironwood), and occasionally Whitecap (Upson). It was a treat when we were dropped off for three hours of Wednesday or Saturday night skiing at Big Powderhorn Mountain. The occasional splurge was a full Saturday's worth of skiing.
+
+At Powderhorn, the technique for using the bunny hill rope tow was not intuitive for this 7 year-old. After a few face plants and near tears, I eventually mastered it by gradually, not suddenly, tightening my grip on the moving rope. After bearing with snide comments by a rich bunny hill brat about my cheap and undersized ski equipment and persuaded by big sister Wendy waving gleefully and proudly from the chair lift overhead, I was motivated to graduate. When venturing to the top of 600 vertical foot Big Powderhorn Mountain, I realized that although the ski runs were much longer, most hill sections were not steeper nor more difficult than the steepest part of the bunny hill. It was an early lesson to maintain poise and confidence while graduating step by step to ever larger ski jumps.
+
+Even though it was an alpine ski area, we'd tend to ski off trail, dodge trees, and create small kickers (small jumps with an upward ramp) on the side of the main trail to practice rudimentary acrobatics. By the way, when propelled vertically by a kicker and landing a short distance further on flat ground, the impact is far greater than landing on any well designed ski jump hill.
+
+Yet, the sibling standard for adventurous thrill seeking was pioneered by my sister (in her younger days). She boldly jumped off the Powderhorn chair lift one evening, as if it was a typical thing to do. As with some daredevil acts, the actual risk is often less than the risk perceived by non-participating observers. She jumped from a negotiable height into deep snow after removing her skis.
+
+Later, she trumped that adventure by somehow navigating her way to the very top of the monstrous Copper Peak ski flying hill scaffold while it was still in the finishing stages of construction. Chain link enclosures protecting the open-air walkways were not yet in place. I wouldn't hazard to do that then or now, and I'm supposed to be the risk-taking ski jumper of the family.
+
+## Launch and Learn
+
+Dad was curious as to whether his son would gravitate to ski jumping. So, on the rock outcropping 100 yards up the road from the Savonen Aurora Location home (where a local youngster might assume that aurora borealis was viewable in any community on a clear night), he shoveled a ski jump into existence. Two goldenrod weeds marked the jump take-off. For an 8 year old, it was Olympic size. With schoolmate Gary and myself the only riders in its brief history, the final hill record plateaued at 28 feet, or a bit short of the 1808 world record of 31 feet. With abandoned mining structures at the top of the hill precluding creation of a longer inrun and greater takeoff speeds, the hill record was secure. Nevertheless, the 'trill' of jumping was instilled.
+
+::: {.notice}
+Throughout the U.P. in the early 1900's, it was common that employees and their families lived in modest housing on hills in proximity to actual mining operations. The Aurora was one of a string of mines situated across the east-west Gogebic Range that briefly led the nation in iron ore production, peaking around 1930. By 1967, the last high-quality ore was railroaded out of the Gogebic Range and the mines were closed. Steep, miniature mountain ranges of rust-orange iron ore tailings and abandoned mining structures were left behind as an imposing and somber testament to the industriousness of the first half of the 1900's.
+:::
+
+Acknowledging limitations of the scaled down Wolverine after the 1963 storm damage, the ardent Gogebic Range Ski Club (GRSC) committed to re-energizing local and youth ski jumping. The Caves provided the location. As named locally, the Caves are the east-west orientated land subsidence originating over the abandoned underground mines just 2 - 3 city blocks south of downtown Ironwood. There are no known open crevices, or caves per se, but Caves is vernacular for cave-in. It is a 1½ mile long by ¼ mile wide ravine with one side faced with 25 - 100 foot cliffs of dark rust iron rock. Decades before creative volunteerism established today's Miner's Memorial Heritage Park, the Caves were an unofficial local playground for snowmobiling, motorbiking, juvenile exploration, and multiple ski jumps.
+
+By GRSC initiative in the late 60's, the Caves location opposite the Ironwood Little League field became the venue for a new family of ski jumps. A few hundred yards west of the municipal landfill, the Iron Bowl, as it was named, had ski jumps ranging in size from 10m to 30m created on the Caves' steep slopes. The ski club exploited the unnatural landscape by designing and grading a set of two ski jump landing hills out of the iron ore mining recesses.

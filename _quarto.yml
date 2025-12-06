@@ -3,45 +3,55 @@ project:
   output-dir: docs
 
 book:
-  title: Quarto Based OTTR Course
-  favicon: img/favicon.ico
+  title: "Yooper Ski Jumping Legacy"
+  author: "Craig Savonen"
+  date: "December 6, 2025"
+  favicon: img/favicon.png
   bread-crumbs: false
 
   page-navigation: true
   search: true
-  repo-url: https://github.com/ottrproject/OTTR_Quarto
+  repo-url: https://github.com/fhdsl/yooper-ski-jump
   repo-actions: [edit] 
-  issue-url: https://docs.google.com/forms/d/e/1FAIpQLSfBvVELBg8lcynKj0TrzMlov1zil-Sbkh9VhMKRcSpeo1xo6g/viewform
   
   chapters:
     - index.qmd
     - intro.qmd
-    - part: "First Section"
+    - part: "Local Beginnings"
       chapters:
-        - first-section-new-chapter.qmd
-    - conclusion.qmd
-    - references.qmd
+        - iron-bowl.qmd
+    - part: "The Competitive Journey"
+      chapters:
+        - midwest-circuit.qmd
+        - bigger-hills.qmd
+        - apex-year.qmd
+        - glide-path.qmd
+    - part: "The Broader View"
+      chapters:
+        - the-sport.qmd
+        - future.qmd
+    - part: "Back Matter"
+      chapters:
+        - acknowledgments.qmd
+        - appendix.qmd
+        - references.qmd
   
   sidebar: 
     logo: "img/logo.png"
-    logo-href: "https://ottrproject.org/"
+    logo-alt: "Yooper Ski Jumping - Flights of Legacy"
     foreground: "#1B365D"
   
   page-footer:
     left: |
-      This book was built with <a href="https://quarto.org/" style="color: #fff;">Quarto</a> using 
-      <a href="https://github.com/ottrproject/OTTR_Quarto" style="color: #fff;">OTTR</a>.
+      Written by Craig Savonen. Technical editing and formatting by Candace Savonen.
     center: |
-      All illustrations <a href="https://creativecommons.org/licenses/by/4.0/" style="color: #fff;">CC-BY. </a>
+      This work is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" style="color: #fff;">CC BY-NC 4.0</a>.
       <br>
-      All other materials <a href= "https://creativecommons.org/licenses/by/4.0/" style="color: #fff;"> CC-BY </a> unless noted otherwise.
+      Built with <a href="https://quarto.org/" style="color: #fff;">Quarto</a> using 
+      <a href="https://github.com/ottrproject/OTTR_Quarto" style="color: #fff;">OTTR</a>.
     right: 
       - icon: github
-        href: https://github.com/
-      - icon: slack
-        href: https://fhdata.slack.com/join/signup#/domain-signup
-
-      
+        href: https://github.com/fhdsl/yooper-ski-jump
 
 bibliography: references.bib
 
@@ -61,8 +71,8 @@ format:
     
     link-external-newwindow: true
   
-    image: img/favicon.ico
-    license: "CC BY"
+    image: resources/logo/yooper_ski_jump_logo.png
+    license: "CC BY-NC"
 knitr:
   opts_chunk:
     fig.path: "resources/images/figure/"

@@ -1,11 +1,15 @@
 # References {.unnumbered}
 
-Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(3), 379–423. [https://ieeexplore.ieee.org/document/6773024](https://ieeexplore.ieee.org/document/6773024)
+Supercynski, C. (2012). *Soaring With The Eagles: The Copper Peak Story*. Self-published.
 
-Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 59(236), 433–460. [https://mind.oxfordjournals.org/content/LIX/236/433](https://mind.oxfordjournals.org/content/LIX/236/433)
+Engen, A. K. (1998). *For The Love of Skiing*. Gibbs Smith Publisher.
 
-Turing, A. M. (1936). On Computable Numbers, with an Application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, s2-42(1), 230–265. [https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+Ski Jumping Hill Archive. (n.d.). Retrieved from [https://www.skisprungschanzen.com](https://www.skisprungschanzen.com)
 
-Thompson, K. (1984). Reflections on Trusting Trust. Communications of the ACM, 27(8), 761–763. [https://dl.acm.org/doi/10.1145/358198.358210](https://dl.acm.org/doi/10.1145/358198.358210)
+USA Nordic. (n.d.). About Ski Jumping Safety. Retrieved from [https://usanordic.org](https://usanordic.org)
 
-Ghemawat, S., Gobioff, H., & Leung, S.-T. (2003). The Google File System. In Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles (pp. 29–43). [https://research.google.com/archive/gfs-sosp2003.pdf](https://research.google.com/archive/gfs-sosp2003.pdf)
+British Journal of Sports Medicine. (2018). Injury rates at the 2018 PyeongChang Winter Olympic Games.
+
+International Ski Federation (FIS). (2008). Injury statistics for ski jumping 2006-2008.
+
+Consumer Product Safety Commission. (2012). Sports injury data for children ages 5-14.
