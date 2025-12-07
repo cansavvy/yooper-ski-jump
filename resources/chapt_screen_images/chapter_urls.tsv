@@ -1,6 +1,13 @@
 chapt_title	data_level	url	img_path
-Introduction to the Course	1	http://hutchdatascience.org/OTTR_Quarto/intro.html	resources/chapt_screen_images/intro.png
-New Chapter	2	http://hutchdatascience.org/OTTR_Quarto/first-section-new-chapter.html	resources/chapt_screen_images/first-section-new-chapter.png
-New Chapter	3	http://hutchdatascience.org/OTTR_Quarto/second-section-new-chapter.html	resources/chapt_screen_images/second-section-new-chapter.png
-New Chapter	4	http://hutchdatascience.org/OTTR_Quarto/third-section-new-chapter.html	resources/chapt_screen_images/third-section-new-chapter.png
-Conclusion	5	http://hutchdatascience.org/OTTR_Quarto/conclusion.html	resources/chapt_screen_images/conclusion.png
+About This Book	1	https://cansavvy.github.io/yooper-ski-jump/index.html	./resources/chapt_screen_images/index.png
+Introduction	2	https://cansavvy.github.io/yooper-ski-jump/intro.html	./resources/chapt_screen_images/intro.png
+The Iron Bowl	3	https://cansavvy.github.io/yooper-ski-jump/iron-bowl.html	./resources/chapt_screen_images/iron-bowl.png
+The Midwest Circuit	4	https://cansavvy.github.io/yooper-ski-jump/midwest-circuit.html	./resources/chapt_screen_images/midwest-circuit.png
+Bigger Hills	5	https://cansavvy.github.io/yooper-ski-jump/bigger-hills.html	./resources/chapt_screen_images/bigger-hills.png
+The Apex Year	6	https://cansavvy.github.io/yooper-ski-jump/apex-year.html	./resources/chapt_screen_images/apex-year.png
+The Glide Path	7	https://cansavvy.github.io/yooper-ski-jump/glide-path.html	./resources/chapt_screen_images/glide-path.png
+The Sport	8	https://cansavvy.github.io/yooper-ski-jump/the-sport.html	./resources/chapt_screen_images/the-sport.png
+Evolution and Future	9	https://cansavvy.github.io/yooper-ski-jump/future.html	./resources/chapt_screen_images/future.png
+Hall of Gratitude	10	https://cansavvy.github.io/yooper-ski-jump/acknowledgments.html	./resources/chapt_screen_images/acknowledgments.png
+Appendices	11	https://cansavvy.github.io/yooper-ski-jump/appendix.html	./resources/chapt_screen_images/appendix.png
+Bibliography	12	https://cansavvy.github.io/yooper-ski-jump/references.html	./resources/chapt_screen_images/references.png
