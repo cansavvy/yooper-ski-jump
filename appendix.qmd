@@ -2,7 +2,7 @@
 
 ## Appendix 1 - Ski Jump Classification
 
-In recent decades, several factors have contributed to the resizing and reclassification of ski jumps, including Suicide Hill, as mentioned earlier. Suicide was reclassified from 70m to a larger (90m) hill size by reasons of it being (a) physically modified to enable longer jumps, and (b) the international standard for classification being revised according to the K-point, rather than the P-point (as explained below).
+In recent decades, several factors have contributed to the resizing and reclassification of ski jumps, including Suicide Hill, as mentioned earlier. Suicide was reclassified from 70m to a larger (90m) hill size by reasons of it being (a) physically modified to enable longer jumps, and (b) the international standard for classification being revised according to the K-point, rather than the P-point (as explained below). 
 
 ![Basic Ski Jump Hill Terminology](resources/images/book/basic-ski-jump-terminology.png){fig-align="center" width="80%"}
 
