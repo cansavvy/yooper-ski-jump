@@ -1,6 +1,6 @@
 # The Midwest Circuit
 
-## Regional Hills
+## Midwest Circuit
 
 During the 70's and 80's, the upper Midwest ski jumping tournament circuit was distributed across the western U.P., southern half of Wisconsin, eastern Minnesota, and northern Illinois. Until the late 70's, the Gogebic Range Ski Club had a nucleus of ski jumpers who maintained the local ski jump, trained, and traveled together nearly every weekend to a Midwest tournament from the first full week of January through the middle of March. Most of the intermediate to large hills comprising that circuit are mapped below.
 
@@ -8,25 +8,7 @@ Most of us had our own favorite hill, for various reasons. Perhaps it was the ai
 
 As I progressed through a relatively brief jumping career (1968 – 1981), I had the privilege of riding most, but not all, of the intermediate and large ski jumps in the region. However, due to meet cancellations or personal scheduling conflicts, I never had the chance to ride the 'far south' hills in northern Illinois, i.e. Rockford and Fox River Grove.
 
-![Craig's Map of Midwest Region Ski Jumps](resources/images/book/image14.gif){fig-align="center" width="90%"}
-
-## Big Miron
-
-When I was still in junior class, we seldom ventured to the bigger hills, but one of the first was Big Miron in Iron Mountain, Michigan. The tournament at Big Miron was one of the few of comparable size to the Iron Bowl, and so it provided a favorable opportunity for young jumpers to get better. It was an all-scaffold hill, with the main inrun and mini-jumps designed into a permanent steel scaffold. Jumping distances barely exceeded 100 feet.
-
-As common on a number of small hills, the meet was broken into two days, with junior (classes 1 - 4) and female competitions being on one day and senior events being on the other.
-
-The results of the competition for that day were determined by jumping distance in one round and subjective style in another round. The jumper would get 4 or 5 rides for the entire meet plus warm up practice beforehand. In that era, judges' scores were not publicly displayed until after the meet had concluded since the scoreboards were either non-existent or positioned in ways not easily viewed by the athletes. Although there were 5 style judges, the high and low scores were tossed and the remaining three judges' scores were added together.
-
-::: {.notice}
-Style judging criteria are standardized across the sport. They include quality of the flight (e.g. body position and steadiness) during the three phases of flight (take-off, mid-air, landing), and, of course, a solid Telemark landing with one foot in front of the other and arms and hands extended for positional balance. A Hollywood Telemark was slang for the less skillful, but showy attempt of transitioning to a Telemark position, but only after landing.
-:::
-
-Even though the small hill scaffold was not that tall, the climb could still be unsettling for a young jumper accustomed to natural inruns, especially with others whizzing by just 4 - 5 feet to one's side. On the way up, you had to make sure that your stiff boots didn't slip on the 37° sloped wooden 'cattle ramp' which was never completely clear of ice and snow. Although I neither witnessed nor heard of it happening, it was conceivable that a skier climbing up the scaffold could have a momentary brain fade and while looking back down the hill, swing his skis into the path of a rider zooming down the inrun. At the top, the tight confines limited three, or at most four, jumpers being able to put their skis down, quickly strap them on, check equipment, and compose themselves before being flagged to go.
-
-Big Miron was Therese Altobelli's home hill. A phenom in her pre-teen and early teen years, Therese received notoriety as the pioneering female jumper of the era, particularly in the Midwest region. She was steady and stylish, competing equally with the rest of us young juniors. As fellow jumpers, we didn't make much of it. At the risk of sounding politically incorrect in today's culture, she was just one of the boys.
-
-The fanfare surrounding her wasn't her doing, but she was friendly, poised, and seemed to take it all in stride, while adults made a big deal about it. Therese just wanted to ski jump. Perhaps her most notable ski jumping accomplishment was a few years later in 1978 when she became the first female to ride the famous 90m Pine Mountain, her home hill. In 2017, Therese was elected to the National Ski Hall of Fame, a forebearer of the female U.S. national team that became internationally competitive during ensuing decades.
+![Craig's Map of Midwest Region Ski Jumps](resources/images/book/image15.png){fig-align="center" width="80%"}
 
 ## Wolverine Regenerated
 
@@ -34,7 +16,7 @@ In the early 70's, there were regular attempts at using the scaled down and repa
 
 It took forethought, expertise, and determination by several stalwart members of the 'Greatest Generation' to get Wolverine rebuilt and back on stage in 1975. To bring Wolverine back to life, the ski jumping community was fortunate to have the unflinching commitment of a relatively small group, led by former jumpers, such as Wally Kusz, Bob Shea, Frank Pribyl, Charlie Supercynski and others that I apologize for failing to recall or being unaware. Others with little personal ski jumping history were also very active, committed supporters, such as Ernie Mattson, Ed Lakner, and Don Bull. Their altruistic support was extensive and inspiring.
 
-The entire Wolverine jumping hill had to be re-contoured to the updated profile. Charlie Supercynski led the redesign and summarized the cost efficient material and labor. It took intensive effort by a modest size crew to get Wolverine back on its feet, including re-profiling the landing hill, reshaping a longer knoll, reworking the entire inrun slope by moving tons of earth, and constructing an entirely new scaffold on top of it. With the complete revision of Wolverine to prevailing 1975 hill standards, the region could once again point with pride to the historic 55m (some say 50m) ski jumping hill.
+The entire Wolverine jumping hill had to be re-contoured to the updated profile. Charlie Supercynski led the redesign and summarized the cost efficient material and labor (1). It took intensive effort by a modest size crew to get Wolverine back on its feet, including re-profiling the landing hill, reshaping a longer knoll, reworking the entire inrun slope by moving tons of earth, and constructing an entirely new scaffold on top of it. With the complete revision of Wolverine to prevailing 1975 hill standards, the region could once again point with pride to the historic 55m (some say 50m) ski jumping hill.
 
 Not to rehash its rich history prior to the 1975 rebuild, the new Wolverine established an invaluable bridge to prepare local ski jumpers for larger hills in addition to attracting national level competition. Before Wolverine was re-established in 1975, I was impressed how a few of the more experienced Ironwood jumpers, such as John and Mike Kusz, Bruce and Gene Harma, Russ Anderson and several others could venture to ride the large 90m hills like Pine Mountain or Westby, even though their preparation was limited primarily to the small 30m Iron Bowl, the scaled down Wolverine, or brief experiences on a few other intermediate size hills.
 
@@ -42,7 +24,9 @@ Wolverine had a long reputation of riding like a bigger hill, due to the prevail
 
 After executing an excellent take-off, a ski jumper transitioning into flight position was met by an airspeed differential (skier speed + opposing headwind velocity) that produced an exhilarating lift. With the lower and more lateral flight trajectory of the updated Wolverine hill design, a ski jumper had to take full advantage of the airlift to be successful.
 
-![The 'New' Wolverine in the Late 1970's](resources/images/book/image15.jpeg){fig-align="center" width="80%"}
+![The 'New' Wolverine in the Late 1970's](resources/images/book/image16.jpeg){fig-align="center" width="80%"}
+
+![Getting Ready for the Crowds - Daily Globe Photo](resources/images/book/image88.jpeg){fig-align="center" width="70%"}
 
 With Wolverine's reputation for big air and early season lake effect snowfall, it influenced the U.S. national ski jumping team to jump at the opportunity to be the first few to practice and compete on its updated version, prior to the arrival of the regular competitive season.
 
@@ -50,7 +34,7 @@ The 1975-1976 season could also be characterized as a two decade (1960 – 1980)
 
 During practice on Wolverine, if taking full advantage of top gate inrun speed, you could enjoy long flights. If still 7 – 10 feet above the landing hill after clearing the knoll, you could peer over the skis to the bottom of the hill slope and outrun.
 
-![1975 – 76 Gogebic Range Ski Jumping Octet at Wolverine](resources/images/book/image16.jpeg){fig-align="center" width="80%"}
+![1975 – 76 Gogebic Range Ski Jumping Octet at Wolverine](resources/images/book/image17.jpeg){fig-align="center" width="80%"}
 
 One of my most memorable rides occurred on one sunny, but otherwise unremarkable Saturday afternoon practice. Only three of us were riding one day, so our small crew alternated between being the jumper at the top of the inrun or standing at the knoll to flag the next jumper.
 
@@ -64,19 +48,17 @@ As mentioned, although the early arriving and late departing snow in the Ironwoo
 
 On an intermediate size hill, such as Wolverine, a solid day of practice amounted to anywhere from 8 - 12 rides. On a few rare days, the number of rides maxed out at greater than 15. Trudging up the landing hill and inrun would eventually be tiring, even for a young, fit athlete. In the late 70's, when our ski jumping was largely limited to weekends, I personally totaled 175 – 225 jumps for an entire season, including out of town meets. In that regard, I envied some of my peers who had home hills with a rope tow or T-bar which facilitated 25 or more rides a day and a squadron of youth and adults to keep the jumping hill in shape, while generally dealing with less snowfall than Ironwood.
 
-More so, a majority of the other ski jumping hills had lights, as did the 30m Iron Bowl before it had to be abandoned. We competed against clubs where zealous jumpers could accumulate more than 400 jumps a year. By the way, the governing International Ski Federation (FIS) is not prone to sanction international or ski flying hill meets nowadays if the facilities do not include a lift for the ski jumpers from the bottom of the hill to the top of the scaffold. C'mon, man. The hill climb was part of our cross training! In some international circles, there is even loose conceptual discussion about creating a fully enclosed tunnel along the entire length of the ski jump inrun. What?!
+More so, a majority of the other ski jumping hills had lights, as did the 30m Iron Bowl before it had to be abandoned. We competed against clubs where zealous jumpers could accumulate more than 400 jumps a year. By the way, the governing International Ski Federation (FIS) is not prone to sanction international or ski flying hill meet nowadays if the facilities do not include a lift for the ski jumpers from the bottom of the hill to the top of the scaffold. C'mon, man. The hill climb was part of our cross training! In some international circles, there is even loose conceptual discussion about creating a fully enclosed tunnel along the entire length of the ski jump inrun. What?!
 
 ## Suicide Hill
 
-A personal milestone in 1977 was riding the largest (70m) jump in the Ishpeming Suicide Hill complex for the first time. Listed at that time as a 70m, equivalent to the smaller of the two standard Olympic hill sizes, it represented a step up in hill size relative to Wolverine. The largest jump of the complex grew in stature from being rated as a 70m in the 70's to now being labeled as a K90. Located in a picturesque valley, more recently it has jump sizes classified as 13m, 25m, 40m, 60m, and 90m. It also contained a cross country training center that constituted the U.P. Nordic Ski complex, which over the years has been affiliated with U.S. national ski organizations.
+A personal milestone in 1977 was riding the largest (70m) jump in the Ishpeming Suicide Hill complex for the first time. Listed at that time as a 70m, equivalent to the smaller of the two standard Olympic hill sizes, it represented a step up in hill size relative to Wolverine. The largest jump of the complex grew in stature from being rated as a 70m in the 70's to now being labeled as a K90. (See Appendix 1 for explanation of 'K'). Located in a picturesque valley, more recently it has jump sizes classified as 13m, 25m, 40m, 60m, and 90m. It also contained a cross country training center that constituted the U.P. Nordic Ski complex, which over the years has been affiliated with U.S. national ski organizations.
 
-![Suicide Bowl Ski Jumping Complex (Ishpeming, MI)](resources/images/book/image17.jpeg){fig-align="center" width="80%"}
+![Suicide Bowl Ski Jumping Complex (Ishpeming, Mi)](resources/images/book/image18.jpeg){fig-align="center" width="80%"}
 
-Rich in ski jumping history, the Ishpeming / Negaunee area has hosted ski jumping competitions as far back as 1882, which influenced the location of the U.S. National Ski Hall of Fame. Its inaugural tournament was held in 1925 and is one of the few remaining active ski jumps in the U.P. (The Ishpeming Suicide Hill is not to be confused with a smaller ski jump in New Boston, Massachusetts also named Suicide Hill that was destroyed by a storm in 1938.)
+Rich in ski jumping history, the Ishpeming / Negaunee area has hosted ski jumping competitions as far back as 1882, which influenced the location of the U.S. National Ski Hall of Fame. Its inaugural tournament was held in 1925 and is one of the few remaining active ski jumps in the U.P. (The Ishpeming Suicide Hill is not to be confused with a smaller ski jump in New Boston, Massachusetts also named Suicide Hill that was destroyed by a storm in 1938. Uh huh).
 
-::: {.notice}
 What might be viewed as a culturally insensitive name for the Ishpeming hill was coined in 1926 by a local reporter upon witnessing a skier suffer an injury, although non-fatal. He defended the name, quoted as saying "Sure, it's a good hill, but why not have a little color about it." That attitude reflected the early 1900's attitude to amplify ski jumping dangers to attract crowds (and readers), before the broader awareness and increased sensitivity to the tragedy of suicide was realized. Nevertheless, the name has stuck to this day.
-:::
 
 Suicide Hill was an annual stop for the U.S. national team, who were respected, if not envied, for their flashy uniforms, equipment, and accomplished coaches. These rock stars of the ski jumping circuit warmed up before the meet by pushing a soccer ball around the outrun, before the U.S. became a competitive participant in World Cup soccer. They also practiced stationary leaps from the ground into flight position on top of a teammate's extended arms.
 
@@ -103,9 +85,3 @@ I participated in a two Bulldozer meets, including one in 1977. Without a scaffo
 My interaction with him was brief, but as we know, a lasting impression can happen in an instant. One of the practice days was plagued by crosswind gusts that can create havoc with a ski jumper's flight. Naturally hands-on, Coach Ed positioned himself on the knoll that windy day, volunteering as the flagman to signal each jumper to proceed when he sensed that the gusts had temporarily subsided.
 
 On my best practice ride in terms of distance and smoothness, I noticed that I landed on the far right edge of the wide landing, barely a foot or so from the deep snowbank. I didn't think much of it at the time, but during my next walk up the hill, Coach Ed complimented me for handling the stiff gusts so well, while lightheartedly apologizing for flagging me into it. Since Ed was a born Yooper in Munising (which had its own history of ski jumping until the 1980's), his personable approach shouldn't have been surprising.
-
-## Circus Acts
-
-Early 1900's ski jumpers persistently encouraged the perception of being bold and daring stuntmen, which they were. It was common for a carnival like setting attracting huge paying audiences. No less famous than P.T. Barnum's circus incorporated ski jumping into their early venues. A professional ski jumping association actually formed in 1929, but disbanded by 1934, not for lack of demand or paying audience, but for lack of available, uninjured jumpers.
-
-Thrills and spills were promoted as the reason to come and see exhibition riders attempt somersaults and other amazing gymnastic feats with ski equipment and scaffold construction that would astound the most fearless jumper today. To attract audiences, they reinforced the stereotype of a dangerous sport. Pictures of various ski jump scaffolds, for exhibitions of that era, attest to the laughably flimsy construction that would not pass any safety protocols today's standards.
