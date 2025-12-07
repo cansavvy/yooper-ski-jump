@@ -14,7 +14,7 @@ This journal should not exhibit symptoms of the Lake Wobegone Effect. What is th
 
 This memoir does not pretend to be a comprehensive review of the sport of ski jumping. To color in the long history of ski jumping in the upper Midwest and specifically, the Gogebic Range of Michigan's western Upper Peninsula, I'd point you to Charlie Supercynski's 'Soaring With the Eagles' (1) as an engaging and thorough account. Besides my personal detail and anecdotes, some perspectives expressed here are parallel to what Charlie captured, even though he and I traveled distinctly different paths.
 
-![Soaring With The Eagles: The Copper Peak Story by Charles Supercynski](resources/images/book/image87.jpeg){fig-align="center" width="50%"}
+![Soaring With The Eagles: The Copper Peak Story by Charles Supercynski](resources/images/book/soaring-with-the-eagles-supercynski.jpeg){fig-align="center" width="50%"}
 
 Past and present ski jumping generations are increasingly recognizing the value of creating archives and historical accounts of this wonderful sport. There are several books and electronic caches containing the history and culture of ski jumping that can be discovered with a bit of internet searching. Understandably, such publications usually focus on a particular region. Further appreciation of the long history of skiing can be gained by venturing to the U.S. National Ski Hall of Fame in Ishpeming.
 
@@ -38,7 +38,7 @@ In ski jumping, Jerry Martin was the hero of the time. He was at the pinnacle of
 
 What knocked it out of the park for me was that prior to these achievements, in September 1971, he permanently lost his right eye to an industrial accident. Amazingly, he overcame that deficit in depth perception, a critical ability in a high speed airborne sport covering long distances and changes of elevation over a sometimes difficult to distinguish terrain.
 
-![Jerry Martin - 1973 U.S. National Ski Jumping Champion](resources/images/book/image2.jpeg){fig-align="center" width="80%"}
+![Jerry Martin - 1973 U.S. National Ski Jumping Champion](resources/images/book/jerry-martin.jpeg){fig-align="center" width="80%"}
 
 ::: {.dictionary}
 **Daescher** – the predominant flight style from the late 1950's until late-1980's, illustrated by skis parallel and close together and the ski jumper's torso bent slightly forward, with arms close or touching at the hips. It may also be noted that goggles were not popular and helmets were yet to be introduced to the sport.
@@ -62,17 +62,17 @@ As Supercynski (1) documents so well, ski jumping reigned as the preeminent loca
 
 *40m – in simple terms, (m) denotes the nominal jumping distance (in meters), as designed for the hill.
 
-![Curry Hill Ski Jump, Ironwood (1923)](resources/images/book/image4.jpeg){fig-align="center" width="80%"}
+![Curry Hill Ski Jump, Ironwood (1923)](resources/images/book/curry-hill.jpeg){fig-align="center" width="80%"}
 
 So in 1935, the Ironwood Ski Club built the 50m Wolverine ski jump in Ironwood Township. It soon hosted one of the more prominent annual tournaments in the national ski jumping scene. Wolverine was built on a ridge enabling jumps in excess of 200 feet. However, the sideshow of pursuing the world distance record (which exceeded 300 feet by 1935) was now the domain of larger international hills. Nevertheless, Wolverine ski jumping tournaments were a spectacle, attracting patrons from across the upper Midwest region who wanted to see intrepid heroes of skill and daring soar (very) high through the air, if not tumble to the bottom.
 
 ::: {layout-ncol=2}
-![Wolverine Ski Jump - Tournament View](resources/images/book/image5.jpeg)
+![Wolverine Ski Jump - Tournament View](resources/images/book/wolverine-1.jpeg)
 
-![Wolverine Ski Jump - View from Scaffold](resources/images/book/image6.jpeg)
+![Wolverine Ski Jump - View from Scaffold](resources/images/book/wolverine-2.jpeg)
 :::
 
-![Historic Ski Jumping Tournament with Vintage Automobiles](resources/images/book/image8.jpeg){fig-align="center" width="80%"}
+![Historic Ski Jumping Tournament with Vintage Automobiles](resources/images/book/suicidebowlskijumpingtournament.jpeg){fig-align="center" width="80%"}
 
 Among the ski jumping legends that Dad described to me, the exploits of Norwegian immigrant Torger Tokle were prominent. Tokle set the Wolverine hill record of 216 feet in 1942. National newspaper articles were calling him the "Babe Ruth of Skiing" (5). In a 4-year span (1939 – 1943) after migrating to the U.S., Tokle entered 44 tournaments and won 39 of them. Ultimately, Torger's heroism was immortalized when he joined the U.S. Army and died in a 1945 World War II battle.
 
@@ -80,7 +80,7 @@ As indication of the Norwegian passion for skiing, all twenty of his siblings sk
 
 Since Wolverine was less than a mile as the pheasant flies from the Savonen farm, I imagine preteens Willie and Toyk enthralled while watching local ski jumping heroes like Ted Zoberski performing in their own backyard. In their teens and early twenties, Willie and Toyk regularly rode Wolverine, with Toyk competing in the official tournaments. At 5 foot 7 and 130 or so pounds, the Savonen boys were farm boy tough, wiry, and quick as snot, a physique that ironically served as the prototype for ski jumpers in the 21st century, rather than 1950.
 
-![Teenaged Willie Savonen Action Pose](resources/images/book/image7.jpeg){fig-align="center" width="60%"}
+![Teenaged Willie Savonen Action Pose](resources/images/book/willie-action.jpeg){fig-align="center" width="60%"}
 
 After a day of jumping at Wolverine, they ski toured across the neighbors' farm fields to get back to the lower lying Savonen dairy farm homestead. If the snow was old and crusty, they glided effortlessly over the top of it with their heavy, stiff hickory skis.
 

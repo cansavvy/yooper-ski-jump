@@ -26,7 +26,7 @@ A 2012 Consumer Product Safety Commission study revealed that for children ages 
 
 In studies of Winter Olympic injuries, less than 5% of ski jumpers incurred injuries, which is equivalent to curling! For all sports, 11% of participants were injured, with snowboard cross, freestyle skiing, bobsled, ice hockey, and short track being much higher than the average.
 
-![Winter Olympic Injury Rates, By Sport](resources/images/book/image32.png){fig-align="center" width="80%"}
+![Winter Olympic Injury Rates, By Sport](resources/images/book/winter-olympic-injury-rates.png){fig-align="center" width="80%"}
 
 In a subsequent study of injury frequency for the 2914 athletes from 92 countries participating in the 2018 Winter Olympics at PyeongChang, South Korea. Data was compiled for percentage of athletes losing time for training or competition to injury. The data was broken into three segments, namely;
 
@@ -36,7 +36,7 @@ In a subsequent study of injury frequency for the 2914 athletes from 92 countrie
 
 All injuries that prevented training or competing impacted less than 7% of the Meanwhile, half pipe skiing, snowboard cross and ski cross, snowboard slopestyle, and aerials led the injury parade at 4X – 5X that frequency. A majority of injuries in those sports resulted in longer downtimes. Amongst the intermediate to high range for injuries were alpine skiing, bobsled, ice hockey, speed skating, and luge. Figure skating, cross country skiing, and freestyle mogul skiing occupied the low end of injury scale. Trailing the entire pack with the least amount (<1%) of injuries are those gun toting biathlon folks (thankfully) and nordic combined (which includes ski jumping as part of their regimen).
 
-![Percentage of Athletes Losing Time to Injury in 2018 Olympic Winter Games](resources/images/book/image33.png){fig-align="center" width="80%"}
+![Percentage of Athletes Losing Time to Injury in 2018 Olympic Winter Games](resources/images/book/percentage-losing-time-to-injury.jpeg){fig-align="center" width="80%"}
 
 ![2002 Central Division - Jimmy Denney Skier of the Year](resources/images/book/image86.jpeg){fig-align="center" width="70%"}
 
@@ -96,7 +96,7 @@ Another impressive U.S. Olympic accomplishment was by Jeff Hastings in 1984, who
 
 It is widely accepted that Matti Nykaenen of Finland is the greatest ski jumper of all time. Admittedly, such GOAT (Greatest Of All Time) debates are endless depending on the athletes and sport involved. There have been many great ski jumpers and to name a few that includes Adam Malyk, Janne Ahonen (another Finn), Kamil Stoch, Jens Weisflog, and Ryoyu Kobayashi. But, Nykaenen was a dominating king of the hill. In a stunning 10 year stretch in the 80's, Matti accumulated 4 Olympic golds, 46 World Cup wins, 5 World Championship titles, and numerous Normal, Large, and Ski Flying hill distance records. In the two decades that followed, fellow countrymen Janne Ahonen and Toni Nieminen also won Olympic medals and World Cup championships, but their success was still overshadowed by the extent of Nykaenen's accomplishments.
 
-![Matti Nykaenen – 1988 Calgary Olympics](resources/images/book/image35.jpeg){fig-align="center" width="60%"}
+![Matti Nykaenen – 1988 Calgary Olympics](resources/images/book/matti-nykaenen.jpeg){fig-align="center" width="60%"}
 
 As discussed in more detail later, today's V-style (skis held in a 'V' position while in flight) became standard after Nykaenen's peak success. His near perfect Daescher flight form garnered the most style points by the judging standard at that time. In actuality, Nykaenen was using a subtle hybrid approach. While holding skis parallel and close together to maintain the Daescher style, he also rotated both skis slightly to the right. Aerodynamically, it created a 'half-V' (or double forward slash on your keyboard), prescient to the aero benefits of future V-styles. And yet, his skis were parallel according to the Daescher judging standard of that time. It was a supreme example of ski jumping athletic genius, to whatever degree it was instinctive, or not.
 

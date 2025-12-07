@@ -42,7 +42,7 @@ Snapping on my alpine skis at the knoll*, I mustered the courage and slowly snow
 
 After another moment of descent, I bailed (sat down), and spun out. Sheepish though I was, Dad and others encouraged me to try again, while leaning forward into the downhill slope. On the second try, I did just that and then crouched low to the ground to stay upright through the transition (or dip) at the bottom of the landing hill. By 3rd or 4th try, I conquered the entire landing hill in a wobbly, but fully upright fashion. "I guess I'll come back tomorrow".
 
-![Basic Ski Jump Hill Terminology](resources/images/book/image9.png){fig-align="center" width="80%"}
+![Basic Ski Jump Hill Terminology](resources/images/book/basic-ski-jump-terminology.png){fig-align="center" width="80%"}
 
 ::: {.dictionary}
 **Knoll** – the relatively flat part of the landing hill starting at the end of the jump (take-off table) and ending after transitioning to a steeper constant part of the landing slope between the P-Point and the K-Point. Jumping hills are designed for ski jumpers to land after the knoll on the steeper slope that follows.
@@ -58,7 +58,7 @@ Alongside the inrun of the 30m Iron Bowl jump and its scaffold, a 2-foot high sn
 
 How time flies! Just 6 years later, I enjoyed my small part in helping prepare the Copper Peak landing hill, holding onto ropes while sidestepping and panking**** the hundreds of yards of the 40° sloped landing hill. Besides watching the tournament, my personal thrill as an early teen was the opportunity to ride the entire Copper Peak landing hill while crouched in an inrun tuck position the entire distance. It was speed to burn, baby and no radar in the area. I am sure that it was the fastest that I ever traveled on skis, and well in excess of 70 mph considering that ski flyers reach the low to mid-60's shooting down an inrun that is considerably shorter than the landing hill.
 
-![Iron Bowl 30m and 15m Ski Jumps (1971)](resources/images/book/image10.jpeg){fig-align="center" width="80%"}
+![Iron Bowl 30m and 15m Ski Jumps (1971)](resources/images/book/ironbowl-20-15.png){fig-align="center" width="80%"}
 
 ![Historic Ski Jump Scaffold Construction](resources/images/book/image89.jpeg){fig-align="center" width="80%"}
 
@@ -121,7 +121,7 @@ Anyway, I captured 1st place in my class. I was somewhere between pleasantly sur
 
 Every ski jump has its own unique character, as was the case the following week in Iron Mountain where the junior hill was Big Miron. Whereas the Ishpeming 30m of the prior week had an all-natural inrun, Big Miron's inrun was all scaffold and steep. Being a small, but sporty 30m, extra attention to the aggressive transitions in the inrun and the landing profiles was necessary. One had to be ready to jump while handling centrifugal forces appreciable for a hill that size. Seasoned jumpers could utilize the inrun curvature as minor precompression just before jumping. The transition at the bottom of the landing (dip) was also quick, so holding a stylish Telemark through the entire landing hill required more skill than usual.
 
-![Telemark Landing](resources/images/book/image14.gif){fig-align="center" width="60%"}
+![Telemark Landing](resources/images/book/telemark-landing.jpeg){fig-align="center" width="60%"}
 
 In ski jumping or cross country skiing, a Telemark refers to placing one ski in front of the other, with proportionally more body weight placed on the forward ski, and the boot heel lifted off the trailing ski. In ski jumping, style points are awarded (or preserved) for simultaneously executing a Telemark ski position while landing and holding it throughout the rest of the ride, thereby exhibiting exceptional balance. A Hollywood Telemark was slang for the less skillful, but showy attempt of transitioning to a Telemark position, but only after landing.
 
@@ -139,11 +139,11 @@ Before then, the opportunities for Iron Bowl ski jumping were limited to weekend
 
 When convening many winter evenings at the Iron Bowl hill, one becomes acquainted with the jumping styles and personalities of fellow jumpers. There was little formal coaching, but fellow jumpers tended to encourage each other. Most Iron Bowl jumpers in the early 70's were accomplished high school or former athletes in other sports. In a sense, they were the unintentional forerunners of today's sport culture awakening to the physical and psychological benefits of youngsters participating in multiple sports across all four seasons.
 
-![Willie Savonen – Junior Jumper (circa 1946)](resources/images/book/image11.jpeg){fig-align="center" width="45%"}
+![Willie Savonen – Junior Jumper (circa 1946)](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center" width="45%"}
 
 *Dad as a young teenager with his solid hickory skis and three grooves roughly carved into the bottoms. All purpose leather boots attached to skis with leather overstraps, metal front throws and cables. Attired with collared undershirt, Christmas sweater, baggy wool pants, and brimmed cap. Savonen dairy farm and gravel pit in background.*
 
-![Craig Savonen - Junior Jumper (1973)](resources/images/book/image12.jpeg){fig-align="center" width="45%"}
+![Craig Savonen - Junior Jumper (1973)](resources/images/book/craig-savonen-junior-jumper.jpeg){fig-align="center" width="45%"}
 
 **Right:** The author as a 12 year old with my Northland composite five-groove plastic bottom jumping skis, although oversized for my stature. Nylon-leather jumping boots attached to skis with all metal cable throws, cables, and toeplates. Attired with winter sweater, stretch pants, soft knit cap, and choppers (Yooper for leather mittens with inner wool liners). Goggles and helmets were a thing of the future.
 
@@ -169,7 +169,7 @@ The center of the landing hill waited to receive him as he completed his 35 mph 
 
 As detailed later, although serious injuries are rare in this sport, the worst case situation is a head injury, if impacting violently with skis or ground. Helmets didn't become standard ski jumping equipment until stipulated by the USSA in the mid-70's. At that time, even ski flyers usually wore only a soft cotton ski cap or beanie. Some ski flyers wore neither goggles nor any head covering. Peter Wilson of the Canadian National Team garnered 4th place in 1973 on the huge ski flying Copper Peak hill. As captured below, he approaches his landing without compromising style.
 
-![Canadian National Team Member Peter Wilson on Copper Peak](resources/images/book/image13.jpeg){fig-align="center" width="80%"}
+![Canadian National Team Member Peter Wilson on Copper Peak](resources/images/book/peter-wilson.jpeg){fig-align="center" width="80%"}
 
 However, by the late 70's, anyone expecting to compete in a USSA sanctioned meet had to wear a helmet. The first editions of ski jumping helmets were not stylish. The available soft plastic cap resembled an early 1900's bathing cap adorned with colorful soft foam rectangular ridges. For that brief period, it could be embarrassing to a style conscious teen, but we were all in the same boat probably thinking, but not saying "Hey, you're a circus clown, too."
 

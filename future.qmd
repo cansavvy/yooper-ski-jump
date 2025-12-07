@@ -8,13 +8,13 @@ The most visible evolution to the general public has been hill size, and therefo
 
 Driven by financial returns, including a national television audience and 50,000 or more in attendance, major investments continue to be made to the European venues. National pride and rock star fandom for the sport fuels the temptation to stretch ski flying distances. Front page internet descriptions of the largest ski jumping and ski flying hills in Europe boast of either having held or being world record capable. The most prestigious World Cup and Four Hills competition at slightly smaller venues receive national attention, but distance records still get the top headlines.
 
-![Holmenkollen Ski Jump (1980's)](resources/images/book/image36.jpeg){fig-align="center" width="80%"}
+![Holmenkollen Ski Jump (1980's)](resources/images/book/holmenkollen.jpeg){fig-align="center" width="80%"}
 
 ![Holmenkollen - The Cathedral of Ski Jumping](resources/images/book/image83.jpeg){fig-align="center" width="80%"}
 
 Rather than plateauing, the international hill size race has continued to escalate. Since 1879, the world record ski jumping distance has increased in a nearly linear fashion over the years.
 
-![World Record Ski Jumping Distance](resources/images/book/image37.png){fig-align="center" width="80%"}
+![World Record Ski Jumping Distance](resources/images/book/record-ski-jumping-distance.png){fig-align="center" width="80%"}
 
 As reference, after its inaugural meet in 1970, the Copper Peak hill record stood at 440 feet (134m). At that time, the world record of 541 feet (165m) was set by East German Manfred Wolf on the Yugoslavian hill at Planica. Over the course of ten Copper Peak meets held intermittently from 1970 through 1994, the Copper Peak hill record eventually grew to 518 feet (158m), putting it within spitting distance of the 1970 Planica record.
 
@@ -24,7 +24,7 @@ In the same month, Domen's younger sister Nika set the womens' record of 774 fee
 
 As illustrated below, based on hill records as of 2025, Copper Peak is still the sixth largest hill in the world, but it has been dwarfed by the other five ski flying hills (Vikersund, Planica, Kulm, Oberstdorf, Harrochov). All four of the still active European ski flying hills (Harrochov is in disrepair and closed) have been enlarged to K points of 200m or greater, resulting in hill records greater than 240m. (For explanation of K points, see Appendix 1). Moreover, as of this writing, there are 35 other international ski jumps whose distance records are between 140m and 156m, which is within hailing distance (18m) of Copper Peak's stagnant record.
 
-![Largest Ski Jump Hills Based on Distance Record](resources/images/book/image38.png){fig-align="center" width="80%"}
+![Largest Ski Jump Hills Based on Distance Record](resources/images/book/largest-ski-jumps.png){fig-align="center" width="80%"}
 
 Copper Peak is still the tallest artificial ski flying tower in the world. All of the major European jumps are built into the Alps or mountains of similar scale, and most of the inruns are shaped out of (or closely following) the contour of the natural terrain. The top of those inruns do not tower above the surrounding landscape like Copper Peak. So, if national motivation and financial support is aligned, some European hills can and will continue to go even bigger.
 
@@ -46,7 +46,7 @@ Although good aerodynamics always rewards a ski jumper, the yesteryear jumper's 
 
 The seemingly awkward flight position(s) popularized during those early times compromised aerodynamic efficiency, but it didn't matter so much. Competitive jumpers flew in several alternative body positions. A common technique had arms extended horizontally, and torso bent sharply forward at the waist in a so-called jackknife. Eino Wiemeri, an accomplished Ironwood jumper from the 30's and 40's, exemplified this flight style. Take-off power and timing, rather than optimum flight aerodynamics, were most critical to winning tournaments.
 
-![Eino Wiemeri "The Flying Finn" at Wolverine (1936)](resources/images/book/image39.jpeg){fig-align="center" width="80%"}
+![Eino Wiemeri "The Flying Finn" at Wolverine (1936)](resources/images/book/eino-wiemeri.jpeg){fig-align="center" width="80%"}
 
 ![Vintage Ski Jumper in Flight](resources/images/book/image84.jpeg){fig-align="center" width="60%"}
 
@@ -76,7 +76,7 @@ As flight aerodynamics became a dominant success factor, the V-style flight posi
 
 Although the fluid (air) involved in ski jumping is different than say swimming (water), a key element of success for either athlete is an innate ability to maximize efficiency of movement through the fluid by subtle, but precise positioning and movements. It may be linked with semi-conscious muscle memory, but it can't be solely taught.
 
-![V-Style Flight - 2001 Vintage](resources/images/book/image40.jpeg){fig-align="center" width="60%"}
+![V-Style Flight - 2001 Vintage](resources/images/book/v-style-flight.jpeg){fig-align="center" width="60%"}
 
 During my ski jumping days, I conjectured that a delta wing flight style was going to be the future. The delta wing is the geometrical opposite ski position to the 'V' with ski tips nearly touching, and ski backs positioned several feet apart (akin to a jumper's feet being pigeon-toed). Picture an upside down 'V' (or caret or circumflex, if you are a punctuation mark enthusiast).
 
@@ -110,7 +110,7 @@ But, to become a top tier ski jumping country, a paradigm shift is required in h
 
 In the mid-1900's, nearly every Upper Midwest village with northern European heritage and even slightly hilly terrain had countless number of ski bumps. When contrasting today with an era nearly 50 years ago, the fact is that the number of ski jumping clubs in the U.S. has decreased dramatically. From over 160 ski jumping sites nationwide not so long ago, there remains but approximately 30 ski jumping clubs in 12 states. Of those 30, 12 are located in the Midwest. Minnesota, a historical hotbed of ski jumping and prominent contributor to the U.S. national teams, recently listed only 4 clubs, down from a total of 21 in the late 20th century. Regrettably, Duluth and Ely, two of the most prominent Central Division clubs that produced numerous Olympians in the 70's and 80's era, have closed their operations.
 
-![Active Ski Jumping Clubs U.S. Midwest (2024)](resources/images/book/image42.png){fig-align="center" width="80%"}
+![Active Ski Jumping Clubs U.S. Midwest (2024)](resources/images/book/active-ski-jumping-clubs-midwest.png){fig-align="center" width="80%"}
 
 How can the trend of a shrinking ski jumping participation be reversed? A prime example of undying commitment to the sport is the Chicago (Norge Ski Club). In the early 2000's, while safety conscious Ely Minnesota city officials discussed how to scrap the no longer used 70m Ely ski jumping scaffold, along came Norge Ski Club to purchase the tower for $1. Then, they arranged to dismantle and transport the scaffold the 540 miles to Fox River Grove on 17 flat bed trucks and re-assemble it. So, they salvaged the demise of one club for the improvement of another. Now, that's commitment.
 
@@ -170,4 +170,4 @@ As a final long cast, with artificial hills and lights, ski jumping venues would
 
 In comparison to alpine skiing, the footprint of ski jumping is small and access to an entire mountain range is not required. As an out-of-the-box idea that is only half-baked, the towering landfills around the country could be developed as ski jumping sites. Wherever jumping facilities might land, the sport can be expanded across broader regions of the country, building upon a durable heritage. Ski jumping was an extreme sport before the term was invented. But now, after legitimately shedding the perception as an extremely dangerous circus act, it retains its unique mix of physical and mental demands, and of course, the 'trills'.
 
-![1930's View of 60m Brighton Mi Ski Jump](resources/images/book/image43.jpeg){fig-align="center" width="80%"}
+![1930's View of 60m Brighton Mi Ski Jump](resources/images/book/19302-view-60m-brighton.jpeg){fig-align="center" width="80%"}
