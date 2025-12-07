@@ -60,7 +60,7 @@ div.notice{
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
-  background-image: url("/img/box-images/note.png");
+  background-image: url("img/box-images/simple_logo.png");
 }
 
 
@@ -88,16 +88,16 @@ div.dictionary{
   background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
-  background-image: url("/img/box-images/dictionary.png");
+  background-image: url("img/box-images/simple_logo.png");
 }
 
 div.reflection{
   border: 4px #68ace5;
   border-style: solid;
-  background-size: 90px;
+  background-size: 70px;
   background-position: 15px center;
   background-color: #e8ebee;
-  background-image: url("/img/box-images/thinking_face.png");
+  background-image: url("img/box-images/simple_logo.png");
 }
 
 div.wip{
