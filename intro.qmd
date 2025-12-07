@@ -62,13 +62,15 @@ As Supercynski (1) documents so well, ski jumping reigned as the preeminent loca
 
 *40m – in simple terms, (m) denotes the nominal jumping distance (in meters), as designed for the hill.
 
-![Curry Hill Ski Jump, Ironwood (1923)](resources/images/book/image3.jpeg){fig-align="center" width="80%"}
+![Curry Hill Ski Jump, Ironwood (1923)](resources/images/book/image4.jpeg){fig-align="center" width="80%"}
 
 So in 1935, the Ironwood Ski Club built the 50m Wolverine ski jump in Ironwood Township. It soon hosted one of the more prominent annual tournaments in the national ski jumping scene. Wolverine was built on a ridge enabling jumps in excess of 200 feet. However, the sideshow of pursuing the world distance record (which exceeded 300 feet by 1935) was now the domain of larger international hills. Nevertheless, Wolverine ski jumping tournaments were a spectacle, attracting patrons from across the upper Midwest region who wanted to see intrepid heroes of skill and daring soar (very) high through the air, if not tumble to the bottom.
 
-![Wolverine Ski Jump During 1940's Tournaments](resources/images/book/image4.jpeg){fig-align="center" width="80%"}
+::: {layout-ncol=2}
+![Wolverine Ski Jump - Tournament View](resources/images/book/image5.jpeg)
 
-![Spectators Gather for a Ski Jumping Tournament](resources/images/book/image5.jpeg){fig-align="center" width="80%"}
+![Wolverine Ski Jump - View from Scaffold](resources/images/book/image6.jpeg)
+:::
 
 ![Historic Ski Jumping Tournament with Vintage Automobiles](resources/images/book/image8.jpeg){fig-align="center" width="80%"}
 
@@ -78,9 +80,7 @@ As indication of the Norwegian passion for skiing, all twenty of his siblings sk
 
 Since Wolverine was less than a mile as the pheasant flies from the Savonen farm, I imagine preteens Willie and Toyk enthralled while watching local ski jumping heroes like Ted Zoberski performing in their own backyard. In their teens and early twenties, Willie and Toyk regularly rode Wolverine, with Toyk competing in the official tournaments. At 5 foot 7 and 130 or so pounds, the Savonen boys were farm boy tough, wiry, and quick as snot, a physique that ironically served as the prototype for ski jumpers in the 21st century, rather than 1950.
 
-![Teenaged Willie Savonen Action Pose](resources/images/book/image6.jpeg){fig-align="center" width="60%"}
-
-![Young Skier on Wooden Skis](resources/images/book/image7.jpeg){fig-align="center" width="60%"}
+![Teenaged Willie Savonen Action Pose](resources/images/book/image7.jpeg){fig-align="center" width="60%"}
 
 After a day of jumping at Wolverine, they ski toured across the neighbors' farm fields to get back to the lower lying Savonen dairy farm homestead. If the snow was old and crusty, they glided effortlessly over the top of it with their heavy, stiff hickory skis.
 
