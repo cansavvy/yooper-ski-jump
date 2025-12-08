@@ -16,25 +16,6 @@ book:
   
   chapters:
     - index.qmd
-    - intro.qmd
-    - part: "Local Beginnings"
-      chapters:
-        - iron-bowl.qmd
-    - part: "The Competitive Journey"
-      chapters:
-        - midwest-circuit.qmd
-        - bigger-hills.qmd
-        - apex-year.qmd
-        - glide-path.qmd
-    - part: "The Broader View"
-      chapters:
-        - the-sport.qmd
-        - future.qmd
-    - part: "Back Matter"
-      chapters:
-        - acknowledgments.qmd
-        - appendix.qmd
-        - references.qmd
   
   sidebar: 
     logo: "img/logo.png"
