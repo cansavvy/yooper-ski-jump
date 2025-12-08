@@ -15,6 +15,110 @@ website:
     logo: "img/logo.png"
     logo-alt: "Yooper Ski Jumping - Flights of Legacy"
     foreground: "#1B365D"
+    collapse-level: 1
+    contents:
+      - text: "About This Book"
+        href: index.qmd#about-this-book
+      - section: "1 - Introduction"
+        contents:
+          - text: "1.1 Foreword"
+            href: index.qmd#foreword
+          - text: "1.2 Heroes of Yore"
+            href: index.qmd#heroes-of-yore
+      - section: "2 - Local Beginnings"
+        contents:
+          - text: "2.1 Section 12 Legacy"
+            href: index.qmd#section-12-legacy
+          - text: "2.2 Slab Riders"
+            href: index.qmd#slab-riders
+      - section: "3 - Junior Hills"
+        contents:
+          - text: "3.1 Iron Bowl Shape"
+            href: index.qmd#iron-bowl-shape
+          - text: "3.2 Launch and Learn"
+            href: index.qmd#launch-and-learn
+          - text: "3.3 Yooper Junior Jumping"
+            href: index.qmd#yooper-junior-jumping
+          - text: "3.4 Iron Bowl Culture"
+            href: index.qmd#iron-bowl-culture
+      - section: "4 - Mid-Size Circuit"
+        contents:
+          - text: "4.1 Wolverine Regenerated"
+            href: index.qmd#wolverine-regenerated
+          - text: "4.2 Suicide Hill"
+            href: index.qmd#suicide-hill
+          - text: "4.3 Bulldozer"
+            href: index.qmd#bulldozer
+          - text: "4.4 Circus Acts"
+            href: index.qmd#circus-acts
+          - text: "4.5 Crazy Long"
+            href: index.qmd#crazy-long
+      - section: "5 - Personal Insights"
+        contents:
+          - text: "5.1 Spotty Training"
+            href: index.qmd#spotty-training
+          - text: "5.2 Hilltop Strategy"
+            href: index.qmd#hilltop-strategy
+          - text: "5.3 Zoom With A View"
+            href: index.qmd#zoom-with-a-view
+          - text: "5.4 Falling Short"
+            href: index.qmd#falling-short
+          - text: "5.5 Fatherly Pride"
+            href: index.qmd#fatherly-pride
+      - section: "6 - Going Big"
+        contents:
+          - text: "6.1 Westby"
+            href: index.qmd#westby
+          - text: "6.2 Pine Mountain"
+            href: index.qmd#pine-mountain
+          - text: "6.3 Junior Nationals"
+            href: index.qmd#junior-nationals
+      - section: "7 - Transitions"
+        contents:
+          - text: "7.1 Glide Path"
+            href: index.qmd#glide-path
+          - text: "7.2 Fork in the Track"
+            href: index.qmd#fork-in-the-track
+          - text: "7.3 Dynamic Duo"
+            href: index.qmd#dynamic-duo
+      - section: "8 - Merits of Ski Jumping"
+        contents:
+          - text: "8.1 Physical + Mental"
+            href: index.qmd#physical-mental
+          - text: "8.2 Safety First"
+            href: index.qmd#safety-first
+          - text: "8.3 Historical Relevance"
+            href: index.qmd#historical-relevance
+          - text: "8.4 World Heritage"
+            href: index.qmd#world-heritage
+      - section: "9 - Evolution Snapshot"
+        contents:
+          - text: "9.1 International Hill Size Race"
+            href: index.qmd#international-hill-size-race
+          - text: "9.2 Physics vs Physique"
+            href: index.qmd#physics-vs-physique
+          - text: "9.3 Flight Style"
+            href: index.qmd#flight-style
+      - section: "10 - The Future"
+        contents:
+          - text: "10.1 Midwest Status"
+            href: index.qmd#midwest-status
+          - text: "10.2 Large Hills"
+            href: index.qmd#large-hills
+          - text: "10.3 Foundation or Roof"
+            href: index.qmd#foundation-or-roof
+          - text: "10.4 Cultural Embrace"
+            href: index.qmd#cultural-embrace
+      - section: "Back Matter"
+        contents:
+          - text: "11 - Hall of Gratitude"
+            href: index.qmd#hall-of-gratitude
+          - text: "12 - Appendix - Classification"
+            href: index.qmd#appendix-classification
+          - text: "13 - Appendix - Hill Preparation"
+            href: index.qmd#appendix-preparation
+          - text: "14 - References"
+            href: index.qmd#references
   
   page-footer:
     left: |
@@ -37,10 +141,6 @@ format:
     css: style.css
     linkcolor: "#00C1D5"
     mainfont: "Karla"
-    
-    toc: true
-    toc-depth: 2
-    toc-title: "Contents"
   
     code-link: true
     code-copy: true
