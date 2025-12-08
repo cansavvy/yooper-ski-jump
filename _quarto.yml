@@ -1,23 +1,17 @@
 project:
-  type: book
+  type: website
   output-dir: docs
 
-book:
+website:
   title: "A Yooper Ski Jumping Legacy"
-  author: "Craig Savonen"
-  date: "December 6, 2025"
   favicon: img/favicon.png
-  bread-crumbs: false
-
-  page-navigation: true
+  
   search: true
   repo-url: https://github.com/fhdsl/yooper-ski-jump
-  repo-actions: [edit] 
+  repo-actions: [edit]
   
-  chapters:
-    - index.qmd
-  
-  sidebar: 
+  sidebar:
+    style: docked
     logo: "img/logo.png"
     logo-alt: "Yooper Ski Jumping - Flights of Legacy"
     foreground: "#1B365D"
@@ -39,13 +33,14 @@ bibliography: references.bib
 format:
   html:
     grid:
-       sidebar-width: 260px
+       sidebar-width: 300px
     css: style.css
     linkcolor: "#00C1D5"
     mainfont: "Karla"
     
-    sidebar: true
     toc: true
+    toc-depth: 2
+    toc-title: "Contents"
   
     code-link: true
     code-copy: true
@@ -54,6 +49,7 @@ format:
   
     image: resources/logo/yooper_ski_jump_logo.png
     license: "CC BY-NC"
+
 knitr:
   opts_chunk:
     fig.path: "resources/images/figure/"

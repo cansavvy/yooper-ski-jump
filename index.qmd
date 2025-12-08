@@ -1,10 +1,18 @@
-# Yooper Ski Jumping Legacy {.unnumbered}
+---
+title: "A Yooper Ski Jumping Legacy"
+author: "Craig Savonen"
+date: "December 6, 2025"
+toc: true
+toc-depth: 2
+toc-title: "Contents"
+toc-location: left
+---
 
-A personal memoir chronicling the rich heritage of ski jumping in Michigan's Upper Peninsula, from family roots to competitive dreams.
+A personal memoir chronicling the rich heritage of ski jumping in Michigan's Upper Peninsula. 
 
-![Willie Savonen - Junior Jumper](resources/images/book/image1.jpeg){fig-align="center" width="60%"}
+![Willie Savonen - Junior Jumper](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center" width="60%"}
 
-## About This Book
+## About This Book  {.unnumbered}
 
 This is a firsthand account of ski jumping in the Gogebic Range area of Michigan's Upper Peninsula during the 1970s and early 1980s. It weaves together personal experiences with the broader history of a sport that once captivated communities across the northern United States and is primed to captivate the world once again!
 
@@ -32,7 +40,7 @@ Technical editing and formatting by Candace Savonen, daughter of Craig.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the author.
 
-# 1 – Introduction
+# 1 - Introduction {#introduction}
 
 ## 1.1 – Foreword
 
@@ -78,7 +86,7 @@ What knocked it out of the park for me was that prior to these achievements, in 
 **Daescher** – the predominant flight style from the late 1950's until late-1980's, illustrated by skis parallel and close together and the ski jumper's torso bent slightly forward, with arms close or touching at the hips. It may also be noted that goggles were not popular and helmets were yet to be introduced to the sport.
 :::
 
-# 2 – Local Beginnings
+# 2 - Local Beginnings {#local-beginnings}
 
 ## 2.1 – Section 12 Legacy
 
@@ -146,7 +154,7 @@ Yet, the sibling standard for adventurous thrill seeking was pioneered by my sis
 
 Later, she trumped that adventure by somehow navigating her way to the very top of the monstrous Copper Peak ski flying hill scaffold while it was still in the finishing stages of construction. Chain link enclosures protecting the open-air walkways were not yet in place. I wouldn't hazard to do that then or now, and I'm supposed to be the risk-taking ski jumper of the family.
 
-# 3 – Junior Hills
+# 3 - Junior Hills {#junior-hills}
 
 ## 3.1 – Iron Bowl Shape
 
@@ -329,7 +337,7 @@ Theron Peterson, the veteran Ironwood High coach of alpine skiing and several ot
 
 As mentioned by Supercynski (1), a limited number of years remained for continued use of the Iron Bowl, since the Ironwood municipal authority was clamoring for more landfill space in the Caves property that they controlled. And even more problematically, with years passing since the underground mines were abandoned, the steadily rising water table would eventually peek above ground in the bottom of the Caves ravine.
 
-# 4 – Mid-Size Circuit
+# 4 - Mid-Size Circuit {#mid-size-circuit}
 
 During the 70's and 80's, the upper Midwest ski jumping tournament circuit was distributed across the western U.P., southern half of Wisconsin, eastern Minnesota, and northern Illinois. Until the late 70's, the Gogebic Range Ski Club had a nucleus of ski jumpers who maintained the local ski jump, trained, and traveled together nearly every weekend to a Midwest tournament from the first full week of January through the middle of March. Most of the intermediate to large hills comprising that circuit are mapped below.
 
@@ -457,7 +465,7 @@ With the additional speed of a well-worn, icy inrun track at the end of a tourna
 
 A top tier jumper accustomed with toying the extremes of landing hills would have exploited the trajectory, nailing a jump well beyond the hill record (albeit an unofficial distance as mentioned). What a missed opportunity for me! On my walk up the hill afterward, I was saluted by Bob Shea saying "You had so much height you looked like Checko." Chester 'Checko' Kusz, brother of Wally, was a powerfully stocky and exceptionally accomplished jumper during the heyday of an earlier generation of Ironwood jumpers.
 
-# 5 – Personal Insights
+# 5 - Personal Insights {#personal-insights}
 
 ## 5.1 – Spotty Training
 
@@ -553,7 +561,7 @@ A few years later my eyes were more fully opened to Dad's love of the sport and 
 
 I tried to not fall short in this regard from then on, but in retrospect I have since realized that he didn't attend as many of my tournaments in the last few years, whether by the demands of his workplace, his declining health, or other reasons. So, perhaps there will be a ski jumping Field of Dreams penance moment sometime in the eternal future, reuniting father and son to discuss their favorite pastime!
 
-# 6 – Going Big
+# 6 - Going Big {#going-big}
 
 1979 proved to be my apex ski jumping season. It included a ski jumping meet nearly every week from the end of December through the latter half of March. I had graduated fully to the Midwest senior jumping circuit, including the two biggest ski jumping hills in the Midwest, i.e. Westby's Snowflake and Iron Mountain's Pine Mountain. (Note: As of this writing, the giant Copper Peak ski flying hill was still on a 30+ year siesta, although it is expected to rise soon from its slumber).
 
@@ -665,7 +673,7 @@ The second week at Squaw Valley was filled with instructional sessions and dry l
 
 A welcome diversion was being able to go alpine skiing one day on Squaw Valley Mountain. For a Yooper who had never ventured beyond the upper Midwest until that trip, the week in general and that particular day, was a real treat. Whereas the maximum elevation change at U.P. alpine hills is a measly 650 feet, the 2700 foot elevation change from top to bottom of Squaw Valley was another scale. The picturesque view from the tram ride and the length of the ski runs were awesome. Even for a fit 18 year old, my leg muscles were burning when skiing without pause from top to bottom of the mountain. The climate changed from blustery, cold, and icy conditions at the top to sunny, mid-50's and soft snow at the bottom. Just as noticeable was that ski attire changed dramatically, as if by magic, from winter parkas, ski pants, and goggles at the mountain top to shorts and bikinis at the bottom. Thus ended the apex year of my ski jumping career.
 
-# 7 – Transitions
+# 7 - Transitions {#transitions}
 
 ## 7.1 – Glide Path
 
@@ -705,7 +713,7 @@ The Green Hornet's characteristically elegant flight style was recognizable from
 
 After I retired from ski jumping and embarked on a 40 year engineering career in downstate Michigan, sincere compliments to the Wolverine Ski Club for what they accomplished from the early 80's through the mid-90's. As documented by Supercynski (1), they refocused on revitalizing local junior jumping. A key step was John Kusz and six companions of the Wolverine Ski Club investing their time in being formally trained as ski jumping coaches. The commitment of many people resulted in a complement of smaller hills along the Wolverine ridge, including a 10m and 35m. That effort bore fruit. Over a 10 - 12 year period, local junior jumpers represented themselves and the club very well at ski jumping meets all over the Midwest and even nationwide (1). But, similar to my dozen year ski jumping experience, that mid-80's to mid-90's junior age class eventually grew up and had to move on to other phases of life, just as I did in the 1981 - 1982 timeframe.
 
-# 8 – Merits of Ski Jumping
+# 8 - Merits of Ski Jumping {#merits}
 
 ## 8.1 – Physical + Mental
 
@@ -817,7 +825,7 @@ As I trudged up the side of the landing of the intermediate hill, it was déjà 
 
 After he lamented that "Youngsters nowadays don't want to ski jump. Hill preparation is too much work for them. There are too many other distractions", he eagerly offered that "The hill is now ready. There are boots and skis that will fit you in the chalet." Whoa, I walked into that one. I didn't expect that he was going to call me out. After thanking him for such a kind offer, I slunk away, using the legitimate excuse that I hadn't jumped in 36 years and our family had evening plans (that did not include a hospital visit).
 
-# 9 – Evolution Snapshot
+# 9 - Evolution Snapshot {#evolution}
 
 Like all sports, ski jumping has evolved on many fronts. The following is a mere snapshot of some changes that have emerged over the past 50 years.
 
@@ -907,7 +915,7 @@ Per the cover photo of Supercynski's book (1), my esteemed local ski jumping col
 
 ![John Kusz in Copper Peak Flight](resources/images/book/image41.jpeg){fig-align="center" width="80%"}
 
-# 10 – The Future
+# 10 - The Future {#future}
 
 What is the future of ski jumping in the U.S.? How can the sport be not only preserved, but grown? Many ski jumping enthusiasts have pondered this question for years. OK, this is America and we're not talking about displacing the big four (football, basketball, baseball, or hockey) as a major sport. Success in rejuvenating this tremendous sport in the U.S. won't involve tens of thousands of athletes suddenly dropping their ball, bat, racquet, golf club, or swimsuit and leaping into ski jumping. But, more than just a few hundred jumpers across the nation should be able to enjoy this exhilarating (and safe) sport from early youth to beyond peak physical years.
 
@@ -991,7 +999,7 @@ In comparison to alpine skiing, the footprint of ski jumping is small and access
 
 ![1930's View of 60m Brighton Mi Ski Jump](resources/images/book/19302-view-60m-brighton.jpeg){fig-align="center" width="80%"}
 
-# 11 – Hall of Gratitude
+# 11 - Hall of Gratitude {#hall-of-gratitude}
 
 I am indebted to the sport and people of ski jumping. In addition to numerous mentions of Dad as a focal point of this tribute, my own honorary first tier 'Hall of Fame' would include;
 
@@ -1021,7 +1029,7 @@ A phenomenal multi-sport athlete as a youth and young man, Charlie translated th
 
 Willie and Toivo (Toyk) always alluded to inheriting an exceptional work ethic from their Grandpa John who had to be a fierce dynamo to establish a new homestead from scratch in the early 1900's in a harsh winter region of a new country and little to no English skills. As a soft spoken adult, Uncle Toivo (also my godfather) was an avid outdoorsman who parlayed that high energy and discipline into being an avid cross country and marathon runner (which in turn his son John excelled). He raised five kids with wife Bertha and worked more than 30 years as a welder and then foreman for the Reserve Mining Co in Silver Bay, Minnesota. In his later years, he expended boundless energy as a founding member (and sometimes called the grandfather) of the 310 mile Superior Hiking Trail, cleared out of rugged forest wilderness along the north shore of Lake Superior that today stretches from Wisconsin south of Duluth to the Canadian border.
 
-# 12 – Appendix – Ski Jump Classification
+# 12 - Appendix - Ski Jump Classification {#appendix-classification}
 
 In recent decades, several factors have contributed to the resizing and reclassification of ski jumps, including Suicide Hill, as mentioned earlier. Suicide was reclassified from 70m to a larger (90m) hill size by reasons of it being (a) physically modified to enable longer jumps, and (b) the international standard for classification being revised according to the K-point, rather than the P-point (as explained below). 
 
@@ -1055,7 +1063,7 @@ Another pertinent observation is that Pine Mountain and Suicide straddle hill si
 
 Pine Mountain is classified as a Large ski jump now. Yet, the distinction between it and Copper Peak is nearly blurred in terms of longest recorded distances. Copper Peak's hill record has been standing still at 518 feet since its last meet in 1994 while in subsequent years continued modifications to Pine Mountain has yielded the current record of 472 feet that is within 10% (or less than 50 feet) of Copper Peak's record and its 1970 vintage hill design.
 
-# 13 – Appendix – Hill Preparation
+# 13 - Appendix - Hill Preparation {#appendix-preparation}
 
 Ski jump hill snow surface preparation continues to evolved into a science. In the 70's, the creation of supersized hills, such as Copper Peak, forced innovation. Wally Kusz, Leno Slanzi, Bob Shea and several others had to be creative to deal with the sheer size of Copper Peak's inrun and landing hill. With a relatively small crew at hand, a large scale snow sled was pulled up the massive landing by a cable and pulley system attached to a bulldozer at the bottom of the hill (1). To snow the 469 foot inrun, sacks of snow got an elevator ride to snow the scaffold top and a smaller sled was used to snow the lower inrun portions.
 
@@ -1108,7 +1116,7 @@ The following table summarizes the largest ski jumping facilities in North Ameri
 
 **Upper Midwest hills referenced in this memoir*
 
-# 14 – References
+# 14 - References {#references}
 
 1. Soaring With The Eagles: The Copper Peak Story, Charles Supercynski (2012).
 2. Jerry Martin - 1973 U.S. National Ski Jumping Champion (Ishpeming), Duluth News Tribune.
