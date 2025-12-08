@@ -18,7 +18,7 @@ From the small 30-meter Iron Bowl to the towering 90-meter hills at Pine Mountai
 ## What You'll Discover
 
 - **Family Legacy**: The Savonen family's roots in Upper Peninsula ski jumping, spanning generations
-- **Local Hills**: Stories from the Iron Bowl and Wolverine ski jumps in Ironwood, Michigan
+- **Local Hills**: Anecdotes from the Iron Bowl and Wolverine ski jumps in Ironwood, Michigan
 - **The Competitive Circuit**: Experiences on the Midwest tournament circuit from the U.P. to Wisconsin and Minnesota
 - **Big Hill Dreams**: Riding the 90-meter hills at Pine Mountain and Westby, and competing at the Junior Nationals
 - **The Sport's Future**: Reflections on preserving and growing ski jumping in America
@@ -29,7 +29,7 @@ From the small 30-meter Iron Bowl to the towering 90-meter hills at Pine Mountai
 
 ## About the Author
 
-**Craig Savonen** grew up in Ironwood, Michigan, where ski jumping was woven into the fabric of community life. Following in the footsteps of his father Willie, Craig competed as a junior ski jumper throughout the 1970s, qualifying for the 1979 Junior National Championships at Squaw Valley, California. He went on to pursue a 40 year engineering career while maintaining his passion for the sport that shaped his youth.
+**Craig Savonen** grew up in Ironwood, Michigan, where ski jumping was woven into the fabric of community life. Following in the footsteps of his father Willie, Craig competed as a junior ski jumper throughout the 1970s, qualifying for the 1979 Junior National Championships at Squaw Valley, California. He went on to pursue a 40 year engineering career, but didn't escape his passion for the sport that shaped his youth.
 
 Technical editing and formatting by Candace Savonen, daughter of Craig.
 
@@ -113,7 +113,7 @@ So in 1935, the Ironwood Ski Club built the 50m Wolverine ski jump in Ironwood T
 ![Wolverine Ski Jump - View from Scaffold](resources/images/book/wolverine-2.jpeg)
 :::
 
-![Historic Ski Jumping Tournament with Vintage Automobiles](resources/images/book/suicidebowlskijumpingtournament.jpeg){fig-align="center" width="80%"}
+![Suicide Bowl Ski Jumping Tournament (1940's)](resources/images/book/suicidebowlskijumpingtournament.jpeg){fig-align="center" width="80%"}
 
 Among the ski jumping legends that Dad described to me, the exploits of Norwegian immigrant Torger Tokle were prominent. Tokle set the Wolverine hill record of 216 feet in 1942. National newspaper articles were calling him the "Babe Ruth of Skiing" (5). In a 4-year span (1939 – 1943) after migrating to the U.S., Tokle entered 44 tournaments and won 39 of them. Ultimately, Torger's heroism was immortalized when he joined the U.S. Army and died in a 1945 World War II battle.
 
@@ -153,7 +153,7 @@ Later, she trumped that adventure by somehow navigating her way to the very top 
 
 # 3 - Junior Hills {#junior-hills}
 
-## 3.1 – Iron Bowl Shape
+## 3.1 – Iron Bowl Shaping
 
 Acknowledging limitations of the scaled down Wolverine after the 1963 storm damage, the ardent Gogebic Range Ski Club (GRSC) committed to re-energizing local and youth ski jumping. The Caves provided the location. As named locally, the Caves are the east-west orientated land subsidence originating over the abandoned underground mines just 2 - 3 city blocks south of downtown Ironwood. There are no known open crevices, or caves per se, but Caves is vernacular for cave-in. It is a 1½ mile long by ¼ mile wide ravine with one side faced with 25 - 100 foot cliffs of dark rust iron rock. Decades before creative volunteerism established today's Miner's Memorial Heritage Park, the Caves were an unofficial local playground for snowmobiling, motorbiking, juvenile exploration, and multiple ski jumps.
 
@@ -334,7 +334,7 @@ Theron Peterson, the veteran Ironwood High coach of alpine skiing and several ot
 
 As mentioned by Supercynski (1), a limited number of years remained for continued use of the Iron Bowl, since the Ironwood municipal authority was clamoring for more landfill space in the Caves property that they controlled. And even more problematically, with years passing since the underground mines were abandoned, the steadily rising water table would eventually peek above ground in the bottom of the Caves ravine.
 
-# 4 - Mid-Size Circuit {#mid-size-circuit}
+# 4 - Intermediate Hill Circuit {#mid-size-circuit}
 
 During the 70's and 80's, the upper Midwest ski jumping tournament circuit was distributed across the western U.P., southern half of Wisconsin, eastern Minnesota, and northern Illinois. Until the late 70's, the Gogebic Range Ski Club had a nucleus of ski jumpers who maintained the local ski jump, trained, and traveled together nearly every weekend to a Midwest tournament from the first full week of January through the middle of March. Most of the intermediate to large hills comprising that circuit are mapped below.
 
@@ -558,7 +558,7 @@ A few years later my eyes were more fully opened to Dad's love of the sport and 
 
 I tried to not fall short in this regard from then on, but in retrospect I have since realized that he didn't attend as many of my tournaments in the last few years, whether by the demands of his workplace, his declining health, or other reasons. So, perhaps there will be a ski jumping Field of Dreams penance moment sometime in the eternal future, reuniting father and son to discuss their favorite pastime!
 
-# 6 - Going Big {#going-big}
+# 6 - Go Big {#go-big}
 
 1979 proved to be my apex ski jumping season. It included a ski jumping meet nearly every week from the end of December through the latter half of March. I had graduated fully to the Midwest senior jumping circuit, including the two biggest ski jumping hills in the Midwest, i.e. Westby's Snowflake and Iron Mountain's Pine Mountain. (Note: As of this writing, the giant Copper Peak ski flying hill was still on a 30+ year siesta, although it is expected to rise soon from its slumber).
 
@@ -670,7 +670,7 @@ The second week at Squaw Valley was filled with instructional sessions and dry l
 
 A welcome diversion was being able to go alpine skiing one day on Squaw Valley Mountain. For a Yooper who had never ventured beyond the upper Midwest until that trip, the week in general and that particular day, was a real treat. Whereas the maximum elevation change at U.P. alpine hills is a measly 650 feet, the 2700 foot elevation change from top to bottom of Squaw Valley was another scale. The picturesque view from the tram ride and the length of the ski runs were awesome. Even for a fit 18 year old, my leg muscles were burning when skiing without pause from top to bottom of the mountain. The climate changed from blustery, cold, and icy conditions at the top to sunny, mid-50's and soft snow at the bottom. Just as noticeable was that ski attire changed dramatically, as if by magic, from winter parkas, ski pants, and goggles at the mountain top to shorts and bikinis at the bottom. Thus ended the apex year of my ski jumping career.
 
-# 7 - Transitions {#transitions}
+# 7 - Time of Transition {#Time of Transition}
 
 ## 7.1 – Glide Path
 
@@ -907,7 +907,7 @@ As I trudged up the side of the landing of the intermediate hill, it was déjà 
 
 After he lamented that "Youngsters nowadays don't want to ski jump. Hill preparation is too much work for them. There are too many other distractions", he eagerly offered that "The hill is now ready. There are boots and skis that will fit you in the chalet." Whoa, I walked into that one. I didn't expect that he was going to call me out. After thanking him for such a kind offer, I slunk away, using the legitimate excuse that I hadn't jumped in 36 years and our family had evening plans (that did not include a hospital visit).
 
-# 9 - Evolution Snapshot {#evolution}
+# 9 - Evolution Snapshots {#evolution}
 
 Like all sports, ski jumping has evolved on many fronts. The following is a mere snapshot of some changes that have emerged over the past 50 years.
 
@@ -1039,7 +1039,7 @@ Closer to home, the upper Midwest is amply equipped with large hills. Four of th
 
 This is not to say that today there is an adequate number of small to intermediate jumping hills to support substantial growth in the sport. But, it's a smaller mountain to climb when a regional groundswell for the sport arises. As may be inferred from the earlier list of Midwest clubs, there are several active small and intermediate hill ski jumping clubs in Wisconsin and Minnesota attempting to spearhead growth, motivated by an enduring fascination with the sport. They have recognized the importance of a graduated set of small hills within the same complex, in addition to using hills already integral to most existing large ski jumping hill complexes.
 
-## 10.3 – Foundation or Roof
+## 10.3 – Foundation
 
 Should the priority be development of small hills and youth ski jumping programs or large hills and international competition?
 
@@ -1194,7 +1194,7 @@ The following table summarizes the largest ski jumping facilities in North Ameri
 | Squaw Valley, CA | Papoose Peak | 19 | 180 | N/A | N/A | 99 |
 | Eau Claire, WI** | Silvermine | 20 | 196 | 85 | 95 | 96 |
 
-*Distance in Meters*
+*K-Point Distance in Meters, and explained in Ski Jump Classification Appendix*
 
 **Upper Midwest hills referenced in this memoir*
 
