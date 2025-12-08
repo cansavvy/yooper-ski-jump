@@ -750,8 +750,6 @@ All injuries that prevented training or competing impacted less than 7% of the M
 
 ![Percentage of Athletes Losing Time to Injury in 2018 Olympic Winter Games](resources/images/book/percentage-losing-time-to-injury.jpeg){fig-align="center" width="80%"}
 
-![2002 Central Division - Jimmy Denney Skier of the Year](resources/images/book/image86.jpeg){fig-align="center" width="70%"}
-
 If such data is initially surprising, further inspection should make it intuitive. The impressive aerial skills of halfpipe skiers executing multiple twists, turns, and inversions followed by a mostly vertical descent and (hopefully) an upright landing onto an uneven hard snow terrain makes even superior athletes susceptible to injury.
 
 Another relatively new sport, ski cross (formally organized in 1986 and adopted as an Olympic sport in 2010), has four competitors simultaneously racing side by side down a course full of bumps and turns. Their objective is to survive a progression of exciting, but aptly named, knockout rounds to win a championship. The likelihood of contact or injury inducing falls are supported by the data. Without being too poetic, contrast that with a single, well trained ski jumper soaring majestically through the air and touching down gently on an expertly profiled and smoothly groomed landing hill.
@@ -788,7 +786,85 @@ In the first 75 years of the 20th century, many American kids were playing baseb
 
 The worldwide enthusiasm and cultural impact of ski jumping is evidenced by the sheer number of ski jumps that existed over the past century. As of November 2025, over 9000 ski jumps and 7000 ski jumping facilities in 48 countries have been catalogued by the massive and still growing Ski Jumping Hill Archive (33). It is neither complete nor will it ever include the countless smaller backyard bumps that communities had.
 
+**Ski Jumps Worldwide (34)**
+
+<table style="border-collapse: collapse; width: 60%; margin: auto;">
+<thead>
+<tr style="background-color: #d3d3d3;">
+<th style="border: 1px solid black; padding: 8px; text-align: left;">Ski Jumps</th>
+<th style="border: 1px solid black; padding: 8px; text-align: center;">Total</th>
+<th style="border: 1px solid black; padding: 8px; text-align: center;">With Matting</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color: #90EE90;">
+<td style="border: 1px solid black; padding: 8px;">Active</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">1588</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">1013</td>
+</tr>
+<tr style="background-color: #FFFF99;">
+<td style="border: 1px solid black; padding: 8px;">Under Construction</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">26</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">14</td>
+</tr>
+<tr style="background-color: #FFFF99;">
+<td style="border: 1px solid black; padding: 8px;">Project Defined</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">9</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">9</td>
+</tr>
+<tr style="background-color: #F5DEB3;">
+<td style="border: 1px solid black; padding: 8px;">Project Not Realized</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">105</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">57</td>
+</tr>
+<tr>
+<td style="border: 1px solid black; padding: 8px;">Out of Order</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">935</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">104</td>
+</tr>
+<tr>
+<td style="border: 1px solid black; padding: 8px;">Destroyed</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">6274</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center;">483</td>
+</tr>
+<tr style="background-color: #e8e8e8;">
+<td style="border: 1px solid black; padding: 8px; font-weight: bold;">Grand Total</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center; font-weight: bold;">8937</td>
+<td style="border: 1px solid black; padding: 8px; text-align: center; font-weight: bold;">1680</td>
+</tr>
+</tbody>
+</table>
+
 As a subset of this database, and an indication of ski jumping's continuing popularity, today there are still nearly 1600 active ski jumps worldwide. The historical popularity of ski jumping is also evident by the count of jumps either 'out of order' or 'destroyed' over the years. There are handfuls of ski jumps now under construction and more on the drawing board, pending adequate resources to proceed. Artificial surfacing (matting) has now been applied to nearly two thirds of them (1013), thus expanding the ski jumping season to whenever or wherever there is no snow.
+
+**Historical Ski Jumping Facilities per Country (35)**
+
+| | Country | Facilities | | | Country | Facilities |
+|:---:|:---|:---:|:---:|:---:|:---|:---:|
+| ![](resources/images/book/algeria.png){height="15px"} | Algeria | 1 | | ![](resources/images/book/argentina.png){height="15px"} | Argentina | 1 |
+| ![](resources/images/book/australia.png){height="15px"} | Australia | 11 | | ![](resources/images/book/austria.png){height="15px"} | Austria | 231 |
+| ![](resources/images/book/bosniaandherzegovina.png){height="15px"} | Bosnia and Herzegovina | 8 | | ![](resources/images/book/belarus.png){height="15px"} | Belarus | 4 |
+| ![](resources/images/book/bulgaria.png){height="15px"} | Bulgaria | 8 | | ![](resources/images/book/canada.png){height="15px"} | Canada | 75 |
+| ![](resources/images/book/chile.png){height="15px"} | Chile | 1 | | ![](resources/images/book/china.png){height="15px"} | China | 9 |
+| ![](resources/images/book/croatia.png){height="15px"} | Croatia | 9 | | ![](resources/images/book/czech.png){height="15px"} | Czech Republic | 250 |
+| ![](resources/images/book/denmark.png){height="15px"} | Denmark | 21 | | ![](resources/images/book/estonia.png){height="15px"} | Estonia | 27 |
+| ![](resources/images/book/finland.png){height="15px"} | Finland | 395 | | ![](resources/images/book/france.png){height="15px"} | France | 98 |
+| ![](resources/images/book/great-britain.png){height="15px"} | Great Britain | 7 | | ![](resources/images/book/georgia.png){height="15px"} | Georgia | 2 |
+| ![](resources/images/book/germany.png){height="15px"} | Germany | 723 | | ![](resources/images/book/hungary.png){height="15px"} | Hungary | 11 |
+| ![](resources/images/book/iceland.png){height="15px"} | Iceland | 18 | | ![](resources/images/book/italy.png){height="15px"} | Italy | 55 |
+| ![](resources/images/book/japan.png){height="15px"} | Japan | 106 | | ![](resources/images/book/kzakhstan.png){height="15px"} | Kazakhstan | 5 |
+| ![](resources/images/book/southkorea.png){height="15px"} | South Korea | 2 | | ![](resources/images/book/latvia.png){height="15px"} | Latvia | 23 |
+| ![](resources/images/book/lebanon.png){height="15px"} | Lebanon | 1 | | ![](resources/images/book/liechtenstein.png){height="15px"} | Liechtenstein | 1 |
+| ![](resources/images/book/lithuania.png){height="15px"} | Lithuania | 8 | | ![](resources/images/book/morocco.png){height="15px"} | Morocco | 2 |
+| ![](resources/images/book/northmacedonia.png){height="15px"} | North Macedonia | 1 | | ![](resources/images/book/montenegro.png){height="15px"} | Montenegro | 1 |
+| ![](resources/images/book/netherlands.png){height="15px"} | Netherlands | 1 | | ![](resources/images/book/norway.png){height="15px"} | Norway | 1643 |
+| ![](resources/images/book/newzealand.png){height="15px"} | New Zealand | 6 | | ![](resources/images/book/poland.png){height="15px"} | Poland | 264 |
+| ![](resources/images/book/northkorea.png){height="15px"} | North Korea | 4 | | ![](resources/images/book/romania.png){height="15px"} | Romania | 15 |
+| ![](resources/images/book/russia.png){height="15px"} | Russia | 100 | | ![](resources/images/book/slovenia.png){height="15px"} | Slovenia | 206 |
+| ![](resources/images/book/spain.png){height="15px"} | Spain | 11 | | ![](resources/images/book/serbia.png){height="15px"} | Serbia | 5 |
+| ![](resources/images/book/switzerland.png){height="15px"} | Switzerland | 158 | | ![](resources/images/book/slovakia.png){height="15px"} | Slovakia | 71 |
+| ![](resources/images/book/sweden.png){height="15px"} | Sweden | 225 | | ![](resources/images/book/turkey.png){height="15px"} | Turkey | 2 |
+| ![](resources/images/book/ukraine.png){height="15px"} | Ukraine | 22 | | ![](resources/images/book/unitedstates.png){height="15px"} | United States | 306 |
 
 On a country-by-country basis, a dozen countries have had more than 100 different ski jumping facilities, with Norway leading by far, Germany a distant second, and the U.S. in third. European and western Asian countries are also prominent. However, the extent of ski jumping diaspora is exponentially greater when noting not only Australia and New Zealand on the list, but Algeria, Chile, Lebanon, and Morocco?! Wow!
 
@@ -800,7 +876,16 @@ Sampling 2024 - 2025 World Cup standings, the sport is presently dominated by Au
 
 In terms of total Olympic ski jumping medal count, Norway leads the top six countries, as if they invented the sport. Oh yeah, they did. But Finland is right there in the 'Big Three', even though their medal harvesting has ceased since 2006.
 
-![Olympic Ski Jumping Medal Count By Country (1924 – 2022)](resources/images/book/image34.png){fig-align="center" width="80%"}
+**Olympic Ski Jumping Medal Count By Country (1924 – 2022) (36)**
+
+| | Country | Total Medals | Gold Medals |
+|:---:|:---|:---:|:---:|
+| ![](resources/images/book/norway.png){height="15px"} | Norway | 35 | 11 |
+| ![](resources/images/book/austria.png){height="15px"} | Austria | 26 | 7 |
+| ![](resources/images/book/finland.png){height="15px"} | Finland | 22 | 10 |
+| ![](resources/images/book/germany.png){height="15px"} | Germany | 14 | 6 |
+| ![](resources/images/book/japan.png){height="15px"} | Japan | 13 | 4 |
+| ![](resources/images/book/poland.png){height="15px"} | Poland | 10 | 4 |
 
 The U.S. has but one Olympic medal in history, when Anders Haugen won bronze in the first Olympics in 1924. Ironically, it was not officially awarded until 1974 after a scoring mistake was finally uncovered. Anders Haugen even helped lead construction of his namesake Haugen Hill ski jump in Dillon, Colorado where he set more world records in 1919 and 1920 and performed jumping exhibitions into his late 50's.
 
