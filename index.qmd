@@ -927,9 +927,7 @@ The most visible evolution to the general public has been hill size, and therefo
 
 Driven by financial returns, including a national television audience and 50,000 or more in attendance, major investments continue to be made to the European venues. National pride and rock star fandom for the sport fuels the temptation to stretch ski flying distances. Front page internet descriptions of the largest ski jumping and ski flying hills in Europe boast of either having held or being world record capable. The most prestigious World Cup and Four Hills competition at slightly smaller venues receive national attention, but distance records still get the top headlines.
 
-![](resources/images/book/holmenkollen.jpeg){fig-align="center" width="80%"}
-
-![Holmenkollen Ski Jump - The Cathedral of Ski Jumping (1980's)](resources/images/book/image83.jpeg){fig-align="center" width="80%"}
+![Holmenkollen Ski Jump - The Cathedral of Ski Jumping (1980's)](resources/images/book/holmenkollen.jpeg){fig-align="center" width="80%"}
 
 Rather than plateauing, the international hill size race has continued to escalate. Since 1879, the world record ski jumping distance has increased in a nearly linear fashion over the years.
 
@@ -943,7 +941,7 @@ In the same month, Domen's younger sister Nika set the womens' record of 774 fee
 
 As illustrated below, based on hill records as of 2025, Copper Peak is still the sixth largest hill in the world, but it has been dwarfed by the other five ski flying hills (Vikersund, Planica, Kulm, Oberstdorf, Harrochov). All four of the still active European ski flying hills (Harrochov is in disrepair and closed) have been enlarged to K points of 200m or greater, resulting in hill records greater than 240m. (For explanation of K points, see Appendix 1). Moreover, as of this writing, there are 35 other international ski jumps whose distance records are between 140m and 156m, which is within hailing distance (18m) of Copper Peak's stagnant record.
 
-![Largest Ski Jump Hills Based on Distance Record](resources/images/book/largest-ski-jumps.png){fig-align="center" width="80%"}
+![Largest Ski Jump Hills Based on Distance Record](resources/images/book/largest-ski-jumps.png){fig-align="center" width="100%"}
 
 Copper Peak is still the tallest artificial ski flying tower in the world. All of the major European jumps are built into the Alps or mountains of similar scale, and most of the inruns are shaped out of (or closely following) the contour of the natural terrain. The top of those inruns do not tower above the surrounding landscape like Copper Peak. So, if national motivation and financial support is aligned, some European hills can and will continue to go even bigger.
 
