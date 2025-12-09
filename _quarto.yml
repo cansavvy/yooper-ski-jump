@@ -33,15 +33,15 @@ website:
             href: index.qmd#slab-riders
       - section: "3 - Junior Hills"
         contents:
-          - text: "3.1 Iron Bowl Shape"
-            href: index.qmd#iron-bowl-shape
+          - text: "3.1 Iron Bowl Shaping"
+            href: index.qmd#iron-bowl-shaping
           - text: "3.2 Launch and Learn"
             href: index.qmd#launch-and-learn
           - text: "3.3 Yooper Junior Jumping"
             href: index.qmd#yooper-junior-jumping
           - text: "3.4 Iron Bowl Culture"
             href: index.qmd#iron-bowl-culture
-      - section: "4 - Mid-Size Circuit"
+      - section: "4 - Intermediate Hill Circuit"
         contents:
           - text: "4.1 Wolverine Regenerated"
             href: index.qmd#wolverine-regenerated
@@ -73,7 +73,7 @@ website:
             href: index.qmd#pine-mountain
           - text: "6.3 Junior Nationals"
             href: index.qmd#junior-nationals
-      - section: "7 - Transitions"
+      - section: "7 - Time of Transition"
         contents:
           - text: "7.1 Glide Path"
             href: index.qmd#glide-path
@@ -91,7 +91,7 @@ website:
             href: index.qmd#historical-relevance
           - text: "8.4 World Heritage"
             href: index.qmd#world-heritage
-      - section: "9 - Evolution Snapshot"
+      - section: "9 - Evolution Snapshots"
         contents:
           - text: "9.1 International Hill Size Race"
             href: index.qmd#international-hill-size-race
@@ -99,25 +99,31 @@ website:
             href: index.qmd#physics-vs-physique
           - text: "9.3 Flight Style"
             href: index.qmd#flight-style
-      - section: "10 - The Future"
+      - section: "10 - U.S. Ski Jumping Future"
         contents:
           - text: "10.1 Midwest Status"
             href: index.qmd#midwest-status
-          - text: "10.2 Large Hills"
-            href: index.qmd#large-hills
-          - text: "10.3 Foundation or Roof"
-            href: index.qmd#foundation-or-roof
+          - text: "10.2 Enough Large Hills"
+            href: index.qmd#enough-large-hills
+          - text: "10.3 Lay The Foundation"
+            href: index.qmd#lay-the-foundation
           - text: "10.4 Cultural Embrace"
             href: index.qmd#cultural-embrace
       - section: "Back Matter"
         contents:
           - text: "11 - Hall of Gratitude"
             href: index.qmd#hall-of-gratitude
-          - text: "12 - Appendix - Classification"
-            href: index.qmd#appendix-classification
-          - text: "13 - Appendix - Hill Preparation"
-            href: index.qmd#appendix-preparation
-          - text: "14 - References"
+          - text: "12 - Acknowledgments"
+            href: index.qmd#acknowledgments
+          - text: "13 - About the Author"
+            href: index.qmd#about-the-author
+          - text: "14 - License & Copyright"
+            href: index.qmd#license-copyright
+          - text: "15 - Appendix - Ski Jump Classification"
+            href: index.qmd#appendix-ski-jump-classification
+          - text: "16 - Appendix - Hill Preparation"
+            href: index.qmd#appendix-hill-preparation
+          - text: "17 - References"
             href: index.qmd#references
   
   page-footer:

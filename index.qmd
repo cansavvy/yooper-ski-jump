@@ -9,7 +9,7 @@ A personal memoir chronicling the rich heritage of ski jumping in Michigan's Upp
 
 ![Willie Savonen - Junior Jumper](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center" width="60%"}
 
-## About This Book  {.unnumbered}
+## About This Book {#about-this-book .unnumbered}
 
 This is a firsthand account of ski jumping in the Gogebic Range area of Michigan's Upper Peninsula during the 1970s and early 1980s. It weaves together personal experiences with the broader history of a sport that once captivated communities across the northern United States and is primed to captivate the world once again!
 
@@ -23,23 +23,9 @@ From the small 30-meter Iron Bowl to the towering 90-meter hills at Pine Mountai
 - **Big Hill Dreams**: Riding the 90-meter hills at Pine Mountain and Westby, and competing at the Junior Nationals
 - **The Sport's Future**: Reflections on preserving and growing ski jumping in America
 
-## Acknowledgments
-
-*See Hall of Gratitude chapter.*
-
-## About the Author
-
-**Craig Savonen** grew up in Ironwood, Michigan, where ski jumping was woven into the fabric of community life. Following in the footsteps of his father Willie, Craig competed as a junior ski jumper throughout the 1970s, qualifying for the 1979 Junior National Championships at Squaw Valley, California. He went on to pursue a 40 year engineering career, but didn't escape his passion for the sport that shaped his youth.
-
-Technical editing and formatting by Candace Savonen, daughter of Craig.
-
-## License &amp; Copyright
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the author.
-
 # 1 - Introduction {#introduction}
 
-## 1.1 – Foreword
+## 1.1 – Foreword {#foreword}
 
 Ski jumping holds a special place in the hearts of Yoopers and European heritage alike. As sketched here, the experiences of a junior class ski jumper in the 1970's Ironwood, Michigan area should resonate with other ski jumpers, especially from that era. For those engaged in ski jumping after the 70's era, may it trigger an 'aha' moment.
 
@@ -67,7 +53,7 @@ Unless otherwise noted or obvious in context, several words are used interchange
 
 Several American cultural references from the 70's and 80's are also sprinkled into the text. For those not born during or before those decades, a follow-up with your favorite electronic device may arm you for your next trivia night.
 
-## 1.2 – Heroes of Yore
+## 1.2 – Heroes of Yore {#heroes-of-yore}
 
 Across the span of sports in which I have participated, ski jumping was by far the most fulfilling. In the late 1990's, nearly 20 years after my last jump, I would still literally dream about gliding through the air to the bottom of the jumping hill.
 
@@ -85,7 +71,7 @@ What knocked it out of the park for me was that prior to these achievements, in 
 
 # 2 - Local Beginnings {#local-beginnings}
 
-## 2.1 – Section 12 Legacy
+## 2.1 – Section 12 Legacy {#section-12-legacy}
 
 Our dad, Wilbert (Willie) Savonen, was born and raised on a modest 40 acre dairy farm along Section 12 Road in Ironwood Township, along with brothers Toivo (Toyk) and Elmer and sister Helen. John (Juho) Savonen, wife Hilda, and their 6 year old son Onni (Willie's father) emigrated to the U.S. from Finland in 1909 having already lost an infant and a toddler to disease, reflecting rampant mortality rates of the time. Fortunately, the family elected to escape their homeland before rising political turmoil escalated into civil war a few years later.
 
@@ -101,16 +87,18 @@ In the U.P. snow belt winter, skiing was the favored pastime. Alpine skiing (or 
 
 As Supercynski (1) documents so well, ski jumping reigned as the preeminent local sport of the early 20th century. Ski jumps of all sizes and shapes could be found in so many of the hilly neighborhoods across the U.P. The Ironwood Ski Club formed in 1905 and built the 40m* Curry Ski Hill ski jump. In the ski jumping community, Curry Hill was famous, with the ski jumping world record of 152 feet set in 1911 by Anders Haugen and extended to 169 feet in 1913 by Ragnar Omtvedt. Later that year, a severe wind storm knocked down its wooden scaffold. Rebuilt in 1923, its steep and slender steel girder construction relied on a web of guy wires to stay upright. Not to blithely assert that ski jump design standards were lax, but it was not unusual that ski jumping scaffolds met their demise in high winds, as was Curry Hill's fate a second time during a 1930 storm. Rumors persist to this day that vandals cut the guy wires, thus guaranteeing its doom. Actually, all 11 ski jumping scaffolds constructed in the region by one particular Chicago company collapsed or fell prey to high winds and storms in the 1920's and 30's. (1).
 
-*40m – in simple terms, (m) denotes the nominal jumping distance (in meters), as designed for the hill.
+::: {.dictionary}
+**40m** – in simple terms, (m) denotes the nominal jumping distance (in meters), as designed for the hill.
+:::
 
 ![Curry Hill Ski Jump, Ironwood (1923)](resources/images/book/curry-hill.jpeg){fig-align="center" width="80%"}
 
 So in 1935, the Ironwood Ski Club built the 50m Wolverine ski jump in Ironwood Township. It soon hosted one of the more prominent annual tournaments in the national ski jumping scene. Wolverine was built on a ridge enabling jumps in excess of 200 feet. However, the sideshow of pursuing the world distance record (which exceeded 300 feet by 1935) was now the domain of larger international hills. Nevertheless, Wolverine ski jumping tournaments were a spectacle, attracting patrons from across the upper Midwest region who wanted to see intrepid heroes of skill and daring soar (very) high through the air, if not tumble to the bottom.
 
 ::: {layout-ncol=2}
-![Wolverine Ski Jump - Tournament View](resources/images/book/wolverine-1.jpeg)
+![Wolverine Ski Jump - Tournament View](resources/images/book/wolverine-1.jpeg){width="100%"}
 
-![Wolverine Ski Jump - View from Scaffold](resources/images/book/wolverine-2.jpeg)
+![Wolverine Ski Jump - View from Scaffold](resources/images/book/wolverine-2.jpeg){width="90%"}
 :::
 
 ![Suicide Bowl Ski Jumping Tournament (1940's)](resources/images/book/suicidebowlskijumpingtournament.jpeg){fig-align="center" width="80%"}
@@ -127,9 +115,11 @@ After a day of jumping at Wolverine, they ski toured across the neighbors' farm 
 
 Even though traveling long distances in the dead of an upper Midwest winter in a 1930's or 1940's automobile could be a precarious undertaking, the crowd size at Wolverine and other prominent ski jumping venues like Suicide Hill in Ishpeming routinely numbered in the thousands. Numerous vendors capitalized on the community event by selling culturally specific cuisine (with ketchup, of course!).
 
+![Suicide Bowl Ski Jumping Tournament (circa 1940)](resources/images/book/image89.jpeg){fig-align="center" width="80%"}
+
 Alas in 1963, the Wolverine ski hill scaffold was partially destroyed. Yeah, you guessed it. The culprit was a severe wind storm. A partially reconstructed inrun ramp enabled periodic use of a scaled down Wolverine during the 1965 - 1968 timeframe for practice and local or unsanctioned competitions (2).
 
-## 2.2 – Slab Riders
+## 2.2 – Slab Riders {#slab-riders}
 
 Fast forward to the mid-1960's, Willie and wife Shirley (Mom) are raising daughter (Wendy) and younger son (me). My first ski ride was on my father's shoulders while he glided down the gentle 10 foot slope from our Ironwood Aurora Location house to the Richards' yard next door. For that occasion or when going to Mt. Joy in Wakefield, Dad brushed on layers of pungent smelling shellac and rubbed paraffin wax of the appropriate color for that day's snow conditions onto his three groove hickory jumping skis. Somewhere in the basement, he found and dusted off his low-cut leather jumping boots that hadn't regularly seen snow in over a decade.
 
@@ -153,7 +143,7 @@ Later, she trumped that adventure by somehow navigating her way to the very top 
 
 # 3 - Junior Hills {#junior-hills}
 
-## 3.1 – Iron Bowl Shaping
+## 3.1 – Iron Bowl Shaping {#iron-bowl-shaping}
 
 Acknowledging limitations of the scaled down Wolverine after the 1963 storm damage, the ardent Gogebic Range Ski Club (GRSC) committed to re-energizing local and youth ski jumping. The Caves provided the location. As named locally, the Caves are the east-west orientated land subsidence originating over the abandoned underground mines just 2 - 3 city blocks south of downtown Ironwood. There are no known open crevices, or caves per se, but Caves is vernacular for cave-in. It is a 1½ mile long by ¼ mile wide ravine with one side faced with 25 - 100 foot cliffs of dark rust iron rock. Decades before creative volunteerism established today's Miner's Memorial Heritage Park, the Caves were an unofficial local playground for snowmobiling, motorbiking, juvenile exploration, and multiple ski jumps.
 
@@ -181,7 +171,7 @@ Ironwood had an advantage over other regional ski jumping locations, as it usual
 
 Snowmobilers were the bane of the ski jumping community. Not as damaging as some mischievous, alcohol infused rogue running a pick-up roughshod over a golfing green, it was not uncommon to find snowmobile tracks on the landing hill when arriving for another day or evening of jumping. It was not surprising that a steep, firmly packed and nicely groomed hill would be a temptation for wannabe Evel Knievel's. But it was a form of vandalism, creating disruptive ruts that forced repairs to the landing hill surface. (Ironically, a few decades later, the Copper Peak landing hill became the site for officially sanctioned snowmobile hill climbing competitions when ski flying was not scheduled).
 
-## 3.2 – Launch and Learn
+## 3.2 – Launch and Learn {#launch-and-learn}
 
 Dad was curious as to whether his son would gravitate to ski jumping. So, on the rock outcropping 100 yards up the road from the Savonen Aurora Location home (where a local youngster might assume that aurora borealis was viewable in any community on a clear night), he shoveled a ski jump into existence. Two goldenrod weeds marked the jump take-off. For an 8 year old, it was Olympic size. With schoolmate Gary and myself the only riders in its brief history, the final hill record plateaued at 28 feet, or a bit short of the 1808 world record of 31 feet. With abandoned mining structures at the top of the hill precluding creation of a longer inrun and greater takeoff speeds, the hill record was secure. Nevertheless, the 'trill' of jumping was instilled.
 
@@ -212,8 +202,6 @@ Alongside the inrun of the 30m Iron Bowl jump and its scaffold, a 2-foot high sn
 How time flies! Just 6 years later, I enjoyed my small part in helping prepare the Copper Peak landing hill, holding onto ropes while sidestepping and panking**** the hundreds of yards of the 40° sloped landing hill. Besides watching the tournament, my personal thrill as an early teen was the opportunity to ride the entire Copper Peak landing hill while crouched in an inrun tuck position the entire distance. It was speed to burn, baby and no radar in the area. I am sure that it was the fastest that I ever traveled on skis, and well in excess of 70 mph considering that ski flyers reach the low to mid-60's shooting down an inrun that is considerably shorter than the landing hill.
 
 ![Iron Bowl 30m and 15m Ski Jumps (1971)](resources/images/book/ironbowl-20-15.png){fig-align="center" width="80%"}
-
-![Historic Ski Jump Scaffold Construction](resources/images/book/image89.jpeg){fig-align="center" width="80%"}
 
 We modified my alpine equipment to partially resemble jumping skis, at least so the ski boot heel could lift from the ski, enabling a forward lean in the air like a genuine ski jumper. With most alpine ski bindings of that era, the back of the ski boot rigidly attached to the ski by a cable wrapping around the heel. By removing the two cable guides on the sides of the ski closest to the heel, the heel was free to lift from the ski.
 
@@ -249,7 +237,7 @@ Well, between the two of us that day, we weren't alone (check) and the hill was 
 
 With our take-off speed compromised, both of us soared into the air and then stalled midair like Wile E. Coyote overshooting a cliff. We should have been holding his "Uh-Oh" sign before plummeting to the ground. The flights were short and impactful onto the nearly flat knoll. It hurt more than a little bit. Both of us wiped out, but being young and flexible, we were uninjured. We had had enough for the day. Being that it was March, the jumping season was finished for the year.
 
-## 3.3 – Yooper Junior Jumping
+## 3.3 – Yooper Junior Jumping {#yooper-junior-jumping}
 
 The Iron Bowl was our home hill from 1969 thru 1975. During the 1971 jumping season, some of us graduated to the 30m hill. As we previously realized the hard way, appropriate use of the 30m jump involved using the entire length of the inrun scaffold. It was a mental commitment walking up to the top of the 25 ft high scaffold for the first time. Although no one would dare ostracize a first time rider who decided to walk back down, it would be personally embarrassing. For me, it was cool to be at the top of the scaffold with the senior jumpers. Any lingering concerns had been swept aside.
 
@@ -284,7 +272,7 @@ Big Miron was Therese Altobelli's home hill. A phenom in her pre-teen and early 
 
 The fanfare surrounding her wasn't her doing, but she was friendly, poised, and seemed to take it all in stride, while adults made a big deal about it. Therese just wanted to ski jump. Perhaps her most notable ski jumping accomplishment was a few years later in 1978 when she became the first female to ride the famous 90m Pine Mountain, her home hill. In 2017, Therese was elected to the National Ski Hall of Fame, a forebearer of the female U.S. national team that became internationally competitive during ensuing decades.
 
-## 3.4 – Iron Bowl Culture
+## 3.4 – Iron Bowl Culture {#iron-bowl-culture}
 
 The 1972 – 1974 winters was a growth period for the club. Over the summer of 1971, the industrious GRSC leaders executed on foresight to erect lights on the 30m Iron Bowl jumping hill. Evening ski jumping was 'on'. The lights were indispensable, an advantage many of the other Midwest ski clubs already enjoyed.
 
@@ -292,11 +280,13 @@ Before then, the opportunities for Iron Bowl ski jumping were limited to weekend
 
 When convening many winter evenings at the Iron Bowl hill, one becomes acquainted with the jumping styles and personalities of fellow jumpers. There was little formal coaching, but fellow jumpers tended to encourage each other. Most Iron Bowl jumpers in the early 70's were accomplished high school or former athletes in other sports. In a sense, they were the unintentional forerunners of today's sport culture awakening to the physical and psychological benefits of youngsters participating in multiple sports across all four seasons.
 
-![Willie Savonen – Junior Jumper (circa 1946)](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center" width="45%"}
+::: {layout-ncol=2}
+![Willie Savonen – Junior Jumper (circa 1946)](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center"}
 
-*Dad as a young teenager with his solid hickory skis and three grooves roughly carved into the bottoms. All purpose leather boots attached to skis with leather overstraps, metal front throws and cables. Attired with collared undershirt, Christmas sweater, baggy wool pants, and brimmed cap. Savonen dairy farm and gravel pit in background.*
+![Craig Savonen - Junior Jumper (1973)](resources/images/book/craig-savonen-junior-jumper.jpeg){fig-align="center"}
+:::
 
-![Craig Savonen - Junior Jumper (1973)](resources/images/book/craig-savonen-junior-jumper.jpeg){fig-align="center" width="45%"}
+**Left:** Dad as a young teenager with his solid hickory skis and three grooves roughly carved into the bottoms. All purpose leather boots attached to skis with leather overstraps, metal front throws and cables. Attired with collared undershirt, Christmas sweater, baggy wool pants, and brimmed cap. Savonen dairy farm and gravel pit in background.
 
 **Right:** The author as a 12 year old with my Northland composite five-groove plastic bottom jumping skis, although oversized for my stature. Nylon-leather jumping boots attached to skis with all metal cable throws, cables, and toeplates. Attired with winter sweater, stretch pants, soft knit cap, and choppers (Yooper for leather mittens with inner wool liners). Goggles and helmets were a thing of the future.
 
@@ -344,7 +334,7 @@ As I progressed through a relatively brief jumping career (1968 – 1981), I had
 
 ![Craig's Map of Midwest Region Ski Jumps](resources/images/book/craigs-map.png){fig-align="center" width="80%"}
 
-## 4.1 – Wolverine Regenerated
+## 4.1 – Wolverine Regenerated {#wolverine-regenerated}
 
 In the early 70's, there were regular attempts at using the scaled down and repaired Wolverine scaffold, to fill the need for a hill bigger than the 30m Iron Bowl. The scaled down Wolverine in the mid-to-late 60's was handicapped in that it was neither shaped to contemporary specifications nor consistent with its original design roots before a storm raised havoc. It was a hybrid of sorts. The partially salvaged inrun had a steep top half, followed by a sharp transition to a long, effectively flat takeoff table. It couldn't be used for sanctioned competition although it still provided big air ride for recreational purposes.
 
@@ -360,7 +350,7 @@ After executing an excellent take-off, a ski jumper transitioning into flight po
 
 ![The 'New' Wolverine in the Late 1970's](resources/images/book/the-new-wolverine.jpeg){fig-align="center" width="80%"}
 
-![Getting Ready for the Crowds - Daily Globe Photo](resources/images/book/image88.jpeg){fig-align="center" width="70%"}
+!](resources/images/book/image88.jpeg){fig-align="center" width="70%"}
 
 With Wolverine's reputation for big air and early season lake effect snowfall, it influenced the U.S. national ski jumping team to jump at the opportunity to be the first few to practice and compete on its updated version, prior to the arrival of the regular competitive season.
 
@@ -384,7 +374,7 @@ On an intermediate size hill, such as Wolverine, a solid day of practice amounte
 
 More so, a majority of the other ski jumping hills had lights, as did the 30m Iron Bowl before it had to be abandoned. We competed against clubs where zealous jumpers could accumulate more than 400 jumps a year. By the way, the governing International Ski Federation (FIS) is not prone to sanction international or ski flying hill meet nowadays if the facilities do not include a lift for the ski jumpers from the bottom of the hill to the top of the scaffold. C'mon, man. The hill climb was part of our cross training! In some international circles, there is even loose conceptual discussion about creating a fully enclosed tunnel along the entire length of the ski jump inrun. What?!
 
-## 4.2 – Suicide Hill
+## 4.2 – Suicide Hill {#suicide-hill}
 
 A personal milestone in 1977 was riding the largest (70m) jump in the Ishpeming Suicide Hill complex for the first time. Listed at that time as a 70m, equivalent to the smaller of the two standard Olympic hill sizes, it represented a step up in hill size relative to Wolverine. The largest jump of the complex grew in stature from being rated as a 70m in the 70's to now being labeled as a K90. (See Appendix 1 for explanation of 'K'). Located in a picturesque valley, more recently it has jump sizes classified as 13m, 25m, 40m, 60m, and 90m. It also contained a cross country training center that constituted the U.P. Nordic Ski complex, which over the years has been affiliated with U.S. national ski organizations.
 
@@ -410,7 +400,7 @@ During the second day of this particular meet, the accumulated effect of skiers 
 
 Yet, we marveled at one jumper who adopted the unprecedented practice of starting to snowplow brake at high speed while still on the steepest part of the landing. It was a freakish athletic move predating Bo Jackson's famous horizontal run along an outfield wall in 1990. By the tail end of the meet, the hill management finally placed hay bales at the end of the outrun to cushion skiers with inadequate braking skills or attentiveness.
 
-## 4.3 – Bulldozer
+## 4.3 – Bulldozer {#bulldozer}
 
 Bulldozer was a 55m jump carved out of the same ridge where Iron Mountain's famous 90m Pine Mountain jump stood. It was uncommon for a hill of Bulldozer's stature in the upper Midwest to have a mostly natural inrun and landing, but bulldozers accomplished that.
 
@@ -420,7 +410,7 @@ My interaction with him was brief, but as we know, a lasting impression can happ
 
 On my best practice ride in terms of distance and smoothness, I noticed that I landed on the far right edge of the wide landing, barely a foot or so from the deep snowbank. I didn't think much of it at the time, but during my next walk up the hill, Coach Ed complimented me for handling the stiff gusts so well, while lightheartedly apologizing for flagging me into it. Since Ed was a born Yooper in Munising (which had its own history of ski jumping until the 1980's), his personable approach shouldn't have been surprising.
 
-## 4.4 – Circus Acts
+## 4.4 – Circus Acts {#circus-acts}
 
 Early 1900's ski jumpers persistently encouraged the perception of being bold and daring stuntmen, which they were. It was common for a carnival like setting attracting huge paying audiences. No less famous than P.T. Barnum's circus incorporated ski jumping into their early venues. A professional ski jumping association actually formed in 1929, but disbanded by 1934, not for lack of demand or paying audience, but for lack of available, uninjured jumpers.
 
@@ -446,7 +436,7 @@ One fine day immediately following the conclusion of a Wolverine meet in 1976, s
 
 And away we went. There were no collisions, but since I was the lead rider, I couldn't see what was transpiring behind me. By the time I had landed and arrived at the outrun to peek behind, I saw a splintered diamond far behind. One wingman had spun out, but the tail rider was able to sidestep him. It wasn't a professional exhibition and would have needed more practice and coordination to resemble what local ski jumping stuntmen performed 40 years earlier in front of a huge Chicago crowd. And to think that the USAF Thunderbird pilots keep four jets within 18 inches of each other in their diamond at the speed of sound! Our diamond in the rough was fun. We never tried that again.
 
-## 4.5 – Crazy Long
+## 4.5 – Crazy Long {#crazy-long}
 
 Another more common long-standing tradition in regional ski jumping meets was the long-standing jump. After the formal competition concludes, some tournaments offer jumpers one more optional ride to compete for long-standing jump honors where distance matters, but not style. Without concern for preserving style points, a more aggressive go-for-broke approach could be attempted, even though the longest jumps are generally accompanied with superior style.
 
@@ -464,7 +454,7 @@ A top tier jumper accustomed with toying the extremes of landing hills would hav
 
 # 5 - Personal Insights {#personal-insights}
 
-## 5.1 – Spotty Training
+## 5.1 – Spotty Training {#spotty-training}
 
 There was no organized off-season training in the local Gogebic Range ski jumping club in the 70's. I assumed that other ski jumping clubs with a sizable number of junior and senior jumpers had a comprehensive off-season training regimen. I am sure that was the case for the bigger clubs, especially if inclined to mimic the national team members that grew out of those clubs. I would overhear that the national team jumpers were wunderkinds of gymnastics and trampolining. Foreign to me, it was a cross training activity that instilled awareness and control of body position while in the air.
 
@@ -486,9 +476,11 @@ Fortunately, the technology for artificial inrun track surfaces, skier's inrun p
 
 Although not sophisticated compared to athletic training camps today, the opportunity to participate in the 1977 training camp with my regional peers was a great experience. It introduced many of us to dry land training and the first ski jumping experience on a plastic hill. It was surreal to be jumping in 75° weather. We rode the 20m hill for the majority of the camp, but some of us were allowed to ride the 60m for a couple of days.
 
-![Early 1970's Middleton Artificial Inrun](resources/images/book/middleton-artificial.jpeg){fig-align="center" width="45%"}
+::: {layout-ncol=2}
+![Early 1970's Middleton Artificial Inrun](resources/images/book/middleton-artificial.jpeg){fig-align="center" width="100%"}
 
-![2020's Artificial Inrun Track](resources/images/book/2020-artificial.jpeg){fig-align="center" width="45%"}
+![2020's Artificial Inrun Track](resources/images/book/2020-artificial.jpeg){fig-align="center" width="100%"}
+:::
 
 As a mild disappointment, I did expect more coaching input on technique. Admittedly, I was too shy to push for it. With a contingent of nationally known coaches, the only personal feedback that I received was that "you have strong legs, you're a strong jumper". That was nothing new. Even Mom would always say "you and your sister have strong Perttula legs", which were, of course, inherited from her side of the family.
 
@@ -496,7 +488,7 @@ Anyway, I had received this well intentioned "strong legs" compliment several ti
 
 I did leave Madison with confidence that I could compete on an equal basis with up-and-coming Central Division peers. Perhaps the underlying objective of the camp staff was to observe and judge the potential of each camper. This was before highspeed cameras, air tunnels, computational fluid dynamics, and other detailed analytics became increasingly available to national teams in the 21st century. I had to accept that any coaching insight would be limited with only a few days exposure to a squad of junior jumpers mostly unfamiliar to them.
 
-## 5.2 – Hilltop Strategy
+## 5.2 – Hilltop Strategy {#hilltop-strategy}
 
 Beside flying through the air, the next best experience for a ski jumper may be the anticipation at the top of the inrun scaffold before cascading down the inrun. After navigating the climb up the 35° - 38° icy 'cattle chute', strapping on skis, and waiting in queue for your turn, life becomes simpler. The focus is on adjustments to make relative to previous ride(s), and visualize the next jump being the best jump of the day. Then, as you have done many times before, you launch down the inrun, armed with a positive expectation, not fear.
 
@@ -512,7 +504,7 @@ A consequential part of a ski jumping tournament is to manage one's time and act
 
 If it's subzero outside, one can't stay limber if succumbing to the temptation to be comfortable, but inactive in a nice, warm vehicle. Yet, if one starts the journey up the landing hill too early, you'll be stiffening while waiting at the bottom or top of the scaffold, often in blustery conditions. Awareness of one's spot in the meet sequence, and progress of the meet has to be managed. At some point, one has to embrace the weather by stretching and moving around, while building readiness for the upcoming high speed experience.
 
-## 5.3 – Zoom With A View
+## 5.3 – Zoom With A View {#zoom-with-a-view}
 
 Anyway, the top of most ski jumping scaffolds provides a beautiful panorama. In the hubbub of a ski jumping tournament, most jumpers do not have time to appreciate it. One such commanding view is from the top of Suicide looking down into the parking lot bowl far below.
 
@@ -528,7 +520,7 @@ One summer early in Copper Peak's history, a few U.S. ski flyers camped overnigh
 
 Before good ol' Wolverine was abandoned three decades ago, it also provided a more modest, but inspiring view of Ironwood Township, including a distant peek of Copper Peak, as well as the Big Powderhorn alpine facilities. When training in the summer many decades ago by sprinting up the scaffold deck, the top provided a moment to catch one's breath and reflect. My sister and I spent a few cherished moments at the top of Wolverine reminiscing about Dad and his love of ski jumping, shortly after his funeral in May 1995.
 
-## 5.4 – Falling Short
+## 5.4 – Falling Short {#falling-short}
 
 While progressing up the junior class ladder before aging out at 19 years old, a natural goal was to compete at the Junior Nationals against the top 50 or so junior jumpers from around the country. The stepping stone to the Nationals was divisional qualifying meets held in the Eastern, Western, Rocky Mountain, and Central Division regions. The Central Division encompassed the U.P., Wisconsin, Minnesota, and Illinois. Its tryouts for the Junior Nationals rotated each year to a different hill. Wolverine happened to be the chosen site in 1977 and 1979, which was convenient for Ironwood jumpers.
 
@@ -544,7 +536,7 @@ Dad and I discussed it, and I decided to test the ankle by riding only the landi
 
 Neither Dad nor I thought it was anything more than a bad sprain. It proved to be a hairline fracture of the main ankle structure dictating a week lying around waiting for the swelling to subside, then ten weeks in a cast, followed by two more months on crutches, and then several months of limbering up and rejuvenating leg muscles and tendons. I limped through baseball season. But after that, I was ready for the next and last season of junior class jumping.
 
-## 5.5 – Fatherly Pride
+## 5.5 – Fatherly Pride {#fatherly-pride}
 
 I had become distinctly aware of Dad's extreme pride in his son when as a diminutive 12 year old I had the treat to accompany him on his milkman route one summer day. Despite being the stereotypical Finn of few words, after decades of being responsible for the Wakefield milk route, he seemed to have a congenial relationship with the entire village. After Dad introduced me as his son at the doorstep of a friendly customer, he looked at me and replied to Dad, "With all that you have told me about him, I thought that he would have been a whole lot bigger."
 
@@ -570,7 +562,7 @@ After decent, but unremarkable results at tournaments in Ely (55m), Madison (60m
 
 The previous two weekends of intermediate size hills in Wisconsin provided good physical and mental preparation for the large hill, but the 90m Westby Snowflake was a greater class of hill size, speed, and distance. The required step up in mental preparation is greater than that of the physical. A view of the sheer size of the hill can be intimidating upon arrival.
 
-## 6.1 – Westby
+## 6.1 – Westby {#westby}
 
 Each ride was preceded by an extra long trudge up the left side of the landing hill, followed by the nearly as long walk up the inrun and scaffold. During the uphill walk, there is a dull fluttering roar as each jumper launches and flies past at 55-60 mph.
 
@@ -602,11 +594,10 @@ Two weeks after the 90m initiation at Westby, it was my last chance to qualify f
 
 ![Savonen at 1979 Junior National Tryouts at Wolverine](resources/images/book/savonen-1979-tryouts.jpeg){fig-align="center" width="80%"}
 
-![Clearing the Outrun - Craig Savonen prepares for Junior National Tryouts (Daily Globe Photo)](resources/images/book/scooping-the-wolverine-outrun.jpeg){fig-align="center" width="70%"}
 
 My distance points knocked on the door of 5th place, but I left too many style points on the table. I approximated the stereotypical Daescher flight style of that era, but if I would have pulled my nicely parallel skis closer together and put my arms tightly at my side, the additional style points could have pulled me up to 5th. Anyway, after three years of not even sniffing qualification due to mediocre skiing or broken bones, it was a relief and a blessing to finally qualify for the Junior Nationals.
 
-## 6.2 – Pine Mountain
+## 6.2 – Pine Mountain {#pine-mountain}
 
 Before the Junior Nationals, John Kusz and I met up with Ironwood native Dave Engstrom (aka the Green Hornet so named for his uniquely colored jumping suit) for the 90m Pine Mountain international meet.
 
@@ -624,7 +615,7 @@ By then, it was simply fun to be steadily soaring through the air for 3 – 4 se
 
 ![Pine Mountain Scaffold (circa 1959)](resources/images/book/pine-mountain-scaffold.jpeg){fig-align="center" width="80%"}
 
-## 6.3 – Junior Nationals
+## 6.3 – Junior Nationals {#junior-nationals}
 
 The March 1979 Junior Nationals were held over two weekends at the Olympic village in Squaw Valley, California. Anchored around the Squaw Valley alpine resort and built for the 1960 Olympics, it was an intimate winter sports venue. We stayed at the former Olympic athlete dormitories. Prior to the Miracle on Ice at the 1980 Olympics, the 1960 Olympics were noteworthy for the underdog United State hockey team winning its first ever gold medal before the Soviets resumed domination for another 20 years.
 
@@ -672,7 +663,7 @@ A welcome diversion was being able to go alpine skiing one day on Squaw Valley M
 
 # 7 - Time of Transition {#time-of-transition}
 
-## 7.1 – Glide Path
+## 7.1 – Glide Path {#glide-path}
 
 The winter of 1980 was the beginning of a glide path to my ski jumping retirement, although at the time I didn't think of it like that, nor did I want it to be. At age 19, I had now aged out of junior and into senior level competition. Except for the top flight jumpers with a sterling junior resume', this means starting in the lower level of senior jumpers, i.e. the 'B' class.
 
@@ -686,7 +677,7 @@ This time I knew that I belonged on the large hill and rejected any passive thou
 
 As a postlude for that day, in the middle of the 270 mile winter trek home that night, the family car began to misfire and then died on a central Wisconsin highway in the middle of nowhere. No offense intended for calling central Wisconsin "nowhere". Before the era of cell phones and with no credit cards in hand, I was in a quandary. Thankfully, it was not fifteen minutes later that a congenial Wisconsin state trooper drove up and arranged for a tow to a local garage that was providentially open on a Sunday evening. They also had the required electrical part in stock. After the mechanic accepted Dad's verbal authorization over the wall phone, I was back on my way, having lost less than two hours. It was indeed a good day, from a glass ¾ full perspective.
 
-## 7.2 – Fork in the Track
+## 7.2 – Fork in the Track {#fork-in-the-track}
 
 As should be evident if you read this far, I cherish the experiences of ski jumping. But in regard to achieving loftier dreams like national team and Olympics, they remained as dreams. Attending Gogebic Community College in 1979 and 1980 kept my academic costs manageable, but that only enabled me to keep jumping for two years after high school while aging out of junior class. And whether or not I had national level potential, it wasn't going to happen. With only a few jumps a week, little formal training or coaching, and hill preparation (see Appendix 2) being handled by a few jumpers and occasional selfless volunteers. But, that's OK. I received so much more out of ski jumping than I gave.
 
@@ -698,7 +689,7 @@ By 1981 when I had become a full time student in Houghton for the ensuing four y
 
 As much as I wanted it, the timing for riding Copper Peak never worked out. After my shortened ankle breaking 1978 season, I was just then graduating to the larger than 60m hills, culminating in a few 90m experiences. But ski flying hills are another step up from the 90m hill class, especially in terms of higher airspeed and negative consequences of any critical mistakes during the ride. So, when I rushed over to the 1981 Copper Peak competition only as a spectator, it was indeed a wistful day to witness several of my Central Division peers riding the Peak, including Mike Shupien, Dave Edlund, and Mike Williams.
 
-## 7.3 – Dynamic Duo
+## 7.3 – Dynamic Duo {#dynamic-duo}
 
 Sincere hats off to John Kusz and Dave Engstrom for managing personal and work lives, persisting over decades and performing at a high level of ski jumping, with weekends often being the only opportunity to ski. To qualify to ride a sky flying hill like Copper Peak, one has to have the demonstrated psychological make-up along with a considerable big hill resume', which John Kusz and Dave Engstrom diligently accumulated. Especially in the mid to late 70's, they committed to cross country travel to compete in national large hill meets.
 
@@ -712,7 +703,7 @@ After I retired from ski jumping and embarked on a 40 year engineering career in
 
 # 8 - Merits of Ski Jumping {#merits}
 
-## 8.1 – Physical + Mental
+## 8.1 – Physical + Mental {#physical-mental}
 
 What about the broader view of the sport? Even though the popularity of ski jumping in the U.S. has waned over recent decades, its merits are still compelling. This centuries old pastime fulfills the pursuit of an intense, high speed, anaerobic athletic challenge. In short, ski jumping demands unique physical prowess and mental fortitude. Yet, both a novice and an international champion can safely enjoy the thrills it offers. By these criteria, ski jumping is a top tier sport.
 
@@ -724,7 +715,7 @@ Sure, if one can afford it, weightlessness can be simulated in 20 seconds of a p
 
 Sports that transcend the sole individual during competition are extra special. Successful team athletes allude to the joy of camaraderie while "climbing the mountain" together, celebrating, trusting, and picking up each other along the way. Sports that are more individually oriented, such as swimming, golf, or ski jumping, can also provide a similar level of fulfillment within a healthy club or team setting. In special circumstances, it is also evident across a community of competitors. Such was my experience with ski jumping.
 
-## 8.2 – Safety First
+## 8.2 – Safety First {#safety-first}
 
 OK, one may be attracted to a sport with thrills and skills, but how risky is ski jumping? With the growing sensitivity to safety in contemporary times, what is the actual (rather than widely believed), dangers of ski jumping? Unfortunately, potential new participants in ski jumping can be deterred, when in the interest of attracting audiences, ski jumping is erroneously portrayed as exceptionally dangerous. Sure, if one wants to toy with near death adrenaline levels, they might try wingsuit flying, but those risk-to-reward ratios are astronomically high. Such is just not the case with ski jumping.
 
@@ -774,7 +765,7 @@ But, with a little internet searching, one can find Go-Pro videos of the usual, 
 
 To cap the safety discussion, the age old quote "Most people use statistics like a drunk man uses a lamppost, more for support than illumination" often applies to studies of ski jump fatalities. Statistics on ski jumping fatalities must be viewed with discernment, since the numbers are often grossly inflated by lumping the actual ski jumping sport with failed extreme skier stunts such as attempting to fly over a large crevasse or public highway.
 
-## 8.3 – Historical Relevance
+## 8.3 – Historical Relevance {#historical-relevance}
 
 In the deep snow of the prehistoric world, transportation and hunting was aided by strapping sticks of wood to one's feet. Archaeological finds near today's border of Russia and Finland indicate that skis were used at least as early as 6000 BC. In those millenniums, leaping into the air with skis was probably inconceivable unless trying to scale a crevasse while being chased by a saber tooth tiger.
 
@@ -786,14 +777,12 @@ In the first 75 years of the 20th century, many American kids were playing baseb
 
 The worldwide enthusiasm and cultural impact of ski jumping is evidenced by the sheer number of ski jumps that existed over the past century. As of November 2025, over 9000 ski jumps and 7000 ski jumping facilities in 48 countries have been catalogued by the massive and still growing Ski Jumping Hill Archive (33). It is neither complete nor will it ever include the countless smaller backyard bumps that communities had.
 
-**Ski Jumps Worldwide (34)**
-
 <table style="border-collapse: collapse; width: 60%; margin: auto;">
 <thead>
 <tr style="background-color: #d3d3d3;">
-<th style="border: 1px solid black; padding: 8px; text-align: left;">Ski Jumps</th>
-<th style="border: 1px solid black; padding: 8px; text-align: center;">Total</th>
-<th style="border: 1px solid black; padding: 8px; text-align: center;">With Matting</th>
+<th style="border: 1px solid black; padding: 8px; text-align: left; width: 50%;">Ski Jumps</th>
+<th style="border: 1px solid black; padding: 8px; text-align: center; width: 25%;">Total</th>
+<th style="border: 1px solid black; padding: 8px; text-align: center; width: 25%;">With Matting</th>
 </tr>
 </thead>
 <tbody>
@@ -835,57 +824,81 @@ The worldwide enthusiasm and cultural impact of ski jumping is evidenced by the 
 </tbody>
 </table>
 
+<p style="text-align: center; font-weight: bold; color: #333; font-size: 1.1em;">Ski Jumps Worldwide (34)</p>
+
 As a subset of this database, and an indication of ski jumping's continuing popularity, today there are still nearly 1600 active ski jumps worldwide. The historical popularity of ski jumping is also evident by the count of jumps either 'out of order' or 'destroyed' over the years. There are handfuls of ski jumps now under construction and more on the drawing board, pending adequate resources to proceed. Artificial surfacing (matting) has now been applied to nearly two thirds of them (1013), thus expanding the ski jumping season to whenever or wherever there is no snow.
 
-**Historical Ski Jumping Facilities per Country (35)**
+<table style="border-collapse: collapse; width: 90%; margin: auto;">
+<thead>
+<tr style="background-color: #d3d3d3;">
+<th style="border: 1px solid black; padding: 6px; width: 5%;"></th>
+<th style="border: 1px solid black; padding: 6px; text-align: left; width: 30%;">Country</th>
+<th style="border: 1px solid black; padding: 6px; text-align: center; width: 15%;">Facilities</th>
+<th style="border: 1px solid black; padding: 6px; width: 5%;"></th>
+<th style="border: 1px solid black; padding: 6px; text-align: left; width: 30%;">Country</th>
+<th style="border: 1px solid black; padding: 6px; text-align: center; width: 15%;">Facilities</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/algeria.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Algeria</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/argentina.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Argentina</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/australia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Australia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">11</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/austria.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Austria</td><td style="border: 1px solid black; padding: 6px; text-align: center;">231</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/bosniaandherzegovina.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Bosnia and Herzegovina</td><td style="border: 1px solid black; padding: 6px; text-align: center;">8</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/belarus.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Belarus</td><td style="border: 1px solid black; padding: 6px; text-align: center;">4</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/bulgaria.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Bulgaria</td><td style="border: 1px solid black; padding: 6px; text-align: center;">8</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/canada.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Canada</td><td style="border: 1px solid black; padding: 6px; text-align: center;">75</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/chile.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Chile</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/china.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">China</td><td style="border: 1px solid black; padding: 6px; text-align: center;">9</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/croatia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Croatia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">9</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/czech.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Czech Republic</td><td style="border: 1px solid black; padding: 6px; text-align: center;">250</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/denmark.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Denmark</td><td style="border: 1px solid black; padding: 6px; text-align: center;">21</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/estonia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Estonia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">27</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/finland.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Finland</td><td style="border: 1px solid black; padding: 6px; text-align: center;">395</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/france.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">France</td><td style="border: 1px solid black; padding: 6px; text-align: center;">98</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/great-britain.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Great Britain</td><td style="border: 1px solid black; padding: 6px; text-align: center;">7</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/georgia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Georgia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">2</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/germany.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Germany</td><td style="border: 1px solid black; padding: 6px; text-align: center;">723</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/hungary.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Hungary</td><td style="border: 1px solid black; padding: 6px; text-align: center;">11</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/iceland.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Iceland</td><td style="border: 1px solid black; padding: 6px; text-align: center;">18</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/italy.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Italy</td><td style="border: 1px solid black; padding: 6px; text-align: center;">55</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/japan.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Japan</td><td style="border: 1px solid black; padding: 6px; text-align: center;">106</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/kzakhstan.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Kazakhstan</td><td style="border: 1px solid black; padding: 6px; text-align: center;">5</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/southkorea.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">South Korea</td><td style="border: 1px solid black; padding: 6px; text-align: center;">2</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/latvia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Latvia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">23</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/lebanon.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Lebanon</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/liechtenstein.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Liechtenstein</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/lithuania.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Lithuania</td><td style="border: 1px solid black; padding: 6px; text-align: center;">8</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/morocco.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Morocco</td><td style="border: 1px solid black; padding: 6px; text-align: center;">2</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/northmacedonia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">North Macedonia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/montenegro.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Montenegro</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/netherlands.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Netherlands</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/norway.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Norway</td><td style="border: 1px solid black; padding: 6px; text-align: center;">1643</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/newzealand.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">New Zealand</td><td style="border: 1px solid black; padding: 6px; text-align: center;">6</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/poland.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Poland</td><td style="border: 1px solid black; padding: 6px; text-align: center;">264</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/northkorea.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">North Korea</td><td style="border: 1px solid black; padding: 6px; text-align: center;">4</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/romania.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Romania</td><td style="border: 1px solid black; padding: 6px; text-align: center;">15</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/russia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Russia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">100</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/slovenia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Slovenia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">206</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/spain.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Spain</td><td style="border: 1px solid black; padding: 6px; text-align: center;">11</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/serbia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Serbia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">5</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/switzerland.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Switzerland</td><td style="border: 1px solid black; padding: 6px; text-align: center;">158</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/slovakia.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Slovakia</td><td style="border: 1px solid black; padding: 6px; text-align: center;">71</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/sweden.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Sweden</td><td style="border: 1px solid black; padding: 6px; text-align: center;">225</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/turkey.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Turkey</td><td style="border: 1px solid black; padding: 6px; text-align: center;">2</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/ukraine.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Ukraine</td><td style="border: 1px solid black; padding: 6px; text-align: center;">22</td><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/unitedstates.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">United States</td><td style="border: 1px solid black; padding: 6px; text-align: center;">306</td></tr>
+</tbody>
+</table>
 
-| | Country | Facilities | | | Country | Facilities |
-|:---:|:---|:---:|:---:|:---:|:---|:---:|
-| ![](resources/images/book/algeria.png){height="15px"} | Algeria | 1 | | ![](resources/images/book/argentina.png){height="15px"} | Argentina | 1 |
-| ![](resources/images/book/australia.png){height="15px"} | Australia | 11 | | ![](resources/images/book/austria.png){height="15px"} | Austria | 231 |
-| ![](resources/images/book/bosniaandherzegovina.png){height="15px"} | Bosnia and Herzegovina | 8 | | ![](resources/images/book/belarus.png){height="15px"} | Belarus | 4 |
-| ![](resources/images/book/bulgaria.png){height="15px"} | Bulgaria | 8 | | ![](resources/images/book/canada.png){height="15px"} | Canada | 75 |
-| ![](resources/images/book/chile.png){height="15px"} | Chile | 1 | | ![](resources/images/book/china.png){height="15px"} | China | 9 |
-| ![](resources/images/book/croatia.png){height="15px"} | Croatia | 9 | | ![](resources/images/book/czech.png){height="15px"} | Czech Republic | 250 |
-| ![](resources/images/book/denmark.png){height="15px"} | Denmark | 21 | | ![](resources/images/book/estonia.png){height="15px"} | Estonia | 27 |
-| ![](resources/images/book/finland.png){height="15px"} | Finland | 395 | | ![](resources/images/book/france.png){height="15px"} | France | 98 |
-| ![](resources/images/book/great-britain.png){height="15px"} | Great Britain | 7 | | ![](resources/images/book/georgia.png){height="15px"} | Georgia | 2 |
-| ![](resources/images/book/germany.png){height="15px"} | Germany | 723 | | ![](resources/images/book/hungary.png){height="15px"} | Hungary | 11 |
-| ![](resources/images/book/iceland.png){height="15px"} | Iceland | 18 | | ![](resources/images/book/italy.png){height="15px"} | Italy | 55 |
-| ![](resources/images/book/japan.png){height="15px"} | Japan | 106 | | ![](resources/images/book/kzakhstan.png){height="15px"} | Kazakhstan | 5 |
-| ![](resources/images/book/southkorea.png){height="15px"} | South Korea | 2 | | ![](resources/images/book/latvia.png){height="15px"} | Latvia | 23 |
-| ![](resources/images/book/lebanon.png){height="15px"} | Lebanon | 1 | | ![](resources/images/book/liechtenstein.png){height="15px"} | Liechtenstein | 1 |
-| ![](resources/images/book/lithuania.png){height="15px"} | Lithuania | 8 | | ![](resources/images/book/morocco.png){height="15px"} | Morocco | 2 |
-| ![](resources/images/book/northmacedonia.png){height="15px"} | North Macedonia | 1 | | ![](resources/images/book/montenegro.png){height="15px"} | Montenegro | 1 |
-| ![](resources/images/book/netherlands.png){height="15px"} | Netherlands | 1 | | ![](resources/images/book/norway.png){height="15px"} | Norway | 1643 |
-| ![](resources/images/book/newzealand.png){height="15px"} | New Zealand | 6 | | ![](resources/images/book/poland.png){height="15px"} | Poland | 264 |
-| ![](resources/images/book/northkorea.png){height="15px"} | North Korea | 4 | | ![](resources/images/book/romania.png){height="15px"} | Romania | 15 |
-| ![](resources/images/book/russia.png){height="15px"} | Russia | 100 | | ![](resources/images/book/slovenia.png){height="15px"} | Slovenia | 206 |
-| ![](resources/images/book/spain.png){height="15px"} | Spain | 11 | | ![](resources/images/book/serbia.png){height="15px"} | Serbia | 5 |
-| ![](resources/images/book/switzerland.png){height="15px"} | Switzerland | 158 | | ![](resources/images/book/slovakia.png){height="15px"} | Slovakia | 71 |
-| ![](resources/images/book/sweden.png){height="15px"} | Sweden | 225 | | ![](resources/images/book/turkey.png){height="15px"} | Turkey | 2 |
-| ![](resources/images/book/ukraine.png){height="15px"} | Ukraine | 22 | | ![](resources/images/book/unitedstates.png){height="15px"} | United States | 306 |
+<p style="text-align: center; font-weight: bold; color: #333; font-size: 1.1em;">Historical Ski Jumping Facilities per Country (35)</p>
 
 On a country-by-country basis, a dozen countries have had more than 100 different ski jumping facilities, with Norway leading by far, Germany a distant second, and the U.S. in third. European and western Asian countries are also prominent. However, the extent of ski jumping diaspora is exponentially greater when noting not only Australia and New Zealand on the list, but Algeria, Chile, Lebanon, and Morocco?! Wow!
 
 Regarding the 300+ U.S. ski jumping facilities, they existed across 28 states, with Wisconsin, Minnesota, and Michigan having the highest count. In Michigan alone, 31 facilities were built over the years and nearly half of them were located in the Lower Peninsula, including the southerly cities of Brighton, Grand Rapids, Fenton, Oxford, and Detroit!
 
-## 8.4 – World Heritage
+## 8.4 – World Heritage {#world-heritage}
 
 Sampling 2024 - 2025 World Cup standings, the sport is presently dominated by Austria, Slovenia, Germany and Norway. The next tier includes Japan, Poland, Switzerland, Russia, and Finland. If judging by the top 30 World Cup standings for individuals, one finds an occasional jumper from France, Canada, or less frequently, from eastern European countries like Bulgaria or Estonia. Impressively, at the time of this writing, two U.S. jumpers finished in the top 30 for the 2024-2025 season, hailing from ski jumping organizations in Lake Placid and Chicago.
 
 In terms of total Olympic ski jumping medal count, Norway leads the top six countries, as if they invented the sport. Oh yeah, they did. But Finland is right there in the 'Big Three', even though their medal harvesting has ceased since 2006.
 
-**Olympic Ski Jumping Medal Count By Country (1924 – 2022) (36)**
+<table style="border-collapse: collapse; width: 50%; margin: auto;">
+<thead>
+<tr style="background-color: #d3d3d3;">
+<th style="border: 1px solid black; padding: 6px; width: 10%;"></th>
+<th style="border: 1px solid black; padding: 6px; text-align: left; width: 40%;">Country</th>
+<th style="border: 1px solid black; padding: 6px; text-align: center; width: 25%;">Total Medals</th>
+<th style="border: 1px solid black; padding: 6px; text-align: center; width: 25%;">Gold Medals</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/norway.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Norway</td><td style="border: 1px solid black; padding: 6px; text-align: center;">35</td><td style="border: 1px solid black; padding: 6px; text-align: center;">11</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/austria.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Austria</td><td style="border: 1px solid black; padding: 6px; text-align: center;">26</td><td style="border: 1px solid black; padding: 6px; text-align: center;">7</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/finland.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Finland</td><td style="border: 1px solid black; padding: 6px; text-align: center;">22</td><td style="border: 1px solid black; padding: 6px; text-align: center;">10</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/germany.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Germany</td><td style="border: 1px solid black; padding: 6px; text-align: center;">14</td><td style="border: 1px solid black; padding: 6px; text-align: center;">6</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/japan.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Japan</td><td style="border: 1px solid black; padding: 6px; text-align: center;">13</td><td style="border: 1px solid black; padding: 6px; text-align: center;">4</td></tr>
+<tr><td style="border: 1px solid black; padding: 6px; text-align: center;"><img src="resources/images/book/poland.png" height="15"></td><td style="border: 1px solid black; padding: 6px;">Poland</td><td style="border: 1px solid black; padding: 6px; text-align: center;">10</td><td style="border: 1px solid black; padding: 6px; text-align: center;">4</td></tr>
+</tbody>
+</table>
 
-| | Country | Total Medals | Gold Medals |
-|:---:|:---|:---:|:---:|
-| ![](resources/images/book/norway.png){height="15px"} | Norway | 35 | 11 |
-| ![](resources/images/book/austria.png){height="15px"} | Austria | 26 | 7 |
-| ![](resources/images/book/finland.png){height="15px"} | Finland | 22 | 10 |
-| ![](resources/images/book/germany.png){height="15px"} | Germany | 14 | 6 |
-| ![](resources/images/book/japan.png){height="15px"} | Japan | 13 | 4 |
-| ![](resources/images/book/poland.png){height="15px"} | Poland | 10 | 4 |
+<p style="text-align: center; font-weight: bold; color: #333; font-size: 1.1em;">Olympic Ski Jumping Medal Count By Country (1924 – 2022) (36)</p>
 
 The U.S. has but one Olympic medal in history, when Anders Haugen won bronze in the first Olympics in 1924. Ironically, it was not officially awarded until 1974 after a scoring mistake was finally uncovered. Anders Haugen even helped lead construction of his namesake Haugen Hill ski jump in Dillon, Colorado where he set more world records in 1919 and 1920 and performed jumping exhibitions into his late 50's.
 
@@ -907,19 +920,19 @@ As I trudged up the side of the landing of the intermediate hill, it was déjà 
 
 After he lamented that "Youngsters nowadays don't want to ski jump. Hill preparation is too much work for them. There are too many other distractions", he eagerly offered that "The hill is now ready. There are boots and skis that will fit you in the chalet." Whoa, I walked into that one. I didn't expect that he was going to call me out. After thanking him for such a kind offer, I slunk away, using the legitimate excuse that I hadn't jumped in 36 years and our family had evening plans (that did not include a hospital visit).
 
-# 9 - Evolution Snapshots {#evolution-snaphots}
+# 9 - Evolution Snapshots {#evolution-snapshots}
 
 Like all sports, ski jumping has evolved on many fronts. The following is a mere snapshot of some changes that have emerged over the past 50 years.
 
-## 9.1 – International Hill Size Race
+## 9.1 – International Hill Size Race {#international-hill-size-race}
 
 The most visible evolution to the general public has been hill size, and therefore, distance records. When Olaf Haugann boldly leaped 68 feet into the unknown, crushing the earliest recorded (1808) jump of 31 feet by countryman Olaf Rye, little did they know what they had started.
 
 Driven by financial returns, including a national television audience and 50,000 or more in attendance, major investments continue to be made to the European venues. National pride and rock star fandom for the sport fuels the temptation to stretch ski flying distances. Front page internet descriptions of the largest ski jumping and ski flying hills in Europe boast of either having held or being world record capable. The most prestigious World Cup and Four Hills competition at slightly smaller venues receive national attention, but distance records still get the top headlines.
 
-![Holmenkollen Ski Jump (1980's)](resources/images/book/holmenkollen.jpeg){fig-align="center" width="80%"}
+![](resources/images/book/holmenkollen.jpeg){fig-align="center" width="80%"}
 
-![Holmenkollen - The Cathedral of Ski Jumping](resources/images/book/image83.jpeg){fig-align="center" width="80%"}
+![Holmenkollen Ski Jump - The Cathedral of Ski Jumping (1980's)](resources/images/book/image83.jpeg){fig-align="center" width="80%"}
 
 Rather than plateauing, the international hill size race has continued to escalate. Since 1879, the world record ski jumping distance has increased in a nearly linear fashion over the years.
 
@@ -945,7 +958,7 @@ At risk of sounding like a broken record, distance should not be the be-all and 
 
 To their credit, that perceived wet blanket International Ski Federation (FIS) has publicly opposed further increases in hill sizes and does not recognize any world distance records. Hopefully, the hill size race will quell, and a renewed focus will be placed on the competitive skill and elegance of the sport.
 
-## 9.2 – Physics vs Physique
+## 9.2 – Physics vs Physique {#physics-vs-physique}
 
 A ski jumper's physique and the physics of ski jumping hills are historically intertwined. Over the years, as the hill designs have been revised, the general physique of the elite jumpers has subtly evolved in parallel. With an increased emphasis on aerodynamics regardless of hill size, an unprecedented attention is now given to the details (and regulation) of equipment, optimal flight position, and the jumper's body weight.
 
@@ -956,10 +969,6 @@ Although good aerodynamics always rewards a ski jumper, the yesteryear jumper's 
 The seemingly awkward flight position(s) popularized during those early times compromised aerodynamic efficiency, but it didn't matter so much. Competitive jumpers flew in several alternative body positions. A common technique had arms extended horizontally, and torso bent sharply forward at the waist in a so-called jackknife. Eino Wiemeri, an accomplished Ironwood jumper from the 30's and 40's, exemplified this flight style. Take-off power and timing, rather than optimum flight aerodynamics, were most critical to winning tournaments.
 
 ![Eino Wiemeri "The Flying Finn" at Wolverine (1936)](resources/images/book/eino-wiemeri.jpeg){fig-align="center" width="80%"}
-
-![Vintage Ski Jumper in Flight](resources/images/book/image84.jpeg){fig-align="center" width="60%"}
-
-![Historic Ski Jumping - Arms Outstretched Style](resources/images/book/image85.jpeg){fig-align="center" width="60%"}
 
 It was common for an elite jumper like Torger Tokle to be short and stocky with superior leaping (yeah leaping) ability that maximized height early in flight which translated to longer distances. Physical strength to withstand landing forces when descending from such heights was also beneficial. Tokle was described as having the "power of a human howitzer" (42). It is not surprising that the best jumpers of his era would often have physical attributes of a short, 160–180 lb middleweight wrestler accompanied by superior gymnastic ability.
 
@@ -979,7 +988,7 @@ As such, regulatory scrutiny and penalties for rules violations regarding ski ju
 
 There is an entire science and set of regulations governing countless aspects of the modern jumping ski design that are not discussed here. Gone are the days of heavy, rigid hickory or wood-fiberglass composite cores of yesteryear, replaced with lightweight predominantly plastic honeycomb cores. Some minimal stiffness is imparted by thin interspersed layers of carbon or fiberglass, but it is amazing to see the modern skis flex like monstrous, overcooked fettuccine in reaction to the jumper's upward thrust at take-off, fluctuating air currents during flight, and slapping to the ground during landing.
 
-## 9.3 – Flight Style
+## 9.3 – Flight Style {#flight-style}
 
 As flight aerodynamics became a dominant success factor, the V-style flight position emerged. The V-style is exemplified by the ski tips spread apart while ski backs are close to each other (akin to a jumper's feet in a duck walk). By the mid-90's, it became an accepted standard, pioneered as early as 1969 by Polish jumper Miroslaw Graf, and popularized in the late 80's by the success of Jan Boklov and others. It proved to be aerodynamically superior over a multitude of flight techniques used over the previous 200+ year history of the sport, and finally superceded the symmetrically neat and parallel (Daescher) style popular from the 50's until the late 80's. By the 90's, V-style jumpers began to be rewarded with style points, rather than debited by competition judges or mocked by the ski jumping community.
 
@@ -995,9 +1004,9 @@ Hey, if modern fighter jets are designed with this shape, why wouldn't it be opt
 
 Per the cover photo of Supercynski's book (1), my esteemed local ski jumping colleague John Kusz acquired the natural habit of positioning his skis in a mild 'V' before wider V's (and H's) became all the rage. With all due respect, I didn't think it looked all that stylish, but it helped propel John further down the bigger, modern hills where efficient aerodynamics became increasingly crucial to success. And maybe it's yet another example of semi-conscious athletic genius on his part!
 
-![John Kusz in Copper Peak Flight](resources/images/book/image41.jpeg){fig-align="center" width="80%"}
+![John Kusz in Copper Peak Flight](resources/images/book/soaring-with-the-eagles-supercynski.jpeg){fig-align="center" width="50%"}
 
-# 10 - U.S. Ski Jumping Future {#u.s.-ski-jumping-future}
+# 10 - U.S. Ski Jumping Future {#us-ski-jumping-future}
 
 What is the future of ski jumping in the U.S.? How can the sport be not only preserved, but grown? Many ski jumping enthusiasts have pondered this question for years. OK, this is America and we're not talking about displacing the big four (football, basketball, baseball, or hockey) as a major sport. Success in rejuvenating this tremendous sport in the U.S. won't involve tens of thousands of athletes suddenly dropping their ball, bat, racquet, golf club, or swimsuit and leaping into ski jumping. But, more than just a few hundred jumpers across the nation should be able to enjoy this exhilarating (and safe) sport from early youth to beyond peak physical years.
 
@@ -1015,11 +1024,11 @@ Despite an order of magnitude greater number of active jumpers in a top tier ski
 
 But, to become a top tier ski jumping country, a paradigm shift is required in how ski jumping is viewed and how it is made accessible to a much larger population. A well organized and comprehensive national development strategy can increase momentum in this regard. In one promising initiative, Norway and the U.S. are now collaborating on several nordic skiing fronts.
 
-## 10.1 – Midwest Status
+## 10.1 – Midwest Status {#midwest-status}
 
 In the mid-1900's, nearly every Upper Midwest village with northern European heritage and even slightly hilly terrain had countless number of ski bumps. When contrasting today with an era nearly 50 years ago, the fact is that the number of ski jumping clubs in the U.S. has decreased dramatically. From over 160 ski jumping sites nationwide not so long ago, there remains but approximately 30 ski jumping clubs in 12 states. Of those 30, 12 are located in the Midwest. Minnesota, a historical hotbed of ski jumping and prominent contributor to the U.S. national teams, recently listed only 4 clubs, down from a total of 21 in the late 20th century. Regrettably, Duluth and Ely, two of the most prominent Central Division clubs that produced numerous Olympians in the 70's and 80's era, have closed their operations.
 
-![Active Ski Jumping Clubs U.S. Midwest (2024)](resources/images/book/active-ski-jumping-clubs-midwest.png){fig-align="center" width="80%"}
+![Active Ski Jumping Clubs U.S. Midwest (2024)](resources/images/book/active-ski-jumping-clubs-midwest.png){fig-align="center" width="50%"}
 
 How can the trend of a shrinking ski jumping participation be reversed? A prime example of undying commitment to the sport is the Chicago (Norge Ski Club). In the early 2000's, while safety conscious Ely Minnesota city officials discussed how to scrap the no longer used 70m Ely ski jumping scaffold, along came Norge Ski Club to purchase the tower for $1. Then, they arranged to dismantle and transport the scaffold the 540 miles to Fox River Grove on 17 flat bed trucks and re-assemble it. So, they salvaged the demise of one club for the improvement of another. Now, that's commitment.
 
@@ -1027,7 +1036,7 @@ Today, Norge is one of several ski jumping clubs that have adapted a comprehensi
 
 Besides the towns listed above, other ski jumping hills and hills have sprung up in central Wisconsin, such as Cameron, Minocqua, Oconomowoc, and Rome. So, there is real hope for Midwest ski jumping.
 
-## 10.2 – Enough Large Hills
+## 10.2 – Enough Large Hills {#enough-large-hills}
 
 Is North American ski jumping handicapped by lack of large hill facilities?
 
@@ -1039,7 +1048,7 @@ Closer to home, the upper Midwest is amply equipped with large hills. Four of th
 
 This is not to say that today there is an adequate number of small to intermediate jumping hills to support substantial growth in the sport. But, it's a smaller mountain to climb when a regional groundswell for the sport arises. As may be inferred from the earlier list of Midwest clubs, there are several active small and intermediate hill ski jumping clubs in Wisconsin and Minnesota attempting to spearhead growth, motivated by an enduring fascination with the sport. They have recognized the importance of a graduated set of small hills within the same complex, in addition to using hills already integral to most existing large ski jumping hill complexes.
 
-## 10.3 – Lay The Foundation
+## 10.3 – Lay The Foundation {#lay-the-foundation}
 
 Should the priority be development of small hills and youth ski jumping programs or large hills and international competition?
 
@@ -1063,7 +1072,7 @@ After several decades, tangible optimism exists for a rejuvenated and modernized
 
 It will be exciting to see if a multi-season calendar for Copper Peak can be established while solidifying its own financial viability with minimal reliance on European ski jumping protocol and politics. Passing those thresholds and thinking beyond local objectives, can its resurgence compliment a greater U.S. national vision for advancement of the sport of ski jumping at all levels? With so much that the sport has to offer, one has to believe this greater opportunity can be realized.
 
-## 10.4 – Cultural Embrace
+## 10.4 – Cultural Embrace {#cultural-embrace}
 
 Can ski jumping be embraced by today's North American sporting culture?
 
@@ -1075,11 +1084,11 @@ The emergence of womens' ski jumping adds dramatically to the potential populati
 
 At the time in 1972, I didn't know that the Kandahar junior ski jumping club existed in downstate (Brighton, Mi). They arrived one day for an Iron Bowl junior meet, nearly 600 miles from their home base. For those more familiar with the historical footprint of ski jumping, it is but one example of the extent of ski jumping nearly a century ago. In 1928, Henry Hall led the building of a 60m ski jump near Brighton. Before being destroyed in 1937, the hill record of 201 feet was set in 1936 by Ironwood's own Ted Zoberski.
 
+![1930's View of 60m Brighton Mi Ski Jump](resources/images/book/19302-view-60m-brighton.jpeg){fig-align="center" width="80%"}
+
 As a final long cast, with artificial hills and lights, ski jumping venues wouldn't have to be limited to states with a few months of inconsistent snowfall. OK, ski jumping requires a wholly different type of venue than most sports. But, if hockey and its massive infrastructure can be transplanted and thrive in Fort Lauderdale, Tampa Bay, LA, and of all places, Las Vegas, is it farfetched to envision ski jumping popularized in regions reflexively dismissed as potential sites?
 
 In comparison to alpine skiing, the footprint of ski jumping is small and access to an entire mountain range is not required. As an out-of-the-box idea that is only half-baked, the towering landfills around the country could be developed as ski jumping sites. Wherever jumping facilities might land, the sport can be expanded across broader regions of the country, building upon a durable heritage. Ski jumping was an extreme sport before the term was invented. But now, after legitimately shedding the perception as an extremely dangerous circus act, it retains its unique mix of physical and mental demands, and of course, the 'trills'.
-
-![1930's View of 60m Brighton Mi Ski Jump](resources/images/book/19302-view-60m-brighton.jpeg){fig-align="center" width="80%"}
 
 # 11 - Hall of Gratitude {#hall-of-gratitude}
 
@@ -1111,7 +1120,21 @@ A phenomenal multi-sport athlete as a youth and young man, Charlie translated th
 
 Willie and Toivo (Toyk) always alluded to inheriting an exceptional work ethic from their Grandpa John who had to be a fierce dynamo to establish a new homestead from scratch in the early 1900's in a harsh winter region of a new country and little to no English skills. As a soft spoken adult, Uncle Toivo (also my godfather) was an avid outdoorsman who parlayed that high energy and discipline into being an avid cross country and marathon runner (which in turn his son John excelled). He raised five kids with wife Bertha and worked more than 30 years as a welder and then foreman for the Reserve Mining Co in Silver Bay, Minnesota. In his later years, he expended boundless energy as a founding member (and sometimes called the grandfather) of the 310 mile Superior Hiking Trail, cleared out of rugged forest wilderness along the north shore of Lake Superior that today stretches from Wisconsin south of Duluth to the Canadian border.
 
-# 12 - Appendix - Ski Jump Classification {#appendix-ski-jump-classification}
+# 12 - Acknowledgments {#acknowledgments}
+
+Special thanks to ___
+
+Technical editing and formatting by Candace Savonen, daughter of Craig.
+
+# 13 - About the Author {#about-the-author}
+
+**Craig Savonen** grew up in Ironwood, Michigan, where ski jumping was woven into the fabric of community life. Following in the footsteps of his father Willie, Craig competed as a junior ski jumper throughout the 1970s, qualifying for the 1979 Junior National Championships at Squaw Valley, California. He went on to pursue a 40 year engineering career, but didn't escape his passion for the sport that shaped his youth.
+
+# 14 - License & Copyright {#license-copyright}
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the author.
+
+# 15 - Appendix - Ski Jump Classification {#appendix-ski-jump-classification}
 
 In recent decades, several factors have contributed to the resizing and reclassification of ski jumps, including Suicide Hill, as mentioned earlier. Suicide was reclassified from 70m to a larger (90m) hill size by reasons of it being (a) physically modified to enable longer jumps, and (b) the international standard for classification being revised according to the K-point, rather than the P-point (as explained below). 
 
@@ -1129,7 +1152,7 @@ In 2004 there was another development. The FIS redefined hill size according to 
 
 Based on data from several sources, hill size proportions are illustrated below that includes hill sizes of;
 
-- prominent U.P. hills, i.e. Wolverine, Suicide, Pine Mountain, and Copper Peak.
+- Prominent U.P. hills, i.e. Wolverine, Suicide, Pine Mountain, and Copper Peak.
 - Olympic standards, i.e. Olympics Normal and Olympics Large.
 - FIS designated classes, i.e. Small, Medium, Normal, Large, Giant, and Ski Flying.
 
@@ -1145,7 +1168,7 @@ Another pertinent observation is that Pine Mountain and Suicide straddle hill si
 
 Pine Mountain is classified as a Large ski jump now. Yet, the distinction between it and Copper Peak is nearly blurred in terms of longest recorded distances. Copper Peak's hill record has been standing still at 518 feet since its last meet in 1994 while in subsequent years continued modifications to Pine Mountain has yielded the current record of 472 feet that is within 10% (or less than 50 feet) of Copper Peak's record and its 1970 vintage hill design.
 
-# 13 - Appendix - Hill Preparation {#appendix-hill-preparation}
+# 16 - Appendix - Hill Preparation {#appendix-hill-preparation}
 
 Ski jump hill snow surface preparation continues to evolved into a science. In the 70's, the creation of supersized hills, such as Copper Peak, forced innovation. Wally Kusz, Leno Slanzi, Bob Shea and several others had to be creative to deal with the sheer size of Copper Peak's inrun and landing hill. With a relatively small crew at hand, a large scale snow sled was pulled up the massive landing by a cable and pulley system attached to a bulldozer at the bottom of the hill (1). To snow the 469 foot inrun, sacks of snow got an elevator ride to snow the scaffold top and a smaller sled was used to snow the lower inrun portions.
 
@@ -1171,34 +1194,47 @@ Final sidestepping is an acquired skill. It involves short hopping (akin to jump
 
 The following table summarizes the largest ski jumping facilities in North America, ranked by hill record distance. Data extracted and compiled from Ski Jumping Archive (skisprungschanzen.com). (46)
 
-| City | Hill Area | North America Rank | World Rank | *K-Point Distance | Max Designed Flight | Hill Record |
-|:-----|:----------|:------------------:|:----------:|:-----------------:|:-------------------:|:-----------:|
-| Ironwood, MI** | Copper Peak | 1 | 6 | 145 | N/A | 158 |
-| Whistler, BC | Olympic Park | 2 | 16 | 125 | 142 | 149 |
-| Iron Mountain, MI** | Pine Mountain | 3 | 33 | 120 | 133 | 144 |
-| Park City, UT | Olympic Park | 4 | 43 | 120 | 134 | 139 |
-| Thunder Bay, ON | Big Thunder | 5 | 47 | 120 | 136 | 137 |
-| Lake Placid, NY | MacKenzie | 6 | 48 | 115 | 128 | 136 |
-| Westby, WI** | Snowflake | 7 | 55 | 108 | 123 | 130 |
-| Steamboat Springs, CO | Howelsen | 8 | 58 | 114 | 127 | 127 |
-| Calgary, AB | Alberta Olympic Park | 9 | 60 | 114 | 122 | 125 |
-| Whistler, BC | Olympic Park | 10 | 102 | 95 | 104 | 110 |
-| Lake Placid, NY | MacKenzie | 11 | 111 | 90 | 100 | 108 |
-| Whistler, BC | Olympic Park | 12 | 112 | 90 | 103 | 108 |
-| Calgary, AB | Alberta | 13 | 120 | 89 | 95 | 107 |
-| Steamboat Springs, CO | Howelsen | 14 | 129 | 90 | 100 | 106 |
-| Park City, UT | Olympic Park | 15 | 138 | 90 | 100 | 105 |
-| Brattleboro, VT | Harris | 16 | 140 | 88 | 98 | 104 |
-| Leavenworth, WA | Bakke | 17 | 147 | 100 | N/A | 104 |
-| Ishpeming, MI** | Suicide | 18 | 162 | 90 | 96 | 102 |
-| Squaw Valley, CA | Papoose Peak | 19 | 180 | N/A | N/A | 99 |
-| Eau Claire, WI** | Silvermine | 20 | 196 | 85 | 95 | 96 |
+<table style="border-collapse: collapse; width: 80%; margin: auto; font-size: 0.9em;">
+<thead>
+<tr style="background-color: #d3d3d3;">
+<th style="border: 1px solid black; padding: 5px; text-align: left;">City</th>
+<th style="border: 1px solid black; padding: 5px; text-align: left;">Hill Area</th>
+<th style="border: 1px solid black; padding: 5px; text-align: center;">NA Rank</th>
+<th style="border: 1px solid black; padding: 5px; text-align: center;">World</th>
+<th style="border: 1px solid black; padding: 5px; text-align: center;">K-Point*</th>
+<th style="border: 1px solid black; padding: 5px; text-align: center;">Max Flight</th>
+<th style="border: 1px solid black; padding: 5px; text-align: center;">Record</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="border: 1px solid black; padding: 5px;">Ironwood, MI**</td><td style="border: 1px solid black; padding: 5px;">Copper Peak</td><td style="border: 1px solid black; padding: 5px; text-align: center;">1</td><td style="border: 1px solid black; padding: 5px; text-align: center;">6</td><td style="border: 1px solid black; padding: 5px; text-align: center;">145</td><td style="border: 1px solid black; padding: 5px; text-align: center;">N/A</td><td style="border: 1px solid black; padding: 5px; text-align: center;">158</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Whistler, BC</td><td style="border: 1px solid black; padding: 5px;">Olympic Park</td><td style="border: 1px solid black; padding: 5px; text-align: center;">2</td><td style="border: 1px solid black; padding: 5px; text-align: center;">16</td><td style="border: 1px solid black; padding: 5px; text-align: center;">125</td><td style="border: 1px solid black; padding: 5px; text-align: center;">142</td><td style="border: 1px solid black; padding: 5px; text-align: center;">149</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Iron Mountain, MI**</td><td style="border: 1px solid black; padding: 5px;">Pine Mountain</td><td style="border: 1px solid black; padding: 5px; text-align: center;">3</td><td style="border: 1px solid black; padding: 5px; text-align: center;">33</td><td style="border: 1px solid black; padding: 5px; text-align: center;">120</td><td style="border: 1px solid black; padding: 5px; text-align: center;">133</td><td style="border: 1px solid black; padding: 5px; text-align: center;">144</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Park City, UT</td><td style="border: 1px solid black; padding: 5px;">Olympic Park</td><td style="border: 1px solid black; padding: 5px; text-align: center;">4</td><td style="border: 1px solid black; padding: 5px; text-align: center;">43</td><td style="border: 1px solid black; padding: 5px; text-align: center;">120</td><td style="border: 1px solid black; padding: 5px; text-align: center;">134</td><td style="border: 1px solid black; padding: 5px; text-align: center;">139</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Thunder Bay, ON</td><td style="border: 1px solid black; padding: 5px;">Big Thunder</td><td style="border: 1px solid black; padding: 5px; text-align: center;">5</td><td style="border: 1px solid black; padding: 5px; text-align: center;">47</td><td style="border: 1px solid black; padding: 5px; text-align: center;">120</td><td style="border: 1px solid black; padding: 5px; text-align: center;">136</td><td style="border: 1px solid black; padding: 5px; text-align: center;">137</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Lake Placid, NY</td><td style="border: 1px solid black; padding: 5px;">MacKenzie</td><td style="border: 1px solid black; padding: 5px; text-align: center;">6</td><td style="border: 1px solid black; padding: 5px; text-align: center;">48</td><td style="border: 1px solid black; padding: 5px; text-align: center;">115</td><td style="border: 1px solid black; padding: 5px; text-align: center;">128</td><td style="border: 1px solid black; padding: 5px; text-align: center;">136</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Westby, WI**</td><td style="border: 1px solid black; padding: 5px;">Snowflake</td><td style="border: 1px solid black; padding: 5px; text-align: center;">7</td><td style="border: 1px solid black; padding: 5px; text-align: center;">55</td><td style="border: 1px solid black; padding: 5px; text-align: center;">108</td><td style="border: 1px solid black; padding: 5px; text-align: center;">123</td><td style="border: 1px solid black; padding: 5px; text-align: center;">130</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Steamboat Springs, CO</td><td style="border: 1px solid black; padding: 5px;">Howelsen</td><td style="border: 1px solid black; padding: 5px; text-align: center;">8</td><td style="border: 1px solid black; padding: 5px; text-align: center;">58</td><td style="border: 1px solid black; padding: 5px; text-align: center;">114</td><td style="border: 1px solid black; padding: 5px; text-align: center;">127</td><td style="border: 1px solid black; padding: 5px; text-align: center;">127</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Calgary, AB</td><td style="border: 1px solid black; padding: 5px;">Alberta Olympic Park</td><td style="border: 1px solid black; padding: 5px; text-align: center;">9</td><td style="border: 1px solid black; padding: 5px; text-align: center;">60</td><td style="border: 1px solid black; padding: 5px; text-align: center;">114</td><td style="border: 1px solid black; padding: 5px; text-align: center;">122</td><td style="border: 1px solid black; padding: 5px; text-align: center;">125</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Whistler, BC</td><td style="border: 1px solid black; padding: 5px;">Olympic Park</td><td style="border: 1px solid black; padding: 5px; text-align: center;">10</td><td style="border: 1px solid black; padding: 5px; text-align: center;">102</td><td style="border: 1px solid black; padding: 5px; text-align: center;">95</td><td style="border: 1px solid black; padding: 5px; text-align: center;">104</td><td style="border: 1px solid black; padding: 5px; text-align: center;">110</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Lake Placid, NY</td><td style="border: 1px solid black; padding: 5px;">MacKenzie</td><td style="border: 1px solid black; padding: 5px; text-align: center;">11</td><td style="border: 1px solid black; padding: 5px; text-align: center;">111</td><td style="border: 1px solid black; padding: 5px; text-align: center;">90</td><td style="border: 1px solid black; padding: 5px; text-align: center;">100</td><td style="border: 1px solid black; padding: 5px; text-align: center;">108</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Whistler, BC</td><td style="border: 1px solid black; padding: 5px;">Olympic Park</td><td style="border: 1px solid black; padding: 5px; text-align: center;">12</td><td style="border: 1px solid black; padding: 5px; text-align: center;">112</td><td style="border: 1px solid black; padding: 5px; text-align: center;">90</td><td style="border: 1px solid black; padding: 5px; text-align: center;">103</td><td style="border: 1px solid black; padding: 5px; text-align: center;">108</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Calgary, AB</td><td style="border: 1px solid black; padding: 5px;">Alberta</td><td style="border: 1px solid black; padding: 5px; text-align: center;">13</td><td style="border: 1px solid black; padding: 5px; text-align: center;">120</td><td style="border: 1px solid black; padding: 5px; text-align: center;">89</td><td style="border: 1px solid black; padding: 5px; text-align: center;">95</td><td style="border: 1px solid black; padding: 5px; text-align: center;">107</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Steamboat Springs, CO</td><td style="border: 1px solid black; padding: 5px;">Howelsen</td><td style="border: 1px solid black; padding: 5px; text-align: center;">14</td><td style="border: 1px solid black; padding: 5px; text-align: center;">129</td><td style="border: 1px solid black; padding: 5px; text-align: center;">90</td><td style="border: 1px solid black; padding: 5px; text-align: center;">100</td><td style="border: 1px solid black; padding: 5px; text-align: center;">106</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Park City, UT</td><td style="border: 1px solid black; padding: 5px;">Olympic Park</td><td style="border: 1px solid black; padding: 5px; text-align: center;">15</td><td style="border: 1px solid black; padding: 5px; text-align: center;">138</td><td style="border: 1px solid black; padding: 5px; text-align: center;">90</td><td style="border: 1px solid black; padding: 5px; text-align: center;">100</td><td style="border: 1px solid black; padding: 5px; text-align: center;">105</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Brattleboro, VT</td><td style="border: 1px solid black; padding: 5px;">Harris</td><td style="border: 1px solid black; padding: 5px; text-align: center;">16</td><td style="border: 1px solid black; padding: 5px; text-align: center;">140</td><td style="border: 1px solid black; padding: 5px; text-align: center;">88</td><td style="border: 1px solid black; padding: 5px; text-align: center;">98</td><td style="border: 1px solid black; padding: 5px; text-align: center;">104</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Leavenworth, WA</td><td style="border: 1px solid black; padding: 5px;">Bakke</td><td style="border: 1px solid black; padding: 5px; text-align: center;">17</td><td style="border: 1px solid black; padding: 5px; text-align: center;">147</td><td style="border: 1px solid black; padding: 5px; text-align: center;">100</td><td style="border: 1px solid black; padding: 5px; text-align: center;">N/A</td><td style="border: 1px solid black; padding: 5px; text-align: center;">104</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Ishpeming, MI**</td><td style="border: 1px solid black; padding: 5px;">Suicide</td><td style="border: 1px solid black; padding: 5px; text-align: center;">18</td><td style="border: 1px solid black; padding: 5px; text-align: center;">162</td><td style="border: 1px solid black; padding: 5px; text-align: center;">90</td><td style="border: 1px solid black; padding: 5px; text-align: center;">96</td><td style="border: 1px solid black; padding: 5px; text-align: center;">102</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Squaw Valley, CA</td><td style="border: 1px solid black; padding: 5px;">Papoose Peak</td><td style="border: 1px solid black; padding: 5px; text-align: center;">19</td><td style="border: 1px solid black; padding: 5px; text-align: center;">180</td><td style="border: 1px solid black; padding: 5px; text-align: center;">N/A</td><td style="border: 1px solid black; padding: 5px; text-align: center;">N/A</td><td style="border: 1px solid black; padding: 5px; text-align: center;">99</td></tr>
+<tr><td style="border: 1px solid black; padding: 5px;">Eau Claire, WI**</td><td style="border: 1px solid black; padding: 5px;">Silvermine</td><td style="border: 1px solid black; padding: 5px; text-align: center;">20</td><td style="border: 1px solid black; padding: 5px; text-align: center;">196</td><td style="border: 1px solid black; padding: 5px; text-align: center;">85</td><td style="border: 1px solid black; padding: 5px; text-align: center;">95</td><td style="border: 1px solid black; padding: 5px; text-align: center;">96</td></tr>
+</tbody>
+</table>
 
 *K-Point Distance in Meters, and explained in Ski Jump Classification Appendix*
 
 **Upper Midwest hills referenced in this memoir*
 
-# 14 - References {#references}
+# 17 - References {#references}
 
 1. Soaring With The Eagles: The Copper Peak Story, Charles Supercynski (2012).
 2. Jerry Martin - 1973 U.S. National Ski Jumping Champion (Ishpeming), Duluth News Tribune.
