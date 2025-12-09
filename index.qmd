@@ -558,7 +558,7 @@ A few years later my eyes were more fully opened to Dad's love of the sport and 
 
 I tried to not fall short in this regard from then on, but in retrospect I have since realized that he didn't attend as many of my tournaments in the last few years, whether by the demands of his workplace, his declining health, or other reasons. So, perhaps there will be a ski jumping Field of Dreams penance moment sometime in the eternal future, reuniting father and son to discuss their favorite pastime!
 
-# 6 - Go Big {#go-big}
+# 6 - Going Big {#go-big}
 
 1979 proved to be my apex ski jumping season. It included a ski jumping meet nearly every week from the end of December through the latter half of March. I had graduated fully to the Midwest senior jumping circuit, including the two biggest ski jumping hills in the Midwest, i.e. Westby's Snowflake and Iron Mountain's Pine Mountain. (Note: As of this writing, the giant Copper Peak ski flying hill was still on a 30+ year siesta, although it is expected to rise soon from its slumber).
 
@@ -670,7 +670,7 @@ The second week at Squaw Valley was filled with instructional sessions and dry l
 
 A welcome diversion was being able to go alpine skiing one day on Squaw Valley Mountain. For a Yooper who had never ventured beyond the upper Midwest until that trip, the week in general and that particular day, was a real treat. Whereas the maximum elevation change at U.P. alpine hills is a measly 650 feet, the 2700 foot elevation change from top to bottom of Squaw Valley was another scale. The picturesque view from the tram ride and the length of the ski runs were awesome. Even for a fit 18 year old, my leg muscles were burning when skiing without pause from top to bottom of the mountain. The climate changed from blustery, cold, and icy conditions at the top to sunny, mid-50's and soft snow at the bottom. Just as noticeable was that ski attire changed dramatically, as if by magic, from winter parkas, ski pants, and goggles at the mountain top to shorts and bikinis at the bottom. Thus ended the apex year of my ski jumping career.
 
-# 7 - Time of Transition {#Time of Transition}
+# 7 - Time of Transition {#time-of-transition}
 
 ## 7.1 – Glide Path
 
@@ -907,7 +907,7 @@ As I trudged up the side of the landing of the intermediate hill, it was déjà 
 
 After he lamented that "Youngsters nowadays don't want to ski jump. Hill preparation is too much work for them. There are too many other distractions", he eagerly offered that "The hill is now ready. There are boots and skis that will fit you in the chalet." Whoa, I walked into that one. I didn't expect that he was going to call me out. After thanking him for such a kind offer, I slunk away, using the legitimate excuse that I hadn't jumped in 36 years and our family had evening plans (that did not include a hospital visit).
 
-# 9 - Evolution Snapshots {#evolution}
+# 9 - Evolution Snapshots {#evolution-snaphots}
 
 Like all sports, ski jumping has evolved on many fronts. The following is a mere snapshot of some changes that have emerged over the past 50 years.
 
@@ -997,7 +997,7 @@ Per the cover photo of Supercynski's book (1), my esteemed local ski jumping col
 
 ![John Kusz in Copper Peak Flight](resources/images/book/image41.jpeg){fig-align="center" width="80%"}
 
-# 10 - The Future {#future}
+# 10 - U.S. Ski Jumping Future {#u.s.-ski-jumping-future}
 
 What is the future of ski jumping in the U.S.? How can the sport be not only preserved, but grown? Many ski jumping enthusiasts have pondered this question for years. OK, this is America and we're not talking about displacing the big four (football, basketball, baseball, or hockey) as a major sport. Success in rejuvenating this tremendous sport in the U.S. won't involve tens of thousands of athletes suddenly dropping their ball, bat, racquet, golf club, or swimsuit and leaping into ski jumping. But, more than just a few hundred jumpers across the nation should be able to enjoy this exhilarating (and safe) sport from early youth to beyond peak physical years.
 
@@ -1027,7 +1027,7 @@ Today, Norge is one of several ski jumping clubs that have adapted a comprehensi
 
 Besides the towns listed above, other ski jumping hills and hills have sprung up in central Wisconsin, such as Cameron, Minocqua, Oconomowoc, and Rome. So, there is real hope for Midwest ski jumping.
 
-## 10.2 – Large Hills
+## 10.2 – Enough Large Hills
 
 Is North American ski jumping handicapped by lack of large hill facilities?
 
@@ -1039,7 +1039,7 @@ Closer to home, the upper Midwest is amply equipped with large hills. Four of th
 
 This is not to say that today there is an adequate number of small to intermediate jumping hills to support substantial growth in the sport. But, it's a smaller mountain to climb when a regional groundswell for the sport arises. As may be inferred from the earlier list of Midwest clubs, there are several active small and intermediate hill ski jumping clubs in Wisconsin and Minnesota attempting to spearhead growth, motivated by an enduring fascination with the sport. They have recognized the importance of a graduated set of small hills within the same complex, in addition to using hills already integral to most existing large ski jumping hill complexes.
 
-## 10.3 – Foundation
+## 10.3 – Lay The Foundation
 
 Should the priority be development of small hills and youth ski jumping programs or large hills and international competition?
 
@@ -1111,7 +1111,7 @@ A phenomenal multi-sport athlete as a youth and young man, Charlie translated th
 
 Willie and Toivo (Toyk) always alluded to inheriting an exceptional work ethic from their Grandpa John who had to be a fierce dynamo to establish a new homestead from scratch in the early 1900's in a harsh winter region of a new country and little to no English skills. As a soft spoken adult, Uncle Toivo (also my godfather) was an avid outdoorsman who parlayed that high energy and discipline into being an avid cross country and marathon runner (which in turn his son John excelled). He raised five kids with wife Bertha and worked more than 30 years as a welder and then foreman for the Reserve Mining Co in Silver Bay, Minnesota. In his later years, he expended boundless energy as a founding member (and sometimes called the grandfather) of the 310 mile Superior Hiking Trail, cleared out of rugged forest wilderness along the north shore of Lake Superior that today stretches from Wisconsin south of Duluth to the Canadian border.
 
-# 12 - Appendix - Ski Jump Classification {#appendix-classification}
+# 12 - Appendix - Ski Jump Classification {#appendix-ski-jump-classification}
 
 In recent decades, several factors have contributed to the resizing and reclassification of ski jumps, including Suicide Hill, as mentioned earlier. Suicide was reclassified from 70m to a larger (90m) hill size by reasons of it being (a) physically modified to enable longer jumps, and (b) the international standard for classification being revised according to the K-point, rather than the P-point (as explained below). 
 
@@ -1145,7 +1145,7 @@ Another pertinent observation is that Pine Mountain and Suicide straddle hill si
 
 Pine Mountain is classified as a Large ski jump now. Yet, the distinction between it and Copper Peak is nearly blurred in terms of longest recorded distances. Copper Peak's hill record has been standing still at 518 feet since its last meet in 1994 while in subsequent years continued modifications to Pine Mountain has yielded the current record of 472 feet that is within 10% (or less than 50 feet) of Copper Peak's record and its 1970 vintage hill design.
 
-# 13 - Appendix - Hill Preparation {#appendix-preparation}
+# 13 - Appendix - Hill Preparation {#appendix-hill-preparation}
 
 Ski jump hill snow surface preparation continues to evolved into a science. In the 70's, the creation of supersized hills, such as Copper Peak, forced innovation. Wally Kusz, Leno Slanzi, Bob Shea and several others had to be creative to deal with the sheer size of Copper Peak's inrun and landing hill. With a relatively small crew at hand, a large scale snow sled was pulled up the massive landing by a cable and pulley system attached to a bulldozer at the bottom of the hill (1). To snow the 469 foot inrun, sacks of snow got an elevator ride to snow the scaffold top and a smaller sled was used to snow the lower inrun portions.
 
