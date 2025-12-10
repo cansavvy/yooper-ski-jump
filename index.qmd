@@ -322,7 +322,7 @@ Theron Peterson, the veteran Ironwood High coach of alpine skiing and several ot
 
 As mentioned by Supercynski (1), a limited number of years remained for continued use of the Iron Bowl, since the Ironwood municipal authority was clamoring for more landfill space in the Caves property that they controlled. And even more problematically, with years passing since the underground mines were abandoned, the steadily rising water table would eventually peek above ground in the bottom of the Caves ravine.
 
-# 4 - Intermediate Hill Circuit {#mid-size-circuit}
+# 4 - Midwest Hill Circuit {#mid-size-circuit}
 
 During the 70's and 80's, the upper Midwest ski jumping tournament circuit was distributed across the western U.P., southern half of Wisconsin, eastern Minnesota, and northern Illinois. Until the late 70's, the Gogebic Range Ski Club had a nucleus of ski jumpers who maintained the local ski jump, trained, and traveled together nearly every weekend to a Midwest tournament from the first full week of January through the middle of March. Most of the intermediate to large hills comprising that circuit are mapped below.
 
@@ -470,7 +470,7 @@ Madison (Middleton) was at the forefront of artificial ski jumping surfaces in t
 
 We were advised to not use our best skis because unlubricated friction could occur at high speeds, which would cause fiberglass film to adhere permanently to the relatively soft plastic underside of the skis. Since I only had one pair of skis, I had no choice, but they were not worse for wear after the experience. However, one of the jumpers did fall and break fingers caught in the metal mesh underlay of the landing. Ouch.
 
-Fortunately, the technology for artificial inrun track surfaces, skier's inrun positioning and equipment have evolved considerably since the mid-20th century. You can play your own 'Spot The Difference' exercise when viewing the contrasting illustrations below.
+Fortunately, the technology for artificial inrun track surfaces, skier's inrun positioning and equipment have evolved considerably since the mid-20th century. You can play your own 'Spot The Differences' game when viewing the contrasting illustrations below.
 
 Although not sophisticated compared to athletic training camps today, the opportunity to participate in the 1977 training camp with my regional peers was a great experience. It introduced many of us to dry land training and the first ski jumping experience on a plastic hill. It was surreal to be jumping in 75° weather. We rode the 20m hill for the majority of the camp, but some of us were allowed to ride the 60m for a couple of days.
 
@@ -695,7 +695,7 @@ In 1978, John and Dave were a ski jumping mature 29 and 34 years old, respective
 
 The Green Hornet's characteristically elegant flight style was recognizable from a hundred yards away. I describe it as a hybrid between 1970's Daescher, as illustrated by the precisely close and parallel skis, while including remnants of the 1950's Windisch, which had arms wrapped snugly around the hips and a pronounced but not exaggerated jackknife. With head tilted back from the torso and eyes steadily peering to the hill bottom, Dave's knifed through the air with an unparalleled steadiness.
 
-![Dave Engstrom (the Green Hornet (30)) in Flight](resources/images/book/dave-engstrom.jpeg){fig-align="center" width="80%"}
+![Dave Engstrom - the Green Hornet in Flight (30)](resources/images/book/dave-engstrom.jpeg){fig-align="center" width="80%"}
 
 After I retired from ski jumping and embarked on a 40 year engineering career in downstate Michigan, sincere compliments to the Wolverine Ski Club for what they accomplished from the early 80's through the mid-90's. As documented by Supercynski (1), they refocused on revitalizing local junior jumping. A key step was John Kusz and six companions of the Wolverine Ski Club investing their time in being formally trained as ski jumping coaches. The commitment of many people resulted in a complement of smaller hills along the Wolverine ridge, including a 10m and 35m. That effort bore fruit. Over a 10 - 12 year period, local junior jumpers represented themselves and the club very well at ski jumping meets all over the Midwest and even nationwide (1). But, similar to my dozen year ski jumping experience, that mid-80's to mid-90's junior age class eventually grew up and had to move on to other phases of life, just as I did in the 1981 - 1982 timeframe.
 
@@ -725,11 +725,11 @@ Within the overall sport of skiing, 2006 - 2008 FIS data concluded that injuries
 
 A 2012 Consumer Product Safety Commission study revealed that for children ages 5 to 14 injuries for all types of skiing occurred at a rate of 2 per 100,000 participants. Yeah, two. All of the more common sports or activities (most of them involving some form of contact), such as football, basketball, hockey, baseball, soccer, and playground ranged from 51 (hockey) to 584 (football) injuries per 100,000 participants.
 
-In studies of Winter Olympic injuries, less than 5% of ski jumpers incurred injuries, which is equivalent to curling! For all sports, 11% of participants were injured, with snowboard cross, freestyle skiing, bobsled, ice hockey, and short track being much higher than the average.
+A 2014 issued study of Winter Olympic injuries by sport concluded that less than 5% of ski jumpers incurred injuries, which is equivalent to curling! For all sports, 11% of participants were injured, with snowboard cross, freestyle skiing, bobsled, ice hockey, and short track being much higher than the average.
 
 ![Winter Olympic Injury Rates, By Sport (31)](resources/images/book/winter-olympic-injury-rates.png){fig-align="center" width="80%"}
 
-In a subsequent study of injury frequency for the 2914 athletes from 92 countries participating in the 2018 Winter Olympics at PyeongChang, South Korea. Data was compiled for percentage of athletes losing time for training or competition to injury. The data was broken into three segments, namely;
+A subsequent study of injury frequency was conducted for the 2914 athletes from 92 countries participating in the 2018 Winter Olympics at PyeongChang, South Korea. Data was compiled for percentage of athletes losing time for training or competition to injury. It was broken into three segments, namely;
 
 - Any injury that that forced some lost time.
 - Injuries that forced time loss of greater than one day.
@@ -1079,7 +1079,7 @@ The following table summarizes the largest ski jumping facilities in North Ameri
 </table>
 ## Large North American Ski Jumping Hills (46)
 
-*K-Point Distance in Meters, and explained in Ski Jump Classification Appendix*
+*K-Point Distance in Meters, explained in Ski Jump Classification Appendix*
 
 **Upper Midwest hills referenced in this memoir*
 
@@ -1131,11 +1131,11 @@ In comparison to alpine skiing, the footprint of ski jumping is small and access
 
 # 11 - Hall of Gratitude {#hall-of-gratitude}
 
-I am indebted to the sport and people of ski jumping. In addition to numerous mentions of Dad as a focal point of this tribute, my own honorary first tier 'Hall of Fame' would include;
+I am indebted to the sport and people of ski jumping. In addition to numerous mentions of Dad as a focal point of this tribute, my honorary first tier 'Hall of Fame' would include;
 
 ## John Kusz
 
-John's impressive ski jumping exploits are well documented (1) and deservedly so. His love of the sport showed in decades long persistence to ultimately achieving his Copper Peak goal and just as much, continuing to compete at a high level several years past that. Even while the ski jumping culture evaporated in the Ironwood area, his continuing positive attitude and unflinching work ethic inspired me during the many hours of preparing the hills before we could do what we thoroughly enjoyed.
+John's impressive ski jumping exploits are well documented (1) and deservedly so. His love of the sport showed in decades long persistence to ultimately achieve his Copper Peak goal and just as much, continuing to compete at a high level several years past that. Even while the ski jumping culture evaporated in the Ironwood area, his continuing positive attitude and unflinching work ethic inspired me during the many hours of preparing the hills before we could do what we thoroughly enjoyed.
 
 Although ultra competitive and 11 years my senior, he always treated me as a ski jumping partner. Our early morning trips to upper Midwest meets were fun and memorable, even with his intentionally lame 'Dad jokes' such as "Looks like we are now entering the town of Donot Pass". He is a sweetheart even when applying good hearted teasing. The two of us were riding in his car to do an interview at the local radio station to drum up interest in an upcoming Wolverine meet. When I pulled down the passenger visor mirror, he noted that "You don't need to look good on radio." Little did he know that I was surreptitiously trying to use the mirror to check out the girl on the side of the road that we had just passed.
 
@@ -1161,17 +1161,15 @@ Willie and Toivo (Toyk) always alluded to inheriting an exceptional work ethic f
 
 # 12 - Acknowledgments {#acknowledgments}
 
-A special thanks to my daughter Candace for getting this memoir launched into the e-world, after it traveled a pretty long inrun.  Also, sincere appreciation for family and friends that provided constructive input or encouragement during the final stages, most notably Candace, wife Ann, sister Wendy, and longtime friends Spencer Luster (a long time and accomplished writer in his own right) and Greg Nurmi (who can wax poetically about most things under the sun).  
-
-Technical editing and formatting by Candace Savonen, daughter of Craig.
+A special thanks to my daughter Candace for her technical editing and formatting.  She launched this memoir into the e-world, after it skied down a pretty long inrun.  Also, sincere appreciation for family and friends that provided constructive input or encouragement during the final stages, most notably Candace, wife Ann, sister Wendy, niece Traci, Barb Eshenroder, Matt Cummings, and longtime friends Spencer Luster (a long time and accomplished writer) and Greg Nurmi (who can wax poetically about most anything under the sun and sometimes leave us scratching our heads).  
 
 # 13 - About the Author {#about-the-author}
 
 **Craig Savonen** grew up in Ironwood, Michigan, where ski jumping was woven into the fabric of community life. Following in the footsteps of his father Willie, Craig competed as a junior ski jumper throughout the 1970s, qualifying for the 1979 Junior National Championships at Squaw Valley, California.  
 
-In 1982, he graduated with an associate Engineering degree from Gogegic Community College, followed by bachelor's and master's degrees from Michigan Tech University.  His 40 year engineering career began at Detroit Diesel, an engineering department which evolved over the decades into Detroit Powertrain as part of the global Daimler Truck group.  In the last dozen years before retiring in 2024 from Daimler, he was engineering director of the powertrain systems group.  Throughout all those years, he didn't escape his passion for the sport that shaped his youth.
+In 1982, he graduated with an Associate Engineering degree from Gogegic Community College, followed by bachelor's and master's degrees from Michigan Tech University.  His 40 year engineering career began at Detroit Diesel, an engineering department which evolved in several steps over the decades into Detroit Powertrain as part of the global Daimler Truck group.  In the last dozen years before retiring in 2024 from Daimler, he was engineering director of the powertrain systems group.  Throughout all those years, he couldn't escape his passion for the sport that shaped his youth.
 
-Craig and wife Ann (another Yooper) recently moved to the eastern end of the U.P.  Son Benjamin, daughter-in-law Cait, and granddaughter Zoey live in Baltimore.   Daughter Candace, son-in-law Jon, and granddaughters Avery and Quinn conveniently live in the same Maryland area.  
+Craig and wife Ann (another Yooper) recently moved back to the U.P., on the eastern end not too far from The Bridge.  Son Benjamin, daughter-in-law Cait, and granddaughter Zoey live in Baltimore.   Daughter Candace, son-in-law Jon, and granddaughters Avery and Quinn conveniently live in the same Maryland area.  
 
 # 14 - License & Copyright {#license-copyright}
 
@@ -1219,7 +1217,7 @@ On smaller hills in the 1970's, such as the Iron Bowl and Wolverine, most of the
 
 Instead of my repeated emphasis in this memoir that hill preparation was a labor intensive task, I could choose to look at hill preparation as our own form of cross training. In one instance, the local Daily Globe newspaper included a feature photograph of some lean 18 year old lad with his trusty Yooper scoop clearing the landing of excess snow. The lad was apparently hoping to ride that day (didn't happen) since he had his jumping suit and boots on while pushing snow off the hill and working up a sweat.
 
-![Scooping The Wolverine Outrun (49)](resources/images/book/scooping-the-wolverine-outrun.jpeg){fig-align="center" width="80%"}
+![Scooping The Wolverine Landing Dip (49)](resources/images/book/scooping-the-wolverine-outrun.jpeg){fig-align="center" width="80%"}
 
 After completing the first step of clearing the hill of the soft fluffy stuff that is not conducive for creating a firm, fast surface, the available team divides and conquers the remaining preparation of the landing hill and the scaffold / inrun. Professional grooming of a major league baseball infield may be landscaping art, but the snowscaping skill applied to final preparation of ski jump surfaces is no child's play, either. A garden rake and a shovel are the essential tools of ignorance, at least for most hills where larger or advanced equipment is not available. The careful leveling and smoothing of any ripples over the hundreds of feet of inrun length and its curvature are done with care and pride. For major hills and events, specially designed mechanical sleds (ex: a ski jump inrun tiller) have become standard in the past few decades.
 
