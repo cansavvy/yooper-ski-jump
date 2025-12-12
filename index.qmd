@@ -940,7 +940,7 @@ But meanwhile, the international hill race had accelerated. With major modificat
 
 In the same month, Domen's younger sister Nika set the womens' record of 774 feet (236m) at Vikersund, which in these distance scales is not far (7%) behind. In contemporary ski flying where high power to weight ratio is less of a determinant and light weight aerodynamics are paramount to achieving long flights, the gap between mens' and womens' distance records may continue to shrink.
 
-As illustrated below, based on hill records as of 2025, Copper Peak is still the sixth largest hill in the world, but it has been dwarfed by the other five ski flying hills (Vikersund, Planica, Kulm, Oberstdorf, Harrochov). All four of the still active European ski flying hills (Harrochov is in disrepair and closed) have been enlarged to K points of 200m or greater, resulting in hill records greater than 240m. (For explanation of K points, see Appendix 1). Moreover, as of this writing, there are 35 other international ski jumps whose distance records are between 140m and 156m, which is within hailing distance (18m) of Copper Peak's stagnant record.
+As illustrated below, based on hill records as of 2025, Copper Peak is still the sixth largest hill in the world, but it has been dwarfed by the other five ski flying hills (Vikersund, Planica, Kulm, Oberstdorf, Harrochov). All four of the still active European ski flying hills (Harrochov is in disrepair and closed) have been enlarged to K points of 200m or greater, resulting in hill records greater than 240m. Moreover, as of this writing, there are 35 other international ski jumps whose distance records are between 140m and 156m, which is within hailing distance (18m) of Copper Peak's stagnant record. (For explanation of the relationship between the hill dimensions of K-Point, Hill Size, and Hill Record, see Appendix - Ski Jump Classification)
 
 ![Largest Ski Jump Hills Based on Distance Record (40)](resources/images/book/largest-ski-jumps.png){fig-align="center" width="100%"}
 
@@ -1040,10 +1040,10 @@ The answer to this question is 'no'. From either an international competitive or
 
 Benefiting from regional commitments, as well as major investments for Olympics hosted by North America over the past few decades, the U.S. (and our sovereign Canadian neighbor) have 20 of the 200 largest ski jumps in the world. With 10% of the world's largest ski jumps and the current modest level of participation in the U.S. and Canada, the high end of the ski jump scale is covered well. Of course, periodic investments for upgrades or maintenance are required as facilities age.
 
-The following table ranks the twenty largest North American ski jumps, based on hill distance record (Record).  The ranking is shown within North America (NA Rank) and across the World.      
+The following table ranks the twenty largest North American ski jumps, based on hill distance record (Record).  The ranking is shown within North America (NA) and across the World.  Secondarily, you may note that some hill records do exceed the maximum safe designed distance, i.e. Hill Size.  (See Appendix - Ski Jump Classification for further clarification of K-Points and Hill Size). 
 
 <table style="border-collapse: collapse; width: 80%; margin: auto; font-size: 0.9em;">
-<thead>bo
+<thead>
 <tr style="background-color: #d3d3d3;">
 <th style="border: 1px solid black; padding: 5px; text-align: left;">City</th>
 <th style="border: 1px solid black; padding: 5px; text-align: left;">Hill Area</th>
