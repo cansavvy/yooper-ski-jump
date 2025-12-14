@@ -1171,18 +1171,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 # 15 - Appendix - Ski Jump Classification {#appendix-ski-jump-classification}
 
-In recent decades, two factors have primarily contributed to the resizing and reclassification of ski jumps, including Suicide Hill, as mentioned earlier. Suicide was reclassified from 70m to a larger (90m) hill size by because;
+As mentioned earlier, in recent decades, Suicide was reclassified from a 70m to a larger (90m) hill size. In fact, the hill size classification for most ski jumps have been revised over recent years.  Two factors have contributed, namely (a) the hill having been physically modified to enable longer jumps, and (b) a revision of the international standard for defining hill size.
 
-(A) it was physically modified to enable longer jumps, and 
-(B) the international standard for classification was revised.
+Regarding the former (a), longer jumps are made possible by lengthening the steep portion of the landing hill. For most hills, this entails digging the landing hill transition deeper into the terrain. On some hills, it has to be accompanied by lengthening the inrun for more speed and/or moving the take-off higher up the hill.
 
-Regarding (A), with many jumps around the world, longer jumps are made possible by lengthening the steep portion of the landing hill. For most hills, this entails digging the landing hill transition deeper into the terrain. On some hills, it has to be accompanied by lengthening the inrun for more speed and/or moving the take-off higher up the hill.
-
-Regarding (B), the primary method of classifying a ski jump hill size has evolved to now using the K-Point (or 'K'), instead of the P-point (or 'P').  See figure below. The size of the hill for many decades was defined by the 'P' distance on the hill.  In any case, the vast majority of the jumpers should be landing somewhere between 'P' and 'K'. ' In competition, if a jumper reaches or surpasses 'K', he has indeed executed a very competitive, if not winning, jump.
-
-If a jumper flies significantly past 'K' and lands on the increasingly flatter slope, the increasing force of impact on the jumper's body can compromise his safety. Based on results from trial rides prior to the tournament, speed and distance for the ensuing competition is managed by officials selecting the inrun gate at the top of the hill that moderates the number of jumpers exceeding 'K'.
-
-In 2004 there was another development. The FIS redefined hill size according to yep, the Hill Size point (HS).  As illustrated, it is downhill of the 'K' point, approaching the dip of the landing. HS and hill record should be in close proximity. The prevailing opinion is that the 'K' designation of a hill is still the most useful and consistent indicator of hill size and pertinent to competitive results. Conversely, for solely marketing purposes for long distance and hill records, then HS is the better dimension to use.
+Regarding the latter (b), the method of classifying a ski jump hill size has evolved to now using the K-Point (or 'K'), instead of the P-point (or 'P').  See figure below. The size of the hill for many decades was defined by the 'P' distance on the hill.  
 
 ![Basic Ski Jump Hill Terminology (8)](resources/images/book/basic-ski-jump-terminology.png){fig-align="center" width="80%"}
 
@@ -1190,22 +1183,26 @@ In 2004 there was another development. The FIS redefined hill size according to 
 
 **Take-Off Table** - the constant slope, final length of the inrun to the end of the jump, usually designed with a downward angle of 10° - 11°.
 
-**Knoll** – the relatively flat part of the landing hill starting at the end of the jump (starting after the take-off table) and ending after transitioning to a steeper constant part of the landing slope between the P-Point and the K-Point. Jumping hills are designed for ski jumpers to land after the knoll on the steeper slope that follows.
+**Knoll** – the relatively flat part of the landing hill beginning at the end of the jump and ending after transitioning to a steeper constant part of the landing slope between the P-Point and the K-Point. Jumping hills are designed for a majority of the ski jumpers to land after the knoll on the steeper slope that follows.
 
 **P-Point** - the point on the landing hill where the curvature of the knoll ends and the steepest, constant slope portion of the landing hill begins. Used in past decades as the reference size of the hill.  
 
-**K-Point** – downhill of the P-Point, the point on the landing hill where the steepest, constant slope section ends, and the hill just begins to flatten out.  Used as the reference distance upon which distance points are calculated and added to (or subtracted) from style points.  Also called the Critical Point or construction point, it is the distance from the take-off that is most commonly used to define the size of the jumping hill. 
+**K-Point** – downhill of the P-Point, the point on the landing hill where the steepest, constant slope section ends, and the hill begins to flatten out.  Used as the reference distance upon which distance points are calculated and added to (or subtracted) from style points.  Also called the Critical Point or construction point, it is the distance from the take-off that is most commonly used to define the size of the jumping hill. 
 
-** Hill Size Point** - downshill of the K-Point, the point on the landing hill where the slope is significantly flatter than that of K-Point, and designed as the maximum distance that a jumper can still land safely.
+**Hill Size Point** - downshill of the K-Point, the point on the landing hill where the slope is significantly flatter than what it is at K-Point, and designed as the maximum distance that a jumper can still land safely.
 
 **Dip** – bottom of the landing hill, where the transition to the flat outrun is nearly complete, and well beyond where ski jumpers can safely land.
 :::
 
-Based on data from several sources, hill size proportions are illustrated below that includes;
+The vast majority of the jumpers should be landing somewhere between 'P' and 'K'. ' In competition, if a jumper reaches or surpasses 'K', he has indeed executed a very competitive, if not winning, jump.  If a jumper flies significantly past 'K' and lands on the increasingly flatter slope, the increasing force of impact on the jumper's body can compromise his safety. Based on results from trial rides prior to the tournament, speed and distance for the ensuing competition is managed by officials selecting the inrun gate at the top of the hill that moderates the number of jumpers exceeding 'K'.
 
-- Prominent U.P. hills, i.e. Wolverine, Suicide, Pine Mountain, and Copper Peak.
-- Olympic standards, i.e. Olympics Normal and Olympics Large.
-- FIS designated classes, i.e. Small, Medium, Normal, Large, Giant, and Ski Flying.
+In 2004 there was another development. The FIS redefined hill size according to yep, the Hill Size point (HS).  As illustrated, it is downhill of the 'K' point, approaching the dip of the landing. HS and hill record should be in close proximity. The prevailing opinion is that the 'K' designation of a hill is still the most useful and consistent indicator of hill size and pertinent to competitive results. Conversely, for solely marketing purposes for long distance and hill records, then HS is the better dimension to use.
+
+Based on data from several sources, hill size proportions for 'P', 'K', and 'HS' are illustrated for;
+
+- FIS designated size classes (Small, Medium, Normal, Large, Giant, and Ski Flying)
+- Olympic standard sizes (Normal and Large)
+- Prominent U.P. hills (Wolverine, Suicide, Pine Mountain, and Copper Peak)
 
 ![Hill Size Classification and Examples (48)](resources/images/book/hill-size-classification-examples.png){fig-align="center" width="80%"}
 
