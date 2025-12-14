@@ -1151,31 +1151,31 @@ A phenomenal multi-sport athlete as a youth and young man, Charlie translated th
 
 ## Uncle Toivo
 
-Willie and Toivo (Toyk) always alluded to inheriting an exceptional work ethic from their Grandpa John who had to be a fierce dynamo to establish a new homestead from scratch in the early 1900's in a harsh winter region of a new country and little to no English skills. As a soft spoken adult, Uncle Toivo (also my godfather) was an avid outdoorsman who parlayed that high energy and discipline into being an avid cross country and marathon runner (which in turn his son John excelled). He raised five kids with wife Bertha and worked more than 30 years as a welder and then foreman for the Reserve Mining Co in Silver Bay, Minnesota. In his later years, he expended boundless energy as a founding member (and sometimes called the grandfather) of the 310 mile Superior Hiking Trail, cleared out of rugged forest wilderness along the north shore of Lake Superior that today stretches from Superior Wisconsin to the Canadian border.
+Willie and Toivo (Toyk) always alluded to inheriting an exceptional work ethic from their Grandpa John who had to be a fierce dynamo to establish a new homestead from scratch in the early 1900's in a harsh winter region of a new country and little to no English skills. As a soft spoken adult, Uncle Toivo (also my godfather) was an avid outdoorsman who parlayed that high energy and discipline into being an avid cross country and marathon runner (which in turn his son John excelled). He raised five kids with wife Bertha and worked more than 30 years as a welder and then foreman for the Reserve Mining Co in Silver Bay, Minnesota. In his later years, he expended boundless energy as a founding member (and sometimes called the grandfather) of the 310 mile Superior Hiking Trail that today stretches from Superior Wisconsin to the Canadian border, cleared out of rugged forest wilderness along the north shore of Lake Superior.
 
 # 12 - Acknowledgments {#acknowledgments}
 
-A special thanks to my daughter Candace for her technical editing and formatting.  She launched this memoir into the e-world, after it skied down a pretty long inrun.  Also, sincere appreciation for family and friends that provided constructive input or encouragement during the final stages, most notably Candace, wife Ann, sister Wendy, niece Traci, Barb Eshenroder, Matt Cummings, and longtime friends Spencer Luster (a long time and accomplished writer) and Greg Nurmi (who can wax poetically about most anything under the sun).  
+A special thanks to my daughter Candace for her technical editing and formatting.  She launched this memoir into the e-world, after it navigated a pretty long inrun.  Also, sincere appreciation for family and friends that provided constructive input or encouragement during the final stages, most notably Candace, former Yoopers, longtime friends Spencer Luster (an accomplished writer), Greg Nurmi (who can wax poetically about most anything under the sun), sister Wendy, niece Traci, Barb Eshenroder, Matt Cummings, and of course, my wife Ann.
 
 # 13 - About the Author {#about-the-author}
 
 **Craig Savonen** grew up in Ironwood, Michigan, where ski jumping was woven into the fabric of community life. Following in the footsteps of his father Willie, Craig competed as a junior ski jumper throughout the 1970s, qualifying for the 1979 Junior National Championships at Squaw Valley, California.  
 
-In 1982, he graduated with an Associate Engineering degree from Gogegic Community College, followed by bachelor's and master's degrees from Michigan Tech University.  His 40 year engineering career began at Detroit Diesel, an engineering department which evolved in numerous steps over the decades into Detroit Powertrain as part of the global Daimler Truck group.  In the last dozen years before retiring in 2024 from Daimler, he was engineering director of the powertrain systems group.  Throughout all those years, he couldn't escape his passion for the sport that shaped his youth.
+In 1982, he graduated with an Associate Engineering degree from Gogegic Community College, followed by bachelor's and master's degrees from Michigan Tech University.  His 40 year engineering career began at Detroit Diesel, an engineering department which evolved in numerous steps over the decades into Detroit Powertrain as part of the global Daimler Truck group.  In the last dozen years before retiring in 2024 from Daimler, he was director of the Powertrain Systems Engineering Group.  Through all those years, he couldn't escape his passion for the sport that shaped his youth.
 
-Craig and wife Ann (another Yooper) recently moved back to the U.P., residing on the eastern end not too far from The Bridge.  Son Benjamin, daughter-in-law Cait, and granddaughter Zoey live in Baltimore.   Daughter Candace, son-in-law Jon, and granddaughters Avery and Quinn live conveniently in the same Maryland area.  
+Craig and wife Ann are repatriated Yoopers having recently moved back to the U.P., now residing on the eastern end not far from The Bridge.  Son Benjamin and daughter Candace were accomplished collegiate swimmers, a sport akin to ski jumping in that the athlete's success is predicated on mental discipline and physical prowess applied to moving efficiently through a fluid environment. For that matter, Ann's long distance running demands a mental discipline and physical endurance to not succumb to the environment! Benjamin, daughter-in-law Cait, and granddaughter Zoey live in the Maryland area, and conveniently for Craig and Ann, so does Candace, son-in-law Jon, and granddaughters Avery and Quinn. 
 
-# 14 - License & Copyright {#license-copyright}
+# 14 - License & Copyright {#license-copyrigh
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the author.
 
 # 15 - Appendix - Ski Jump Classification {#appendix-ski-jump-classification}
 
-As mentioned earlier, in recent decades, Suicide was reclassified from a 70m to a larger (90m) hill size. In fact, the hill size classification for most ski jumps have been revised over recent years.  Two factors have contributed, namely (a) the hill having been physically modified to enable longer jumps, and (b) a revision of the international standard for defining hill size.
+As mentioned earlier, in recent decades, Suicide was reclassified from a 70m to a 90m hill size. In fact, the hill size classification for many ski jumps have been revised in recent decades.  Two factors have contributed, namely (a) the hill(s) being physically modified in pursuit of longer jumps, and (b) the international standard for defining hill size was revised.
 
 Regarding the former (a), longer jumps are made possible by lengthening the steep portion of the landing hill. For most hills, this entails digging the landing hill transition deeper into the terrain. On some hills, it has to be accompanied by lengthening the inrun for more speed and/or moving the take-off higher up the hill.
 
-Regarding the latter (b), the method of classifying a ski jump hill size has evolved to now using the K-Point (or 'K'), instead of the P-point (or 'P').  See figure below. The size of the hill for many decades was defined by the 'P' distance on the hill.  
+Regarding the latter (b), the method of classifying a ski jump hill size has evolved to now using the K-Point (i.e. 'K'), instead of the P-point (i.e. 'P').  See figure below. 
 
 ![Basic Ski Jump Hill Terminology (8)](resources/images/book/basic-ski-jump-terminology.png){fig-align="center" width="80%"}
 
@@ -1185,13 +1185,15 @@ Regarding the latter (b), the method of classifying a ski jump hill size has evo
 
 **Knoll** – the relatively flat part of the landing hill beginning at the end of the jump and ending after transitioning to a steeper constant part of the landing slope between the P-Point and the K-Point. Jumping hills are designed for a majority of the ski jumpers to land after the knoll on the steeper slope that follows.
 
-**P-Point** - the point on the landing hill where the curvature of the knoll ends and the steepest, constant slope portion of the landing hill begins. Used in past decades as the reference size of the hill.  
+**P-Point** - the point on the landing hill where the curvature of the knoll ends and the steepest, constant slope portion of the landing hill begins. Hill size for many decades was defined by the 'P' distance on the hill. 
 
-**K-Point** – downhill of the P-Point, the point on the landing hill where the steepest, constant slope section ends, and the hill begins to flatten out.  Used as the reference distance upon which distance points are calculated and added to (or subtracted) from style points.  Also called the Critical Point or construction point, it is the distance from the take-off that is most commonly used to define the size of the jumping hill. 
+**K-Point** – downhill of the P-Point, the point on the landing hill where the steepest, constant slope section ends, and the hill begins to flatten out.  Also called the Critical Point or construction point, it is the distance from the take-off that today is most commonly used to define the size of the jumping hill. Also used as the reference distance upon which distance points are calculated and added to (or subtracted) from style points.   
 
 **Hill Size Point** - downshill of the K-Point, the point on the landing hill where the slope is significantly flatter than what it is at K-Point, and designed as the maximum distance that a jumper can still land safely.
 
 **Dip** – bottom of the landing hill, where the transition to the flat outrun is nearly complete, and well beyond where ski jumpers can safely land.
+
+**Outrun** - the usually flat, final length of the jumping 'hill' where the ski jumper slows to a stop. 
 :::
 
 The vast majority of the jumpers should be landing somewhere between 'P' and 'K'. ' In competition, if a jumper reaches or surpasses 'K', he has indeed executed a very competitive, if not winning, jump.  If a jumper flies significantly past 'K' and lands on the increasingly flatter slope, the increasing force of impact on the jumper's body can compromise his safety. Based on results from trial rides prior to the tournament, speed and distance for the ensuing competition is managed by officials selecting the inrun gate at the top of the hill that moderates the number of jumpers exceeding 'K'.
