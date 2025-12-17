@@ -1077,7 +1077,8 @@ The following table ranks the twenty largest North American ski jumps, based on 
 <tr><td style="border: 1px solid black; padding: 5px;">Eau Claire, WI**</td><td style="border: 1px solid black; padding: 5px;">Silvermine</td><td style="border: 1px solid black; padding: 5px; text-align: center;">20</td><td style="border: 1px solid black; padding: 5px; text-align: center;">196</td><td style="border: 1px solid black; padding: 5px; text-align: center;">85</td><td style="border: 1px solid black; padding: 5px; text-align: center;">95</td><td style="border: 1px solid black; padding: 5px; text-align: center;">96</td></tr>
 </tbody>
 </table>
-## Large North American Ski Jumping Hills (46)
+
+<p style="text-align: center; font-weight: bold; color: #333; font-size: 1.1em;">Large North American Ski Jumping Hills (46)</p>
 
 K-Point, Max Flight, and Record data are distances in meters  
 *K-Point and Max Flight (aka Hill Size) explained in Appendix - Ski Jump Classification
