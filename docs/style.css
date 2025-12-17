@@ -6,13 +6,15 @@ p.caption {
   color: #333;
   margin-top: 10px;
   font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
 }
 
 /* Image captions (figcaption) */
 figcaption {
   color: #333;
-  font-size: 1.05em;
-  font-weight: 500;
+  font-size: 1.1em;
+  font-weight: bold;
   margin-top: 8px;
   text-align: center;
 }
