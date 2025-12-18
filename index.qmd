@@ -4,6 +4,7 @@ author: "Craig Savonen"
 date: "December 15, 2025"
 toc: false
 ---
+hauisdiuag
 
 A personal memoir chronicling the rich heritage of ski jumping in Michigan's Upper Peninsula. 
 
