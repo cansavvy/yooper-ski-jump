@@ -892,8 +892,6 @@ On a country-by-country basis, a dozen countries have had more than 100 differen
 
 <p style="text-align: center; font-weight: bold; color: #333; font-size: 1.1em;">Historical Ski Jumping Facilities per Country (35)</p>
 
-
-
 Regarding the 300+ U.S. ski jumping facilities, they existed across 28 states, with Wisconsin, Minnesota, and Michigan having the highest count. In Michigan alone, 31 facilities were built over the years and nearly half of them were located in the Lower Peninsula, including the southerly cities of Brighton, Grand Rapids, Fenton, Oxford, and Detroit!
 
 ## 8.4 – World Heritage {#world-heritage}
