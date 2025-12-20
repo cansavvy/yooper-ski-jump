@@ -5,6 +5,7 @@ project:
 website:
   title: "A Yooper Ski Jumping Legacy"
   favicon: img/favicon.png
+  google-analytics: "G-MNK0NE4J4E"
   
   search: true
   repo-url: https://github.com/fhdsl/yooper-ski-jump
