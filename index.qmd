@@ -1,10 +1,11 @@
+
 ---
 title: "A Yooper Ski Jumping Legacy"
 author: "Craig Savonen"
-date: "December 22, 2025"
+date: "January 15, 2026"
 ---
 
-A personal memoir chronicling the rich heritage of ski jumping in Michigan's Upper Peninsula. 
+A personal memoir of ski jumping experiences in Michigan's Upper Peninsula. 
 
 ![Willie Savonen - Junior Jumper](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center" width="60%"}
 
@@ -142,7 +143,7 @@ Later, she trumped that adventure by somehow navigating her way to the very top 
 
 # 3 - Junior Hills {#junior-hills}
 
-## 3.1 – Iron Bowl Shaping {#iron-bowl-shaping}
+## 3.1 – Iron Bowl Shapes {#iron-bowl-shaping}
 
 Throughout the U.P. in the early 1900's, it was common that employees and their families lived in modest housing on hills in proximity to actual mining operations. The Aurora was one of a string of mines situated across the east-west Gogebic Range that briefly led the nation in iron ore production, peaking around 1930. By 1967, the last high-quality ore railroaded out of the Gogebic Range and the mines closed. Steep, miniature mountain ranges of rust-orange iron ore tailings and abandoned mining structures left behind were an imposing and somber testament to the industriousness of the first half of the 1900's.
 
@@ -189,7 +190,7 @@ After another moment of descent, I bailed (sat down), and spun out. Sheepish tho
 ::: {.dictionary}
 **Knoll** – the relatively flat part of the landing hill starting at the end of the jump (take-off table) and ending after transitioning to a steeper constant part of the landing slope between the P-Point and the K-Point. Jumping hills are designed for ski jumpers to land beyond the knoll on the steeper slope that follows.
 
-**P-Point, K-Point, and Hill Size Point** – see Appendix - Ski Jump Classification in 'Back Matter' for a more detailed explanation.
+**P-Point, K-Point, and Hill Size Point** – see Appendix I - Ski Jump Classification in 'Back Matter' for a more detailed explanation.
 
 **Dip** – bottom of the landing hill, where the hill transition to the flat outrun is nearly complete, and well beyond where ski jumpers can safely land.
 
@@ -240,7 +241,7 @@ Well, between the two of us that day, we weren't alone (check) and the hill was 
 
 With our take-off speed compromised, both of us soared into the air and then stalled midair like Wile E. Coyote overshooting a cliff. We should have been holding his "Uh-Oh" sign before plummeting to the ground. The flights were short and impactful onto the nearly flat knoll. It hurt more than a little bit. Both of us wiped out, but being young and flexible, we were uninjured. We had had enough for the day. Being that it was March, our jumping season was finished for the year.
 
-## 3.3 – Yooper Junior Jumping {#yooper-junior-jumping}
+## 3.3 – Yooper Juniors {#yooper-junior-jumping}
 
 The Iron Bowl was our home hill from 1969 thru 1975. During the 1971 jumping season, some of us graduated to the 30m hill. As previously experienced, appropriate use of the 30m jump required using the entire length of the inrun scaffold. It was a mental commitment walking up to the top of the 25 ft high scaffold for the first time. No one would dare ostracize a first time rider who decided to walk back down. For me, it was cool to be at the top of the scaffold with the senior jumpers. Any lingering concerns had been swept aside.
 
@@ -294,9 +295,9 @@ Theron Peterson, the veteran Ironwood High coach of alpine skiing and several ot
 :::
 
 ::: {layout-ncol=2}
-![Willie Savonen – Junior Jumper - circa 1946 (11)](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center"}
+![Willie Savonen, Junior Jumper - 1946 (11)](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center"}
 
-![Craig Savonen - Junior Jumper - 1973 (12)](resources/images/book/craig-savonen-junior-jumper.jpeg){fig-align="center"}
+![Craig Savonen, Junior Jumper - 1973 (12)](resources/images/book/craig-savonen-junior-jumper.jpeg){fig-align="center"}
 :::
 
 **Left:** Dad as a young teenager with his solid hickory skis and three grooves roughly carved into the bottoms, with leather overstraps, metal front throws and cables. Attired with collared undershirt, Christmas sweater, baggy wool pants, brimmed cap, and all purpose leather boots. Savonen dairy farm and gravel pit are in background.
@@ -457,7 +458,7 @@ With the additional speed of a well-worn, icy inrun track at the end of a tourna
 
 A top tier jumper accustomed to toying with the extremes of landing hills would have exploited the trajectory, nailing a jump well beyond the hill record (albeit an unofficial distance as mentioned). What a missed opportunity for me! I was disappointed and a bit sheepish about backing out of the flight.  But on my walk up the hill afterward, I was saluted by Bob Shea saying "You had so much height you looked like Checko." Dad used to brag about Chester 'Checko' Kusz, brother of Wally, who was a powerfully stocky and exceptional jumper during the heyday of an earlier generation of Ironwood jumpers.
 
-# 5 - Personal Insights {#personal-insights}
+# 5 - Insights {#personal-insights}
 
 ## 5.1 – Spotty Training {#spotty-training}
 
@@ -555,7 +556,7 @@ I tried to not fall short in regard to Dad from then on, but in retrospect I hav
 
 Mom was always supportive, attending the local meets, while fretting a little bit about her son being in ski jumping. I fit in with the other jumpers With the dark blue one piece ski jumping suit that she created from stretch fabric with her expert sewing skills. 
 
-# 6 - Going Big {#go-big}
+# 6 - Go Big {#go-big}
 
 1979 proved to be my apex ski jumping season. It included a ski jumping meet nearly every weekend from the end of December through the latter half of March. I graduated fully to the Midwest senior jumping circuit, including the two biggest ski jumping hills in the Midwest, i.e. Westby's Snowflake and Iron Mountain's Pine Mountain. (Note: As of this writing, the giant Copper Peak ski flying hill was still on a 30+ year siesta, but expected to rise soon from its slumber).
 
@@ -595,7 +596,7 @@ Jamie went on to have rich ski jumping career well into his 30's that included s
 
 Two weeks after the 90m initiation at Westby, it was my last chance to qualify for the Junior Nationals. Fortunately, the qualifying meet was held again at Wolverine, our home hill. During the meet, I didn't do anything spectacular, but lived up to my reputation of being a steady, smooth rider. I finished 8th out of 70 jumpers both days, safely within the 17 places allotted to Central Division competitors that year to attend the Nationals.
 
-![Savonen - 1979 Junior National Tryouts at Wolverine (26)](resources/images/book/savonen-1979-tryouts.jpeg){fig-align="center" width="60%"}
+![Savonen at Junior National Tryouts (Wolverine) - 1979 (26)](resources/images/book/savonen-1979-tryouts.jpeg){fig-align="center" width="60%"}
 
 My distance points knocked on the door of 5th place, but I left too many style points on the table. I modeled the Daescher flight style of the era, but if I would have pulled my nicely parallel skis closer together and put my arms tightly at my side, the additional style points could have pulled me up to 5th. Anyway, after three years of not even sniffing qualification due to mediocre skiing or broken bones, it was a relief and a blessing to finally qualify for the Junior Nationals.
 
@@ -673,7 +674,7 @@ A welcome diversion was alpine skiing one day on Squaw Valley Mountain. For a Yo
 
 Even for a fit 18 year old, my leg muscles were burning when skiing without pause from top to bottom of the mountain. The climate changed from windy, cold, and icy conditions at the top to sunny, mid-50's and soft snow at the bottom. Just as noticeable was that ski attire changed dramatically, as if by magic, from winter parkas, ski pants, and goggles at the mountain top to shorts and bikinis at the bottom. Thus ended the apex year of my ski jumping career.
 
-# 7 - Time of Transition {#time-of-transition}
+# 7 - Transition Time  {#time-of-transition}
 
 ## 7.1 – Glide Path {#glide-path}
 
@@ -711,7 +712,7 @@ In 1978, John and Dave were a ski jumping mature 29 and 34 years old, respective
 
 The Green Hornet's characteristically elegant flight style was recognizable from a hundred yards away. I describe it as a hybrid between 1970's Daescher, as illustrated by the precisely close and parallel skis, but including remnants of the 1950's Windisch, with arms wrapped snugly around the hips and a pronounced but not exaggerated jackknife. With head tilted back from the torso and eyes steadily peering to the hill bottom, Dave's knifed through the air with an unparalleled steadiness.
 
-![The Green Hornet in Flight (30)](resources/images/book/dave-engstrom.jpeg){fig-align="center" width="80%"}
+![Green Hornet in Flight (30)](resources/images/book/dave-engstrom.jpeg){fig-align="center" width="80%"}
 
 After I retired from ski jumping and embarked on a 40 year engineering career in downstate Michigan, sincere compliments to the Wolverine Ski Club for what they accomplished from the early 80's through the mid-90's. They refocused on revitalizing local junior jumping. A key step was John Kusz and six companions of the Wolverine Ski Club investing their time in formal training as ski jumping coaches. The commitment of many people resulted in a complement of smaller hills along the Wolverine ridge, including a 10m and 35m. That effort bore fruit. Over a 10 - 12 year period, local junior jumpers represented themselves and the club very well at ski jumping meets all over the Midwest and even nationwide. But, similar to my ski jumping path, the mid-80's to mid-90's junior age class eventually grew up and had to move on to other phases of life, just as I did in the 1981 timeframe.
 
@@ -950,13 +951,13 @@ He lamented that "Youngsters nowadays don't want to ski jump. Hill preparation i
 
 Like all sports, ski jumping has evolved on many fronts. The following is a mere snapshot of some changes that have emerged over the past 50 years.
 
-## 9.1 – International Hill Size Race {#international-hill-size-race}
+## 9.1 – Hill Size Race {#international-hill-size-race}
 
 The most visible evolution to the general public has been hill size, and therefore, distance records. When Olaf Haugann boldly leaped 68 feet into the unknown, crushing the earliest recorded (1808) jump of 31 feet by countryman Olaf Rye, little did they know what they had started.
 
 Driven by financial returns, including a national television audience and 50,000 or more in attendance, major investments continue to be made to the European venues. National pride and rock star fandom for the sport fuels the temptation to stretch ski flying distances. Front page internet descriptions of the largest ski jumping and ski flying hills in Europe boast of either having held or being world record capable. The most prestigious World Cup and Four Hills competition at slightly smaller venues receive national attention, but distance records still get top headlines.
 
-![Holmenkollen Ski Jump - The Cathedral of Ski Jumping - 1980's (38)](resources/images/book/holmenkollen.jpeg){fig-align="center" width="80%"}
+![Holmenkollen - The Cathedral of Ski Jumping - 1980's (38)](resources/images/book/holmenkollen.jpeg){fig-align="center" width="80%"}
 
 Rather than plateauing, the international hill size race has continued to escalate. Since 1879, the world record ski jumping distance has increased in a nearly linear fashion over the years.
 
@@ -1073,7 +1074,7 @@ The following table ranks the twenty largest North American ski jumps, based on 
 <table style="border-collapse: collapse; width: 80%; margin: auto; font-size: 0.9em;">
 <thead>
 <tr style="background-color: #d3d3d3;">
-<th style="border: 1px solid black; padding: 5px; text-align: left;">City*</th>
+<th style="border: 1px solid black; padding: 5px; text-align: left;">City**</th>
 <th style="border: 1px solid black; padding: 5px; text-align: left;">Hill Area</th>
 <th style="border: 1px solid black; padding: 5px; text-align: center;">NA Rank</th>
 <th style="border: 1px solid black; padding: 5px; text-align: center;">World Rank</th>
@@ -1109,15 +1110,15 @@ The following table ranks the twenty largest North American ski jumps, based on 
 <p style="text-align: center; font-weight: bold; color: #333; font-size: 1.1em;">Large North American Ski Jumping Hills (46)</p>
 
 :::{.dictionary}
-***K-Point, Hill Size, Record*** - distances in meters. For further clarification of terms, see Appendix - Ski Jump Classification.  
-***City**** - Midwest cities marked with double asterisk. 
+****K-Point, Hill Size, Record*** - distances in meters. For further clarification of terms, see Appendix - Ski Jump Classification.  
+***City*****  - Midwest cities marked with double asterisk. 
 :::
 
 Closer to home, the upper Midwest is amply equipped with large hills. Four of the largest seven (and six of largest twenty) North American ski jumps are in the upper Midwest and situated within 100 to 400 miles of each other, including Thunder Bay, Ontario.
 
 This is not to say that today there is an adequate number of small to intermediate jumping hills to support substantial growth in the sport. But, it's a smaller mountain to climb when a regional groundswell for the sport arises. As may be inferred from the earlier list of Midwest clubs, there are several active small and intermediate hill ski jumping clubs in Wisconsin and Minnesota attempting to spearhead growth, motivated by an enduring fascination with the sport. They have recognized the importance of a graduated set of small hills within the same complex, in addition to using hills already integral to most existing large ski jumping hill complexes.
 
-## 10.3 – Lay The Foundation {#lay-the-foundation}
+## 10.3 – Lay Foundation {#lay-the-foundation}
 
 Should the priority be development of small hills and youth ski jumping programs or large hills and international competition?
 
@@ -1209,7 +1210,7 @@ Craig and wife Ann are repatriated Yoopers having recently moved back to the U.P
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the author.
 
-# 15 - Appendix - Ski Jump Classification {#appendix-ski-jump-classification}
+# 15 - Appendix I - Ski Jump Classification {#appendix-ski-jump-classification}
 
 As mentioned earlier, in recent decades, Suicide was reclassified from a 70m to a 90m hill size. In fact, the hill size classification for many ski jumps have been revised in recent decades.  Two prominent factors were, (a) the hills physically modified in pursuit of longer jumps, and (b) the international standard for defining hill size was revised.
 
@@ -1258,7 +1259,7 @@ Another pertinent observation is that Pine Mountain and Suicide straddle hill si
 
 Pine Mountain is classified as a Large ski jump now. Yet, the distinction between it and Copper Peak is nearly blurred in terms of longest recorded distances. Copper Peak's hill record has been standing still at 518 feet since its last meet in 1994. With continued modifications to Pine Mountain, it has yielded the current record of 472 feet that is within 10% (or less than 50 feet) of Copper Peak's record and its 1970 vintage hill design.
 
-# 16 - Appendix - Hill Preparation {#appendix-hill-preparation}
+# 16 - Appendix II - Hill Preparation {#appendix-hill-preparation}
 
 Ski jump hill snow surface preparation continues to evolve into a science. In the 70's, the creation of supersized hills, such as Copper Peak, forced innovation. Wally Kusz, Leno Slanzi, Bob Shea and several others had to be creative to deal with the sheer size of Copper Peak's inrun and landing hill. With a relatively small crew at hand, a large scale snow sled was pulled up the massive landing by a cable and pulley system attached to a bulldozer at the bottom of the hill (1). To snow the 469 foot inrun, sacks of snow got an elevator ride to snow the upper portion of the scaffold top and a smaller sled was used to snow the lower inrun portions.
 
@@ -1292,12 +1293,12 @@ Final sidestepping is an acquired skill. It involves short hopping (akin to jump
 8. Basic Ski Jump Hill Terminology, Ski Jumping Hill Archive.
 9. Iron Bowl 30m and 15m Ski Jumps - 1971, Charles Supercynski (1).
 10. Telemark Landing, Eurosport.
-11. Willie Savonen Junior Jumper - circa 1946, Wendy (Savonen) Hicks.
-12. Craig Savonen Junior Jumper - 1973, Craig Savonen.
+11. Willie Savonen, Junior Jumper - 1946, Wendy (Savonen) Hicks.
+12. Craig Savonen, Junior Jumper - 1973, Craig Savonen.
 13. Canadian National Ski Team Member Peter Wilson on Copper Peak, Ironwood Daily Globe.
 14. Craig's Map of Midwest Region Ski Jumps, Craig Savonen.
 15. The 'New' Wolverine in the Late 1970's, Charles Supercynski (1).
-16. 1976 Gogebic Range Ski Jumping Octet at Wolverine, Ironwood Daily Globe.
+16. Gogebic Range Ski Jumping Octet at Wolverine - 1976, Ironwood Daily Globe.
 17. Suicide Bowl Ski Jumping Complex - Ishpeming, Ishpeming Ski Club (ishskiclub.com).
 18. Henry Hansen In Mid-Flight Rotation, Charles Supercynski (1) via Mike Andrashi.
 19. Empire Stadium Ski Jump, Vancouver - 1954, Tom Harris - 'Temporary Ski Jumps' (The Operable Window).
@@ -1307,11 +1308,11 @@ Final sidestepping is an acquired skill. It involves short hopping (akin to jump
 23. View From Top of Suicide Hill, Ishpeming Ski Club (ishskiclub.com).
 24. Copper Peak Vista, copperpeak.net.
 25. Westby Snowflake K108 Ski Jumping Hill, Snowflake Ski Club internet site.
-26. Savonen - 1979 Junior National Tryouts at Wolverine, Ironwood Daily Globe.
+26. Savonen at Junior National Tryouts (Wolverine) - 1979, Ironwood Daily Globe.
 27. Pine Mountain Scaffold - circa 1959, amazon.com.
 28. Papoose Olympic Ski Jumping Hills, Squaw Valley - 1960, Ski Jumping Hill Archive.
 29. Westby Snowflake K108 Ski Jumping Hill, 1979 Snowflake Ski Club meet program.
-30. The Green Hornet in Flight, David Engstrom.
+30. Green Hornet in Flight, David Engstrom.
 31. Winter Olympic Injuries, By Sport, British Journal of Sports Medicine, Graphic Washington Post, February 2014.
 32. Percentage of Athletes Losing Time to Injury in 2018 Olympic Winter Games, British Journal of Sports Medicine.
 33. Ski Jumping Hill Archive, Ski Jumping Archive (skisprungschanzen.com).
@@ -1319,7 +1320,7 @@ Final sidestepping is an acquired skill. It involves short hopping (akin to jump
 35. Historical Ski Jumping Facilities per Country, Ski Jumping Archive (skisprungschanzen.com).
 36. Olympic Ski Jumping Medal Count By Country (1924 – 2022), Compiled from "List of Olympic Medalists in Ski Jumping".
 37. Matti Nykaenen – 1988 Calgary Olympics, Mark Caldwell, AFP.
-38. Holmenkollen Ski Jump - 1980's, unknown magazine article.
+38. Holmenkollen - The Cathedral of Ski Jumping - 1980's, unknown magazine article (possibly National Geographic).
 39. World Record Ski Jumping Distance, data compiled from 'List of Longest Ski Jumps'.
 40. Largest Ski Jump Hills Based on Distance Record, data extracted and compiled from 'Ski Jumping Archive (skisprungschanzen.com)'.
 41. Eino Wiemeri "The Flying Finn" at Wolverine - 1936, Wolverine Nordic Trails Archives.
