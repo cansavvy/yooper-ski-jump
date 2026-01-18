@@ -2,7 +2,7 @@
 ---
 title: "A Yooper Ski Jumping Legacy"
 author: "Craig Savonen"
-date: "January 15, 2026"
+date: "January 20, 2026"
 ---
 
 A personal memoir of ski jumping experiences in Michigan's Upper Peninsula. 
