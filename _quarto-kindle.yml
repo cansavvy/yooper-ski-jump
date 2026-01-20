@@ -1,0 +1,33 @@
+# Kindle EPUB Configuration for "A Yooper Ski Jumping Legacy"
+# 
+# To generate the EPUB file, run:
+#   quarto render index.qmd --to epub --output yooper-ski-jump.epub
+#
+# The EPUB can then be:
+#   1. Uploaded directly to Amazon KDP (kdp.amazon.com)
+#   2. Imported into Kindle Create to convert to KPF format
+#
+# For best results with KPF, download Kindle Create from:
+#   https://www.amazon.com/Kindle-Create/b?node=18292298011
+
+# This file documents the recommended EPUB settings.
+# Add these to your index.qmd front matter to customize EPUB output:
+
+# ---
+# title: "A Yooper Ski Jumping Legacy"
+# subtitle: "A Personal Memoir of Ski Jumping in Michigan's Upper Peninsula"
+# author: "Craig Savonen"
+# date: "2025-12-22"
+# description: |
+#   A firsthand account of ski jumping in the Gogebic Range area of Michigan's 
+#   Upper Peninsula during the 1970s and early 1980s.
+# format:
+#   epub:
+#     toc: true
+#     toc-depth: 2
+#     number-sections: false
+#     epub-cover-image: img/logo.png
+#     lang: en-US
+#     rights: "© 2025 Craig Savonen. All rights reserved."
+#     css: kindle-style.css
+# ---

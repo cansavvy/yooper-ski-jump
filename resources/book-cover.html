@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Yooper Ski Jumping Legacy - Book Cover</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #2a2a2a;
+            padding: 20px;
+        }
+
+        .book-cover {
+            width: 800px;
+            height: 1100px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+            font-family: 'Playfair Display', serif;
+            border: 10px solid #1B365D;
+            box-sizing: border-box;
+            background: #1B365D;
+        }
+
+        /* Photo section - top portion */
+        .photo-section {
+            position: absolute;
+            top: 20px;
+            left: 0;
+            right: 0;
+            height: 58%;
+            z-index: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+
+        .photo-section img {
+            max-width: calc(100% - 50px);
+            max-height: 100%;
+            object-fit: contain;
+            filter: brightness(1.15);
+            border: 5px solid #c9a962;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        /* No overlay - clean photo */
+        .overlay {
+            display: none;
+        }
+
+        /* Text section - bottom portion */
+        .text-section {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 38%;
+            background: #1B365D;
+            z-index: 3;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            padding: 8px 25px 20px;
+        }
+
+        .subtitle {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-weight: 400;
+            font-style: italic;
+            letter-spacing: 0.3px;
+            color: rgba(255,255,255,0.95);
+            margin-top: 12px;
+            margin-bottom: 12px;
+            line-height: 1.4;
+            text-align: center;
+            max-width: 95%;
+        }
+
+        .main-title {
+            font-size: 48px;
+            font-weight: 900;
+            color: #ffffff;
+            line-height: 1.2;
+            text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .main-title .highlight {
+            color: #c9a962;
+        }
+
+        .decorative-line {
+            width: 80px;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #c9a962, transparent);
+            margin: 15px 0;
+        }
+
+        .author-section {
+            text-align: center;
+            margin-top: 8px;
+        }
+
+        .written-by {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 12px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: rgba(255,255,255,0.7);
+            margin-bottom: 5px;
+        }
+
+        .author-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 26px;
+            font-weight: 700;
+            color: #ffffff;
+            letter-spacing: 1px;
+        }
+
+        /* Print styles */
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+            .book-cover {
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="book-cover">
+        <!-- Photo section -->
+        <div class="photo-section">
+            <img src="images/book/cover-photo.jpeg" alt="Vintage ski jumper">
+        </div>
+
+        <!-- Gradient overlay -->
+        <div class="overlay"></div>
+
+        <!-- Text section -->
+        <div class="text-section">
+            <h1 class="main-title">
+                A Yooper <span class="highlight">Ski Jumping</span> Legacy
+            </h1>
+            <div class="subtitle">A personal memoir of ski jumping <br> experiences in Michigan's Upper Peninsula</div>
+            <div class="decorative-line"></div>
+            <div class="author-section">
+                <div class="written-by">Written by</div>
+                <div class="author-name">Craig Savonen</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

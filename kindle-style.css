@@ -1,0 +1,109 @@
+/* Kindle-optimized stylesheet */
+
+/* Body text */
+body {
+  font-family: serif;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+/* Headings */
+h1 {
+  font-size: 1.8em;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  page-break-before: always;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  margin-bottom: 0.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+}
+
+/* Images - center and constrain for Kindle */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
+
+figure {
+  margin: 1em 0;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.9em;
+  font-style: italic;
+  margin-top: 0.5em;
+}
+
+/* Blockquotes and notices */
+blockquote,
+.notice,
+.dictionary {
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #666;
+  background-color: #f9f9f9;
+  font-style: italic;
+}
+
+.dictionary {
+  border-left-color: #4a90d9;
+}
+
+/* Links - style for print/ebook */
+a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+/* Paragraphs */
+p {
+  margin: 0.5em 0;
+  text-indent: 1em;
+}
+
+/* First paragraph after heading - no indent */
+h1 + p,
+h2 + p,
+h3 + p {
+  text-indent: 0;
+}
+
+/* Lists */
+ul, ol {
+  margin: 1em 0;
+  padding-left: 2em;
+}
+
+li {
+  margin: 0.3em 0;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+th, td {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+/* Page breaks */
+.chapter {
+  page-break-before: always;
+}
