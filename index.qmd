@@ -1,15 +1,9 @@
 ---
 title: "A Yooper Ski Jumping Legacy"
-subtitle: "A Personal Memoir of Ski Jumping in Michigan's Upper Peninsula"
+subtitle: "A Personal Memoir of Ski Jumping Experiences in Michigan's Upper Peninsula"
 author: "Craig Savonen"
 date: "December 22, 2025"
-description: |
-  A firsthand account of ski jumping in the Gogebic Range area of Michigan's 
-  Upper Peninsula during the 1970s and early 1980s.
-
 ---
-
-A personal memoir of ski jumping experiences in Michigan's Upper Peninsula. 
 
 ![Willie Savonen - Junior Jumper](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center" width="60%"}
 
