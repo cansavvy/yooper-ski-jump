@@ -34,11 +34,11 @@ website:
             href: index.qmd#slab-riders
       - section: "3 - Junior Hills"
         contents:
-          - text: "3.1 Iron Bowl Shaping"
-            href: index.qmd#iron-bowl-shaping
+          - text: "3.1 Iron Bowl Shapes"
+            href: index.qmd#iron-bowl-shapes
           - text: "3.2 Launch and Learn"
             href: index.qmd#launch-and-learn
-          - text: "3.3 Yooper Junior Jumping"
+          - text: "3.3 Yooper Juniors"
             href: index.qmd#yooper-junior-jumping
           - text: "3.4 Iron Bowl Culture"
             href: index.qmd#iron-bowl-culture
@@ -54,7 +54,7 @@ website:
             href: index.qmd#circus-acts
           - text: "4.5 Crazy Long"
             href: index.qmd#crazy-long
-      - section: "5 - Personal Insights"
+      - section: "5 - Insights"
         contents:
           - text: "5.1 Spotty Training"
             href: index.qmd#spotty-training
@@ -66,7 +66,7 @@ website:
             href: index.qmd#falling-short
           - text: "5.5 Fatherly Pride"
             href: index.qmd#fatherly-pride
-      - section: "6 - Going Big"
+      - section: "6 - Go Big"
         contents:
           - text: "6.1 Westby"
             href: index.qmd#westby
@@ -74,7 +74,7 @@ website:
             href: index.qmd#pine-mountain
           - text: "6.3 Junior Nationals"
             href: index.qmd#junior-nationals
-      - section: "7 - Time of Transition"
+      - section: "7 - Transition Time"
         contents:
           - text: "7.1 Glide Path"
             href: index.qmd#glide-path
@@ -94,8 +94,8 @@ website:
             href: index.qmd#world-heritage
       - section: "9 - Evolution Snapshots"
         contents:
-          - text: "9.1 International Hill Size Race"
-            href: index.qmd#international-hill-size-race
+          - text: "9.1 Hill Size Race"
+            href: index.qmd#hill-size-race
           - text: "9.2 Physics vs Physique"
             href: index.qmd#physics-vs-physique
           - text: "9.3 Flight Style"
@@ -106,8 +106,8 @@ website:
             href: index.qmd#midwest-status
           - text: "10.2 Enough Large Hills"
             href: index.qmd#enough-large-hills
-          - text: "10.3 Lay The Foundation"
-            href: index.qmd#lay-the-foundation
+          - text: "10.3 Lay Foundation"
+            href: index.qmd#lay-foundation
           - text: "10.4 Cultural Embrace"
             href: index.qmd#cultural-embrace
       - section: "Back Matter"
@@ -120,9 +120,9 @@ website:
             href: index.qmd#about-the-author
           - text: "14 - License & Copyright"
             href: index.qmd#license-copyright
-          - text: "15 - Appendix - Ski Jump Classification"
+          - text: "15 - Appendix I - Ski Jump Classification"
             href: index.qmd#appendix-ski-jump-classification
-          - text: "16 - Appendix - Hill Preparation"
+          - text: "16 - Appendix II - Hill Preparation"
             href: index.qmd#appendix-hill-preparation
           - text: "17 - References"
             href: index.qmd#references
