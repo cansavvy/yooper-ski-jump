@@ -23,18 +23,21 @@ website:
       - text: "About This Book"
         href: index.qmd#about-this-book
       - section: "1 - Introduction"
+        href: index.qmd#introduction
         contents:
           - text: "1.1 Foreword"
             href: index.qmd#foreword
           - text: "1.2 Heroes of Yore"
             href: index.qmd#heroes-of-yore
       - section: "2 - Local Beginnings"
+        href: index.qmd#local-beginnings
         contents:
           - text: "2.1 Section 12 Legacy"
             href: index.qmd#section-12-legacy
           - text: "2.2 Slab Riders"
             href: index.qmd#slab-riders
       - section: "3 - Junior Hills"
+        href: index.qmd#junior-hills
         contents:
           - text: "3.1 Iron Bowl Shapes"
             href: index.qmd#iron-bowl-shapes
@@ -45,6 +48,7 @@ website:
           - text: "3.4 Iron Bowl Culture"
             href: index.qmd#iron-bowl-culture
       - section: "4 - Midwest Hill Circuit"
+        href: index.qmd#mid-size-circuit
         contents:
           - text: "4.1 Wolverine Regenerated"
             href: index.qmd#wolverine-regenerated
@@ -57,6 +61,7 @@ website:
           - text: "4.5 Crazy Long"
             href: index.qmd#crazy-long
       - section: "5 - Insights"
+        href: index.qmd#personal-insights
         contents:
           - text: "5.1 Spotty Training"
             href: index.qmd#spotty-training
@@ -69,6 +74,7 @@ website:
           - text: "5.5 Fatherly Pride"
             href: index.qmd#fatherly-pride
       - section: "6 - Go Big"
+        href: index.qmd#go-big
         contents:
           - text: "6.1 Westby"
             href: index.qmd#westby
@@ -77,6 +83,7 @@ website:
           - text: "6.3 Junior Nationals"
             href: index.qmd#junior-nationals
       - section: "7 - Transition Time"
+        href: index.qmd#time-of-transition
         contents:
           - text: "7.1 Glide Path"
             href: index.qmd#glide-path
@@ -85,6 +92,7 @@ website:
           - text: "7.3 Dynamic Duo"
             href: index.qmd#dynamic-duo
       - section: "8 - Merits of Ski Jumping"
+        href: index.qmd#merits
         contents:
           - text: "8.1 Physical + Mental"
             href: index.qmd#physical-mental
@@ -95,6 +103,7 @@ website:
           - text: "8.4 World Heritage"
             href: index.qmd#world-heritage
       - section: "9 - Evolution Snapshots"
+        href: index.qmd#evolution-snapshots
         contents:
           - text: "9.1 Hill Size Race"
             href: index.qmd#hill-size-race
@@ -103,6 +112,7 @@ website:
           - text: "9.3 Flight Style"
             href: index.qmd#flight-style
       - section: "10 - U.S. Ski Jumping Future"
+        href: index.qmd#us-ski-jumping-future
         contents:
           - text: "10.1 Midwest Status"
             href: index.qmd#midwest-status
@@ -113,6 +123,7 @@ website:
           - text: "10.4 Cultural Embrace"
             href: index.qmd#cultural-embrace
       - section: "Back Matter"
+        href: index.qmd#hall-of-gratitude
         contents:
           - text: "11 - Hall of Gratitude"
             href: index.qmd#hall-of-gratitude
