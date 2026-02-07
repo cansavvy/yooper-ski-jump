@@ -395,7 +395,7 @@ Powertrain
 precompression
 Prevc
 Pribyl
-propulson
+propulsion
 PyeongChang
 racquet
 Ragnar
@@ -403,7 +403,6 @@ Ragotzkie
 reacquaintance
 recontoured
 reprofiling
-retirment
 Rovaniemi
 Ryoyu
 Sandusky
