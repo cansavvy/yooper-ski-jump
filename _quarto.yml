@@ -139,8 +139,8 @@ website:
             href: index.qmd#appendix-hill-preparation
           - text: "17 - References"
             href: index.qmd#references
-      - section: "**DOWNLOAD KINDLE EPUB FILE**" 
-        href: https://raw.githubusercontent.com/cansavvy/yooper-ski-jump/refs/heads/main/Yooper-Ski-Jumping-Legacy.epub
+      - section: <br> 
+      - section: "<a class='btn btn-sm w-100' style='background-color: #0b2d5b; color: #fff;' href='https://raw.githubusercontent.com/cansavvy/yooper-ski-jump/refs/heads/main/Yooper-Ski-Jumping-Legacy.epub'>Download Kindle EPUB</a>"
   
   page-footer:
     left: |
