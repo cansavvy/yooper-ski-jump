@@ -2,7 +2,7 @@
 title: "A Yooper Ski Jumping Legacy"
 subtitle: "A Personal Memoir of Ski Jumping Experiences in Michigan's Upper Peninsula"
 author: "Craig Savonen"
-date: "December 22, 2025"
+date: "December, 2025"
 ---
 
 ![Willie Savonen - Junior Jumper](resources/images/book/willie-savonen-junior-jumper.jpeg){fig-align="center" width="60%"}
